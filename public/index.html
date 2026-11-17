@@ -1,0 +1,1305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AutoPulse Radar — Daily AI Tools, Tech Deals &amp; Remote Jobs</title>
+  <meta name="description" content="Real-time curated AI releases, 70%+ flash software/game deals, and global remote opportunities — updated automatically every 6 hours." />
+  <link rel="alternate" type="application/rss+xml" title="AutoPulse Radar — Daily AI Tools, Tech Deals &amp; Remote Jobs RSS" href="feed.xml" />
+  
+  <style>
+    :root {
+      --bg: #070b14;
+      --surface: #0f172a;
+      --surface-2: #162033;
+      --border: #1e293b;
+      --text: #f8fafc;
+      --muted: #94a3b8;
+      --accent: #38bdf8;
+      --accent-2: #10b981;
+      --warn: #f59e0b;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: radial-gradient(circle at top right, #0f1f3a 0%, var(--bg) 45%);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .container { max-width: 1180px; margin: 0 auto; padding: 0 20px; }
+    header.topbar {
+      border-bottom: 1px solid var(--border);
+      background: rgba(7, 11, 20, 0.85);
+      backdrop-filter: blur(12px);
+      position: sticky; top: 0; z-index: 50;
+    }
+    .topbar-inner {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 14px 0; gap: 16px; flex-wrap: wrap;
+    }
+    .brand { font-weight: 800; font-size: 1.1rem; color: var(--text); display: flex; align-items: center; gap: 8px; }
+    .brand-dot { width: 10px; height: 10px; border-radius: 999px; background: var(--accent-2); box-shadow: 0 0 12px var(--accent-2); }
+    nav.nav-links { display: flex; gap: 18px; align-items: center; flex-wrap: wrap; font-size: 0.92rem; }
+    nav.nav-links a { color: var(--muted); font-weight: 500; }
+    nav.nav-links a:hover { color: var(--text); text-decoration: none; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+      padding: 10px 18px; border-radius: 10px; font-weight: 600; font-size: 0.92rem;
+      border: 1px solid transparent; cursor: pointer; transition: transform .15s ease, opacity .15s ease;
+    }
+    .btn:hover { transform: translateY(-1px); text-decoration: none; opacity: 0.95; }
+    .btn-primary { background: linear-gradient(135deg, #0ea5e9, #10b981); color: #041018; }
+    .btn-secondary { background: var(--surface-2); color: var(--text); border-color: var(--border); }
+    .hero { padding: 48px 0 32px; }
+    .pill {
+      display: inline-block; padding: 4px 12px; border-radius: 999px; font-size: 0.78rem;
+      font-weight: 700; letter-spacing: 0.03em; background: rgba(16, 185, 129, 0.14);
+      color: var(--accent-2); border: 1px solid rgba(16, 185, 129, 0.35);
+    }
+    h1 { font-size: clamp(1.8rem, 4vw, 2.9rem); line-height: 1.15; margin: 14px 0; letter-spacing: -0.02em; }
+    .lead { color: var(--muted); font-size: 1.05rem; max-width: 760px; }
+    .vault-banner {
+      margin: 28px 0; padding: 26px; border-radius: 16px;
+      background: linear-gradient(135deg, rgba(14, 165, 233, 0.16), rgba(16, 185, 129, 0.12));
+      border: 1px solid rgba(56, 189, 248, 0.35);
+      display: grid; grid-template-columns: 1fr auto; gap: 20px; align-items: center;
+    }
+    @media (max-width: 760px) { .vault-banner { grid-template-columns: 1fr; } }
+    .controls {
+      display: flex; gap: 12px; flex-wrap: wrap; align-items: center;
+      justify-content: space-between; margin: 28px 0 18px;
+    }
+    .tabs { display: flex; gap: 8px; flex-wrap: wrap; }
+    .tab-btn {
+      padding: 8px 14px; border-radius: 8px; border: 1px solid var(--border);
+      background: var(--surface); color: var(--muted); font-weight: 600; cursor: pointer;
+    }
+    .tab-btn.active { background: var(--accent); color: #041018; border-color: var(--accent); }
+    .search-input {
+      background: var(--surface); border: 1px solid var(--border); color: var(--text);
+      padding: 10px 14px; border-radius: 10px; min-width: 260px; font-size: 0.95rem;
+    }
+    .grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(310px, 1fr)); gap: 18px;
+    }
+    .card {
+      background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
+      padding: 18px; display: flex; flex-direction: column; justify-content: space-between; gap: 12px;
+    }
+    .card:hover { border-color: #334155; }
+    .card-thumb { width: 100%; height: 145px; object-fit: cover; border-radius: 10px; background: #0b1220; }
+    .card-top { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+    .badge {
+      font-size: 0.75rem; font-weight: 800; padding: 3px 9px; border-radius: 6px;
+      background: rgba(56, 189, 248, 0.16); color: var(--accent);
+    }
+    .badge-deal { background: rgba(16, 185, 129, 0.18); color: var(--accent-2); }
+    .badge-job { background: rgba(245, 158, 11, 0.18); color: var(--warn); }
+    .card h3 { margin: 0; font-size: 1.05rem; line-height: 1.35; }
+    .card p { margin: 0; color: var(--muted); font-size: 0.9rem; }
+    .card-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 4px; }
+    .partner-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 14px; margin: 34px 0;
+    }
+    .partner-card {
+      background: var(--surface-2); border: 1px solid var(--border); border-radius: 12px; padding: 16px;
+    }
+    table.compare {
+      width: 100%; border-collapse: collapse; margin: 18px 0; background: var(--surface);
+      border: 1px solid var(--border); border-radius: 10px; overflow: hidden;
+    }
+    table.compare th, table.compare td {
+      padding: 12px 14px; text-align: left; border-bottom: 1px solid var(--border); font-size: 0.92rem;
+    }
+    table.compare th { background: var(--surface-2); color: var(--accent); }
+    footer.site-footer {
+      border-top: 1px solid var(--border); margin-top: 56px; padding: 30px 0 48px;
+      color: var(--muted); font-size: 0.85rem;
+    }
+    .hidden { display: none !important; }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a class="brand" href="index.html"><span class="brand-dot"></span> AutoPulse Radar</a>
+      <nav class="nav-links">
+        <a href="#feed">Live Feed (66)</a>
+        <a href="#vault-offer">AI Mega Vault ($19)</a>
+        <a href="feed.xml">RSS</a>
+        <a href="sitemap.xml">Sitemap</a>
+        <a class="btn btn-secondary" href="setup-guide.html">⚙️ Kurulum &amp; Config</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <span class="pill">AUTO-UPDATED EVERY 6 HOURS • 2026-11-17 21:06 UTC</span>
+      <h1>AutoPulse Radar — Daily AI Tools, Tech Deals &amp; Remote Jobs</h1>
+      <p class="lead">Real-time curated AI releases, 70%+ flash software/game deals, and global remote opportunities — updated automatically every 6 hours.</p>
+
+      <div id="vault-offer" class="vault-banner">
+        <div>
+          <span class="pill" style="background:rgba(56,189,248,0.16);color:var(--accent);border-color:rgba(56,189,248,0.35);">DIGITAL DOWNLOAD • INSTANT ACCESS</span>
+          <h2 style="margin:10px 0 6px;">2026 AI &amp; Automation Mega Vault (50+ Copy-Paste Prompts &amp; Workflows)</h2>
+          <p style="margin:0;color:var(--muted);">Plug-and-play prompt frameworks, faceless content engines, SaaS validation scorecards &amp; monetization playbooks.</p>
+        </div>
+        <div style="display:flex;flex-direction:column;gap:8px;min-width:210px;">
+          <a class="btn btn-primary" href="https://kocomeralp.gumroad.com/l/eywyaf" target="_blank" rel="noopener noreferrer">
+            Unlock Mega Vault ($19) →
+          </a>
+          <span style="font-size:0.78rem;color:var(--muted);text-align:center;">Instant Gumroad PDF/HTML Delivery</span>
+        </div>
+      </div>
+
+      
+    </section>
+
+    <section id="feed">
+      <div class="controls">
+        <div class="tabs" role="tablist">
+          <button class="tab-btn active" data-filter="all">All (66)</button>
+          <button class="tab-btn" data-filter="deal">Flash Deals (24)</button>
+          <button class="tab-btn" data-filter="ai">AI Tools &amp; Guides (27)</button>
+          <button class="tab-btn" data-filter="job">Remote Jobs (15)</button>
+        </div>
+        <input id="searchBox" class="search-input" type="search" placeholder="Filter deals, AI tools, or remote roles..." aria-label="Search items" />
+      </div>
+
+      <div id="itemsGrid" class="grid">
+        
+      <article class="card item-card" data-category="deal" data-search="ashes of the singularity ii ashes of the singularity ii is currently discounted by 35% down to $25.91 from $39.99. rating: mixed (68%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3499790/9b9f8e8896417ae73ee60cffc30b069864163878/capsule_231x87.jpg?t=1794576706" alt="Ashes of the Singularity II" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-35%</strong>
+          </div>
+          <h3 style="margin-top:8px;">Ashes of the Singularity II</h3>
+          <p style="margin-top:6px;">35% OFF — $25.91 (Reg. $39.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=bB3LIPi1TbVmxJ0oe6mQawHpMzxTsHlVgmOTwPlxq%252BA%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/ashes-of-the-singularity-ii-deal1.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="need for speed heat deluxe edition need for speed heat deluxe edition is currently discounted by 95% down to $3.49 from $69.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://cdn1.epicgames.com/spt-assets/f4241a8649244c5693450ebda42f935b/need-for-speed-heat-1lhdh.jpg" alt="Need for Speed Heat Deluxe Edition" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-95%</strong>
+          </div>
+          <h3 style="margin-top:8px;">Need for Speed Heat Deluxe Edition</h3>
+          <p style="margin-top:6px;">95% OFF — $3.49 (Reg. $69.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=GQYhHzOtQcCuICwD5sXBHG91ZHdsyxYRQbVgR%252Bs4Kbc%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/need-for-speed-heat-deluxe-edition-deal2.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="battlefield 2042 elite edition battlefield 2042 elite edition is currently discounted by 95% down to $4.49 from $89.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://cdn2.unrealengine.com/egs-battlefield2042eliteedition-dice-editions-s2-1200x1600-ba446511ada9.jpg" alt="Battlefield 2042 Elite Edition" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-95%</strong>
+          </div>
+          <h3 style="margin-top:8px;">Battlefield 2042 Elite Edition</h3>
+          <p style="margin-top:6px;">95% OFF — $4.49 (Reg. $89.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=R5%252BjR4JAIKfsladpdimmTohNsOEZvvqE%252Fd1PVTV6eUQ%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/battlefield-2042-elite-edition-deal3.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="suicide squad: kill the justice league - digital deluxe edition suicide squad: kill the justice league - digital deluxe edition is currently discounted by 95% down to $4.99 from $99.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://sttc.gamersgate.com/images/product/suicide-squad-kill-the-justice-league-digital-deluxe-edition/cover-180-c29cf2.jpg" alt="Suicide Squad: Kill the Justice League - Digital Deluxe Edition" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-95%</strong>
+          </div>
+          <h3 style="margin-top:8px;">Suicide Squad: Kill the Justice League - Digital Deluxe Edition</h3>
+          <p style="margin-top:6px;">95% OFF — $4.99 (Reg. $99.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=x9sPdlHkKso7HR7cc6%252Fo5AGZnAm5K7EAdnDknBAJoWY%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal4.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="hogwarts legacy: digital deluxe edition hogwarts legacy: digital deluxe edition is currently discounted by 90% down to $6.99 from $69.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://cdn.fanatical.com/production/product/400x225/84c9abcd-0085-40bf-bb00-c3ff9b423e4a.jpeg" alt="Hogwarts Legacy: Digital Deluxe Edition" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-90%</strong>
+          </div>
+          <h3 style="margin-top:8px;">Hogwarts Legacy: Digital Deluxe Edition</h3>
+          <p style="margin-top:6px;">90% OFF — $6.99 (Reg. $69.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=W4jVFn5VIQifiR4zCaXKF64M3CL7pYaPORPFgBN9FLo%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/hogwarts-legacy-digital-deluxe-edition-deal5.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="dead space digital deluxe edition dead space digital deluxe edition is currently discounted by 90% down to $6.99 from $69.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://www.cheapshark.com/img/default_box_art.png" alt="Dead Space Digital Deluxe Edition" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-90%</strong>
+          </div>
+          <h3 style="margin-top:8px;">Dead Space Digital Deluxe Edition</h3>
+          <p style="margin-top:6px;">90% OFF — $6.99 (Reg. $69.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=qfLzLtajDO2UT2Ob6qjQlkOtgGrTGsF5o58b5LzLEu0%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/dead-space-digital-deluxe-edition-deal6.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="lego star wars: the skywalker saga galactic edition lego star wars: the skywalker saga galactic edition is currently discounted by 90% down to $6.99 from $69.99. rating: very positive (90%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/785847/capsule_231x87.jpg?t=1698432746" alt="LEGO Star Wars: The Skywalker Saga Galactic Edition" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-90%</strong>
+          </div>
+          <h3 style="margin-top:8px;">LEGO Star Wars: The Skywalker Saga Galactic Edition</h3>
+          <p style="margin-top:6px;">90% OFF — $6.99 (Reg. $69.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=rhjZaOK2WRuFXvmbrkGdq%252B6JlGXFFLSYOItEJTVEZ60%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/lego-star-wars-the-skywalker-saga-galactic-edition-deal7.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="immortals of aveum deluxe edition immortals of aveum deluxe edition is currently discounted by 90% down to $6.99 from $69.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://cdn2.unrealengine.com/egs-immortalsofaveumdeluxeedition-ascendantstudios-editions-s2-1200x1600-dde52375a8ad.jpg" alt="Immortals of Aveum Deluxe Edition" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-90%</strong>
+          </div>
+          <h3 style="margin-top:8px;">Immortals of Aveum Deluxe Edition</h3>
+          <p style="margin-top:6px;">90% OFF — $6.99 (Reg. $69.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=Go76Xfz1d6FYF1CeZfy0FHKlMoW029FzeEims4aB60Q%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/immortals-of-aveum-deluxe-edition-deal8.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="dead island 2 ultimate edition dead island 2 ultimate edition is currently discounted by 90% down to $6.99 from $69.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://cdn.humblebundle.com/misc/files/hashed/ea4b53bccf50d3165e099e604c6c7496a546914f.jpg" alt="Dead Island 2 Ultimate Edition" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-90%</strong>
+          </div>
+          <h3 style="margin-top:8px;">Dead Island 2 Ultimate Edition</h3>
+          <p style="margin-top:6px;">90% OFF — $6.99 (Reg. $69.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=pRQ%252F68YDxNG4fEjdaFFvamT0tdj2ZcPlv0TLlQ2zVEA%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/dead-island-2-ultimate-edition-deal9.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="ea sports pga tour deluxe edition ea sports pga tour deluxe edition is currently discounted by 90% down to $8.49 from $84.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://cdn2.unrealengine.com/egs-easportspgatourdeluxeedition-electronicartstiburon-editions-s2-1200x1600-c4d418a0e7fb.jpg" alt="EA SPORTS PGA TOUR Deluxe Edition" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-90%</strong>
+          </div>
+          <h3 style="margin-top:8px;">EA SPORTS PGA TOUR Deluxe Edition</h3>
+          <p style="margin-top:6px;">90% OFF — $8.49 (Reg. $84.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=LP38E%252B2cb%252FoH25XYKA8vb7HF2FKGDFoiFvgUaul9VCE%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/ea-sports-pga-tour-deluxe-edition-deal10.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="wild hearts karakuri edition wild hearts karakuri edition is currently discounted by 90% down to $8.99 from $89.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://cdn2.unrealengine.com/egs-wildheartskarakuriedition-koeitecmogamescoltd-editions-s2-1200x1600-c7c5888c48c2.jpg" alt="WILD HEARTS Karakuri Edition" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-90%</strong>
+          </div>
+          <h3 style="margin-top:8px;">WILD HEARTS Karakuri Edition</h3>
+          <p style="margin-top:6px;">90% OFF — $8.99 (Reg. $89.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=x9mjvQ1tv3Jl4xWaYJM0fFxf1kn0t2nPZmcaQnEx9Q8%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/wild-hearts-karakuri-edition-deal11.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="the book of unwritten tales collection the book of unwritten tales collection is currently discounted by 89% down to $7.99 from $69.95. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://sttc.gamersgate.com/images/product/the-book-of-unwritten-tales-collection/cover-180-72dc4c.jpg" alt="The Book of Unwritten Tales Collection" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-89%</strong>
+          </div>
+          <h3 style="margin-top:8px;">The Book of Unwritten Tales Collection</h3>
+          <p style="margin-top:6px;">89% OFF — $7.99 (Reg. $69.95)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=atVBzdCGbdc5VWjW6wtGCD%252Fa190qthDq45We4qtokmY%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/the-book-of-unwritten-tales-collection-deal12.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="darksiders blades and whip franchise pack darksiders blades and whip franchise pack is currently discounted by 88% down to $9.49 from $79.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://sttc.gamersgate.com/images/product/darksiders-blades-whip-franchise-pack/cover-180-1f9c00.jpg" alt="Darksiders Blades and Whip Franchise Pack" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-88%</strong>
+          </div>
+          <h3 style="margin-top:8px;">Darksiders Blades and Whip Franchise Pack</h3>
+          <p style="margin-top:6px;">88% OFF — $9.49 (Reg. $79.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=jUIksCf7OKL1gDeMjhT%252Fx%252Bi7HWhFLcE2qWzPWrrvzmI%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="need for speed unbound palace edition need for speed unbound palace edition is currently discounted by 88% down to $9.59 from $79.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://cdn2.unrealengine.com/egs-needforspeedunboundpalaceedition-criteriongames-editions-s2-1200x1600-91354dbb035e.jpg" alt="Need for Speed Unbound Palace Edition" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-88%</strong>
+          </div>
+          <h3 style="margin-top:8px;">Need for Speed Unbound Palace Edition</h3>
+          <p style="margin-top:6px;">88% OFF — $9.59 (Reg. $79.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=YD5X6dY7VC35XOHlwZwh2ttQJwN2S%252BFJbknbU8EhpP4%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="the king of fighters xiv steam edition deluxe pack the king of fighters xiv steam edition deluxe pack is currently discounted by 88% down to $9.34 from $74.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://sttc.gamersgate.com/images/product/the-king-of-fighters-xiv-steam-edition-deluxe-pack/cover-180-c386aa.jpg" alt="THE KING OF FIGHTERS XIV STEAM EDITION DELUXE PACK" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-88%</strong>
+          </div>
+          <h3 style="margin-top:8px;">THE KING OF FIGHTERS XIV STEAM EDITION DELUXE PACK</h3>
+          <p style="margin-top:6px;">88% OFF — $9.34 (Reg. $74.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=y2eiGKKAsTdsuj6iMUfytl3NwxJxOH0YKcrWpJKh98Q%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="the king of fighters xiv steam edition deluxe pack the king of fighters xiv steam edition deluxe pack is currently discounted by 87% down to $9.38 from $74.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://sttc.gamersgate.com/images/product/the-king-of-fighters-xiv-steam-edition-deluxe-pack/cover-180-c386aa.jpg" alt="THE KING OF FIGHTERS XIV STEAM EDITION DELUXE PACK" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-87%</strong>
+          </div>
+          <h3 style="margin-top:8px;">THE KING OF FIGHTERS XIV STEAM EDITION DELUXE PACK</h3>
+          <p style="margin-top:6px;">87% OFF — $9.38 (Reg. $74.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=ZxZxgeLkuP7Vy2s0c%252FutA9Bkn%252B6hIp%252BXFAQH%252Flyzbxg%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="the king of fighters xiv steam edition deluxe pack the king of fighters xiv steam edition deluxe pack is currently discounted by 87% down to $9.48 from $74.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://sttc.gamersgate.com/images/product/the-king-of-fighters-xiv-steam-edition-deluxe-pack/cover-180-c386aa.jpg" alt="THE KING OF FIGHTERS XIV STEAM EDITION DELUXE PACK" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-87%</strong>
+          </div>
+          <h3 style="margin-top:8px;">THE KING OF FIGHTERS XIV STEAM EDITION DELUXE PACK</h3>
+          <p style="margin-top:6px;">87% OFF — $9.48 (Reg. $74.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=c4eafQffkMm%252BBgemxjWHWauGLxPi6xvwpUtskhxINM4%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="contractor: the clean up part ii contractor: the clean up part ii is currently discounted by 100% down to $0.00 from $3.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://cdn1.epicgames.com/spt-assets/45a0995f31e348739b814de2cb32674b/contractor-the-clean-up-part-ii-io7r5.png" alt="Contractor: The Clean Up Part II" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-100%</strong>
+          </div>
+          <h3 style="margin-top:8px;">Contractor: The Clean Up Part II</h3>
+          <p style="margin-top:6px;">100% OFF — $0.00 (Reg. $3.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=9C%252B2hwINwXpuTAKoxmx56nS29WPr5Tt9tH%252BCX7Ls1uQ%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="hot wheels unleashed 2 - turbocharged - legendary edition hot wheels unleashed 2 - turbocharged - legendary edition is currently discounted by 85% down to $11.99 from $79.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://cdn2.unrealengine.com/egs-hotwheelsunleashed2legendaryedition-milestonesrl-editions-s2-1200x1600-da012665a17f.jpg" alt="HOT WHEELS UNLEASHED 2 - Turbocharged - Legendary Edition" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-85%</strong>
+          </div>
+          <h3 style="margin-top:8px;">HOT WHEELS UNLEASHED 2 - Turbocharged - Legendary Edition</h3>
+          <p style="margin-top:6px;">85% OFF — $11.99 (Reg. $79.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=ANlw1FO%252B%252FenSIEBJSGE3hjqkbsViE7pBnCiLFcY9VFM%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="pro basketball manager 2027 pro basketball manager 2027 is currently discounted by 27% down to $25.54 from $34.99. rating: positive (84%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4411720/a61b246c8ba47b2ac332301094d1cfad1cb8fa58/capsule_231x87.jpg?t=1794755119" alt="Pro Basketball Manager 2027" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-27%</strong>
+          </div>
+          <h3 style="margin-top:8px;">Pro Basketball Manager 2027</h3>
+          <p style="margin-top:6px;">27% OFF — $25.54 (Reg. $34.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=3ajWjhNSwTN8Cn8cWRhrsfJStxKHKNeHCg7gnJcQetw%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="need for speed unbound ultimate collection need for speed unbound ultimate collection is currently discounted by 85% down to $12.74 from $84.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://cdn2.unrealengine.com/egs-needforspeedunboundultimatecollection-criteriongames-editions-s2-1200x1600-6770c61e4a39.jpg" alt="Need for Speed Unbound Ultimate Collection" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-85%</strong>
+          </div>
+          <h3 style="margin-top:8px;">Need for Speed Unbound Ultimate Collection</h3>
+          <p style="margin-top:6px;">85% OFF — $12.74 (Reg. $84.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=YU1IRBM1Xv2mjenWh1MlJ7NqsnzkUA7%252Fnvp0bewJoys%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="for honor  ultimate edition for honor  ultimate edition is currently discounted by 85% down to $13.49 from $89.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://store.ubisoft.com/dw/image/v2/ABBS_PRD/on/demandware.static/-/Sites-masterCatalog/default/dw8a5d2786/images/large/659ea86929c01c38968dce15.jpg?sw=197&amp;amp;sh=261&amp;amp;sm=fit" alt="FOR HONOR  Ultimate Edition" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-85%</strong>
+          </div>
+          <h3 style="margin-top:8px;">FOR HONOR  Ultimate Edition</h3>
+          <p style="margin-top:6px;">85% OFF — $13.49 (Reg. $89.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=XrzDtG9LnyCb%252BUt5AKhZhv6FVER%252FABWQy0vPgP7Q%252FZ8%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="the king of fighters xiv steam edition deluxe pack the king of fighters xiv steam edition deluxe pack is currently discounted by 85% down to $11.25 from $74.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://sttc.gamersgate.com/images/product/the-king-of-fighters-xiv-steam-edition-deluxe-pack/cover-180-c386aa.jpg" alt="THE KING OF FIGHTERS XIV STEAM EDITION DELUXE PACK" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-85%</strong>
+          </div>
+          <h3 style="margin-top:8px;">THE KING OF FIGHTERS XIV STEAM EDITION DELUXE PACK</h3>
+          <p style="margin-top:6px;">85% OFF — $11.25 (Reg. $74.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=rv7mTddvgW%252BVLTcYryzxs1LC1YtSdOZUNYQK5rof25k%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="deal" data-search="dead island 2 ultimate edition dead island 2 ultimate edition is currently discounted by 90% down to $6.99 from $69.99. rating: verified (0%). flash deal">
+        <div>
+          <img class="card-thumb" src="https://cdn.humblebundle.com/misc/files/hashed/ea4b53bccf50d3165e099e604c6c7496a546914f.jpg" alt="Dead Island 2 Ultimate Edition" loading="lazy" />
+          <div class="card-top" style="margin-top:10px;">
+            <span class="badge badge-deal">Flash Deal</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">-90%</strong>
+          </div>
+          <h3 style="margin-top:8px;">Dead Island 2 Ultimate Edition</h3>
+          <p style="margin-top:6px;">90% OFF — $6.99 (Reg. $69.99)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.cheapshark.com/redirect?dealID=sRLxoWx7sqRIloa4OEm5coyZF8kRuBfKInGomtFNhkg%253D&amp;utm_source=autopulse&amp;utm_medium=radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="paritok-official/paritok-4b-v1 non-destructive compression gateway for ai coding agents. cuts token bills 25% on turn 1 to past 85% in long or saturated sessions, and fits ~3× more turns in the same context window. powered by our open-source code-native 4b model. drop-in for claude code, cursor, codex, openhands, and any base_url agent. github ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">GitHub AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">★ 1,447</strong>
+          </div>
+          <h3 style="margin-top:8px;">Paritok-official/paritok-4b-v1</h3>
+          <p style="margin-top:6px;">GitHub AI • Python • 1,447 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://github.com/Paritok-official/paritok-4b-v1?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/paritok-official-paritok-4b-v1-ai1.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="juliusbrussee/caveman 🪨 why use many token when few token do trick. viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman. github ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">GitHub AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">★ 121,032</strong>
+          </div>
+          <h3 style="margin-top:8px;">JuliusBrussee/caveman</h3>
+          <p style="margin-top:6px;">GitHub AI • Go • 121,032 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://github.com/JuliusBrussee/caveman?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/juliusbrussee-caveman-ai2.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="pingdotgg/t3code the best way to control claude code, codex and more from any computer or phone github ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">GitHub AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">★ 63,987</strong>
+          </div>
+          <h3 style="margin-top:8px;">pingdotgg/t3code</h3>
+          <p style="margin-top:6px;">GitHub AI • TypeScript • 63,987 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://github.com/pingdotgg/t3code?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/pingdotgg-t3code-ai3.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="heygen-com/hyperframes write html. render video. built for agents. github ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">GitHub AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">★ 85,914</strong>
+          </div>
+          <h3 style="margin-top:8px;">heygen-com/hyperframes</h3>
+          <p style="margin-top:6px;">GitHub AI • TypeScript • 85,914 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://github.com/heygen-com/hyperframes?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/heygen-com-hyperframes-ai4.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="thedotmack/claude-mem persistent context across sessions for every agent –  captures everything your agent does during sessions, compresses it with ai, and injects relevant context back into future sessions. works with claude code, openclaw, codex, gemini, hermes, copilot, opencode + more github ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">GitHub AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">★ 117,965</strong>
+          </div>
+          <h3 style="margin-top:8px;">thedotmack/claude-mem</h3>
+          <p style="margin-top:6px;">GitHub AI • TypeScript • 117,965 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://github.com/thedotmack/claude-mem?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/thedotmack-claude-mem-ai5.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="clusterzx/paperless-ai ai companion for paperless-ngx: automatically titles, tags and files your documents, reads bad scans with local ocr (paddleocr, cpu/gpu) and answers questions about your whole archive with cited sources. works with openai, claude, ollama (fully local), azure and any openai-compatible api. github ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">GitHub AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">★ 6,088</strong>
+          </div>
+          <h3 style="margin-top:8px;">clusterzx/paperless-ai</h3>
+          <p style="margin-top:6px;">GitHub AI • TypeScript • 6,088 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://github.com/clusterzx/paperless-ai?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/clusterzx-paperless-ai-ai6.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="paperless-ngx/paperless-ngx a community-supported supercharged document management system: scan, index and archive all your documents github ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">GitHub AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">★ 48,220</strong>
+          </div>
+          <h3 style="margin-top:8px;">paperless-ngx/paperless-ngx</h3>
+          <p style="margin-top:6px;">GitHub AI • Python • 48,220 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://github.com/paperless-ngx/paperless-ngx?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/paperless-ngx-paperless-ngx-ai7.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="supabase/supabase the postgres development platform. supabase gives you a dedicated postgres database to build your web, mobile, and ai applications. github ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">GitHub AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">★ 115,279</strong>
+          </div>
+          <h3 style="margin-top:8px;">supabase/supabase</h3>
+          <p style="margin-top:6px;">GitHub AI • TypeScript • 115,279 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://github.com/supabase/supabase?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/supabase-supabase-ai8.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="n8n-io/n8n fair-code workflow automation platform with native ai capabilities. combine visual building with custom code, self-host or cloud, 400+ integrations. github ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">GitHub AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">★ 210,925</strong>
+          </div>
+          <h3 style="margin-top:8px;">n8n-io/n8n</h3>
+          <p style="margin-top:6px;">GitHub AI • TypeScript • 210,925 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://github.com/n8n-io/n8n?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/n8n-io-n8n-ai9.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="rcourtman/pulse real-time monitoring dashboard for proxmox ve, pbs, docker, kubernetes, truenas and vsphere. self-hosted, with alerts for failed backups, full disks, unhealthy containers and offline nodes. github ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">GitHub AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">★ 7,129</strong>
+          </div>
+          <h3 style="margin-top:8px;">rcourtman/Pulse</h3>
+          <p style="margin-top:6px;">GitHub AI • Go • 7,129 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://github.com/rcourtman/Pulse?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/rcourtman-pulse-ai10.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="langchain-ai/deepagents the batteries-included agent harness. github ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">GitHub AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">★ 31,366</strong>
+          </div>
+          <h3 style="margin-top:8px;">langchain-ai/deepagents</h3>
+          <p style="margin-top:6px;">GitHub AI • Python • 31,366 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://github.com/langchain-ai/deepagents?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/langchain-ai-deepagents-ai11.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="vercel-labs/ui a library of behaviors for agents to build the next generation of user interfaces. github ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">GitHub AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">★ 5,529</strong>
+          </div>
+          <h3 style="margin-top:8px;">vercel-labs/ui</h3>
+          <p style="margin-top:6px;">GitHub AI • TypeScript • 5,529 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://github.com/vercel-labs/ui?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/vercel-labs-ui-ai12.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="langchain-ai/langchain the agent engineering platform. github ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">GitHub AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">★ 149,790</strong>
+          </div>
+          <h3 style="margin-top:8px;">langchain-ai/langchain</h3>
+          <p style="margin-top:6px;">GitHub AI • Python • 149,790 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://github.com/langchain-ai/langchain?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="akdeb/elatoai realtime voice ai with 100+ models on arduino esp32 with secure websockets &amp; edge functions for ai toys, desk companions and devices github ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">GitHub AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">★ 2,121</strong>
+          </div>
+          <h3 style="margin-top:8px;">akdeb/ElatoAI</h3>
+          <p style="margin-top:6px;">GitHub AI • TypeScript • 2,121 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://github.com/akdeb/ElatoAI?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="logancyang/obsidian-copilot run agents in obsidian - opencode, codex, claude code etc. github ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">GitHub AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">★ 8,008</strong>
+          </div>
+          <h3 style="margin-top:8px;">logancyang/obsidian-copilot</h3>
+          <p style="margin-top:6px;">GitHub AI • TypeScript • 8,008 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://github.com/logancyang/obsidian-copilot?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="long live rails when dhh took the stage at rails world 2026 and talked openly about going &quot;pencils down&quot; on... dev.to ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">Dev.to AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">♥ 140</strong>
+          </div>
+          <h3 style="margin-top:8px;">Long Live Rails</h3>
+          <p style="margin-top:6px;">Dev.to AI • rails, ruby • 140 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://dev.to/ben/long-live-rails-3p21?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="mcp is dead simple. and that&#39;s exactly the problem what exactly is mcp? is it some mysterious technology that requires secret knowledge to implement?... dev.to ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">Dev.to AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">♥ 206</strong>
+          </div>
+          <h3 style="margin-top:8px;">MCP Is Dead Simple. And That&#39;s Exactly the Problem</h3>
+          <p style="margin-top:6px;">Dev.to AI • mcp, ai • 206 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://dev.to/sylwia-lask/mcp-is-dead-simple-and-thats-exactly-the-problem-5811?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="congrats to the hacktoberfest open-source ai challenge week 4: ghost in the machine winners! the results are in for the final week of our hacktoberfest dev challenges! for ghost in the machine,... dev.to ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">Dev.to AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">♥ 112</strong>
+          </div>
+          <h3 style="margin-top:8px;">Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!</h3>
+          <p style="margin-top:6px;">Dev.to AI • devchallenge, hf26challenge • 112 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="ghost rovers: i called 12 machines nasa left behind. one picked up. a 1969 mission control console for kids. built in one day for nasa space apps 2026.   tl;dr: for nasa... dev.to ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">Dev.to AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">♥ 63</strong>
+          </div>
+          <h3 style="margin-top:8px;">Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.</h3>
+          <p style="margin-top:6px;">Dev.to AI • ai, webdev • 63 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://dev.to/earlgreyhot1701d/ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-2575?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="ai is getting better. here is my plan to stay ahead. ai is getting better every day.  as a software engineer, this is a topic that is often top of mind,... dev.to ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">Dev.to AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">♥ 50</strong>
+          </div>
+          <h3 style="margin-top:8px;">AI is getting better. Here is my plan to stay ahead.</h3>
+          <p style="margin-top:6px;">Dev.to AI • ai, productivity • 50 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://dev.to/javz/ai-is-getting-better-here-is-my-plan-to-stay-ahead-2822?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="we keep hearing about ai productivity. the qa group chat told a different story. an anonymous poll, a debate about multimodal testing, and some uncomfortable questions about who... dev.to ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">Dev.to AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">♥ 114</strong>
+          </div>
+          <h3 style="margin-top:8px;">We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.</h3>
+          <p style="margin-top:6px;">Dev.to AI • ai, discuss • 114 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="ask more of your ui in my last post, i wrote about moving forem’s performance and maintenance work into autonomous loops... dev.to ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">Dev.to AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">♥ 61</strong>
+          </div>
+          <h3 style="margin-top:8px;">Ask More of Your UI</h3>
+          <p style="margin-top:6px;">Dev.to AI • ai, agents • 61 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://dev.to/dailycontext/ask-more-of-your-ui-2nf7?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="ultimate ai roast! 😂😹 i asked my favorite ai to roast me. thanks @trickell for this idea.   you need to try this with your... dev.to ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">Dev.to AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">♥ 97</strong>
+          </div>
+          <h3 style="margin-top:8px;">Ultimate AI Roast! 😂😹</h3>
+          <p style="margin-top:6px;">Dev.to AI • ai, webdev • 97 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://dev.to/annavi11arrea1/ultimate-ai-roast-168b?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="ai avatar v28 (security support, voxel avatar)🛡️ intro   ai avatar is a free app where your vroid (vrm) avatar cheers you with all its... dev.to ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">Dev.to AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">♥ 51</strong>
+          </div>
+          <h3 style="margin-top:8px;">AI Avatar v28 (Security Support, Voxel Avatar)🛡️</h3>
+          <p style="margin-top:6px;">Dev.to AI • ai, webdev • 51 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://dev.to/webdeveloperhyper/ai-avatar-v28-security-support-voxel-avatar-2i5i?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="detecting flaky tests and finding their root causes with strands agents and gemini a few years ago (three years at most), one of the biggest challenges qa engineers faced was: how do... dev.to ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">Dev.to AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">♥ 84</strong>
+          </div>
+          <h3 style="margin-top:8px;">Detecting Flaky Tests and Finding Their Root Causes with Strands Agents and Gemini</h3>
+          <p style="margin-top:6px;">Dev.to AI • ai, testing • 84 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://dev.to/m4rri4nne/detecting-flaky-tests-and-finding-their-root-causes-with-strands-agents-and-gemini-4kan?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="can&#39;t beat free: gemma 4 31b on amd token lab, with a local chat page and an adk agent amd token lab is a free openai-compatible api on amd gpus that comes with the amd ai developer program. how to sign up, a local chat page that keeps the key off the browser, a terminal client, and a small adk agent that calls gemma 4 31b through it. dev.to ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">Dev.to AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">♥ 41</strong>
+          </div>
+          <h3 style="margin-top:8px;">Can&#39;t Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent</h3>
+          <p style="margin-top:6px;">Dev.to AI • gemma, amd • 41 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://dev.to/gde/cant-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-page-and-an-adk-agent-c5b?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="ai" data-search="remove.bg is shutting down — here&#39;s a free, no-upload alternative on december 1, 2026 at 9:00 am cet, remove.bg — the site that turned &quot;one-click background removal&quot;... dev.to ai">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge ">Dev.to AI</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">♥ 96</strong>
+          </div>
+          <h3 style="margin-top:8px;">remove.bg Is Shutting Down — Here&#39;s a Free, No-Upload Alternative</h3>
+          <p style="margin-top:6px;">Dev.to AI • showdev, webdev • 96 signals</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://dev.to/akhourianmolkumar/removebg-is-shutting-down-heres-a-free-no-upload-alternative-4ebo?utm_source=autopulse&amp;utm_medium=ai-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="job" data-search="web designer intern (m/f/d) hiring at cloud studios (remote (berlin)). skills &amp; tags: remote, media, screen and web design. remote job">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge badge-job">Remote Job</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">REMOTE</strong>
+          </div>
+          <h3 style="margin-top:8px;">Web Designer Intern (m/f/d)</h3>
+          <p style="margin-top:6px;">Cloud Studios • Remote (Berlin)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.arbeitnow.com/jobs/companies/cloud-studios/web-designer-intern-berlin-377326?utm_source=autopulse&amp;utm_medium=jobs-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/web-designer-intern-m-f-d-cloud-studios-job1.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="job" data-search="optimizer (gn.) - 100% remote - freelanceship hiring at accelerated (remote (hamburg)). skills &amp; tags: remote, online marketing. remote job">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge badge-job">Remote Job</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">REMOTE</strong>
+          </div>
+          <h3 style="margin-top:8px;">Optimizer (gn.) - 100% Remote - Freelanceship</h3>
+          <p style="margin-top:6px;">ACCELERATED • Remote (Hamburg)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.arbeitnow.com/jobs/companies/accelerated/optimizer-gn-100-remote-freelanceship-hamburg-310927?utm_source=autopulse&amp;utm_medium=jobs-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/optimizer-gn-100-remote-freelanceship-accelerated-job2.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="job" data-search="technischer aussendienstmitarbeiter*in (w/m/d) nord-ost hiring at iso-chemie gmbh (remote (aalen)). skills &amp; tags: remote, sales engineer. remote job">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge badge-job">Remote Job</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">REMOTE</strong>
+          </div>
+          <h3 style="margin-top:8px;">Technischer Aussendienstmitarbeiter*In (W/M/D) Nord-Ost</h3>
+          <p style="margin-top:6px;">ISO-Chemie GmbH • Remote (Aalen)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.arbeitnow.com/jobs/companies/iso-chemie-gmbh/technischer-aussendienstmitarbeiterin-nord-ost-aalen-272448?utm_source=autopulse&amp;utm_medium=jobs-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/technischer-aussendienstmitarbeiter-in-w-m-d-nord-ost-iso-chemie-job3.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="job" data-search="praktikum hr &amp; people operations (m/w/d) - 100% homeoffice / remote - startoption: januar oder märz 2027 hiring at teachy education (remote (freiburg im breisgau)). skills &amp; tags: remote, personnel specialist. remote job">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge badge-job">Remote Job</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">REMOTE</strong>
+          </div>
+          <h3 style="margin-top:8px;">Praktikum HR &amp; People Operations (m/w/d) - 100% Homeoffice / Remote - Startoption: Januar oder März 2027</h3>
+          <p style="margin-top:6px;">TEACHY Education • Remote (Freiburg im Breisgau)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.arbeitnow.com/jobs/companies/teachy-education/praktikum-hr-people-operations-100-homeoffice-remote-startoption-januar-oder-marz-2027-freiburg-im-breisgau-278047?utm_source=autopulse&amp;utm_medium=jobs-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/praktikum-hr-people-operations-m-w-d-100-homeoffice-remote-start-job4.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="job" data-search="founding marketer hiring at logistica os (remote (berlin)). skills &amp; tags: remote, marketing manager. remote job">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge badge-job">Remote Job</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">REMOTE</strong>
+          </div>
+          <h3 style="margin-top:8px;">Founding Marketer</h3>
+          <p style="margin-top:6px;">Logistica OS • Remote (Berlin)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.arbeitnow.com/jobs/companies/logistica-os/founding-marketer-berlin-228201?utm_source=autopulse&amp;utm_medium=jobs-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/founding-marketer-logistica-os-job5.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="job" data-search="technik serwisu (m/k/d) programowanie plc hiring at eggersmann - gruppe (remote (ibbenbüren)). skills &amp; tags: remote, automation engineering. remote job">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge badge-job">Remote Job</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">REMOTE</strong>
+          </div>
+          <h3 style="margin-top:8px;">Technik serwisu (m/k/d) Programowanie PLC</h3>
+          <p style="margin-top:6px;">Eggersmann - Gruppe • Remote (Ibbenbüren)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.arbeitnow.com/jobs/companies/eggersmann-gruppe/technik-serwisu-programowanie-plc-ibbenburen-70116?utm_source=autopulse&amp;utm_medium=jobs-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/technik-serwisu-m-k-d-programowanie-plc-eggersmann-gruppe-job6.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="job" data-search="director, customer success strategy &amp; operations hiring at spring health (remote (remote)). skills &amp; tags: sales. remote job">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge badge-job">Remote Job</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">REMOTE</strong>
+          </div>
+          <h3 style="margin-top:8px;">Director, Customer Success Strategy &amp; Operations</h3>
+          <p style="margin-top:6px;">Spring Health • Remote (Remote)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.arbeitnow.com/jobs/companies/spring-health/remote-director-customer-success-strategy-operations-390998?utm_source=autopulse&amp;utm_medium=jobs-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/director-customer-success-strategy-operations-spring-health-job7.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="job" data-search="manager, billing operations hiring at spring health (remote (remote)). skills &amp; tags: operations. remote job">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge badge-job">Remote Job</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">REMOTE</strong>
+          </div>
+          <h3 style="margin-top:8px;">Manager, Billing Operations</h3>
+          <p style="margin-top:6px;">Spring Health • Remote (Remote)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.arbeitnow.com/jobs/companies/spring-health/remote-manager-billing-operations-468482?utm_source=autopulse&amp;utm_medium=jobs-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/manager-billing-operations-spring-health-job8.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="job" data-search="lead consultant cyber security (m/w/d) hiring at jamorie consulting gmbh (remote (berlin)). skills &amp; tags: remote, it security. remote job">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge badge-job">Remote Job</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">REMOTE</strong>
+          </div>
+          <h3 style="margin-top:8px;">Lead Consultant Cyber Security (m/w/d)</h3>
+          <p style="margin-top:6px;">Jamorie Consulting GmbH • Remote (Berlin)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.arbeitnow.com/jobs/companies/jamorie-consulting-gmbh/lead-consultant-cyber-security-berlin-313351?utm_source=autopulse&amp;utm_medium=jobs-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/lead-consultant-cyber-security-m-w-d-jamorie-consulting-gmbh-job9.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="job" data-search="ai full-stack developer (m/w/d) hiring at neon software solutions (remote (berlin)). skills &amp; tags: remote, software development. remote job">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge badge-job">Remote Job</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">REMOTE</strong>
+          </div>
+          <h3 style="margin-top:8px;">AI Full-Stack Developer (m/w/d)</h3>
+          <p style="margin-top:6px;">NEON Software Solutions • Remote (Berlin)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.arbeitnow.com/jobs/companies/neon-software-solutions/ai-full-stack-developer-berlin-326366?utm_source=autopulse&amp;utm_medium=jobs-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/ai-full-stack-developer-m-w-d-neon-software-solutions-job10.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="job" data-search="content manager (m|w|d) hiring at findling gmbh (remote (berlin)). skills &amp; tags: remote, social media manager. remote job">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge badge-job">Remote Job</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">REMOTE</strong>
+          </div>
+          <h3 style="margin-top:8px;">Content Manager (m|w|d)</h3>
+          <p style="margin-top:6px;">findling GmbH • Remote (Berlin)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.arbeitnow.com/jobs/companies/findling-gmbh/content-manager-mwd-berlin-18527?utm_source=autopulse&amp;utm_medium=jobs-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/content-manager-m-w-d-findling-gmbh-job11.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="job" data-search="recruiting assistenz (m/w/d) - minijob hiring at clementine media (remote (berlin)). skills &amp; tags: remote, recruitment and selection. remote job">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge badge-job">Remote Job</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">REMOTE</strong>
+          </div>
+          <h3 style="margin-top:8px;">Recruiting Assistenz (m/w/d) - Minijob</h3>
+          <p style="margin-top:6px;">Clementine Media • Remote (Berlin)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.arbeitnow.com/jobs/companies/clementine-media/recruiting-assistenz-minijob-berlin-220806?utm_source=autopulse&amp;utm_medium=jobs-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          <a class="btn btn-secondary" href="item/recruiting-assistenz-m-w-d-minijob-clementine-media-job12.html">Details &amp; Specs</a>
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="job" data-search="software engineer (data) hiring at codat (remote (remote)). skills &amp; tags: engineering. remote job">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge badge-job">Remote Job</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">REMOTE</strong>
+          </div>
+          <h3 style="margin-top:8px;">Software Engineer (Data)</h3>
+          <p style="margin-top:6px;">Codat • Remote (Remote)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.arbeitnow.co.uk/jobs/companies/codat/remote-software-engineer-data-302207?utm_source=autopulse&amp;utm_medium=jobs-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="job" data-search="senior ai engineer hiring at codat (remote (remote)). skills &amp; tags: engineering. remote job">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge badge-job">Remote Job</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">REMOTE</strong>
+          </div>
+          <h3 style="margin-top:8px;">Senior AI Engineer</h3>
+          <p style="margin-top:6px;">Codat • Remote (Remote)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.arbeitnow.co.uk/jobs/companies/codat/remote-senior-ai-engineer-234726?utm_source=autopulse&amp;utm_medium=jobs-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+
+      <article class="card item-card" data-category="job" data-search="customer success manager hiring at instagrid (remote (remote job)). skills &amp; tags: sales france, remote. remote job">
+        <div>
+          
+          <div class="card-top" style="margin-top:0;">
+            <span class="badge badge-job">Remote Job</span>
+            <strong style="color:var(--accent-2);font-size:0.86rem;">REMOTE</strong>
+          </div>
+          <h3 style="margin-top:8px;">Customer Success Manager</h3>
+          <p style="margin-top:6px;">Instagrid • Remote (Remote job)</p>
+        </div>
+        <div class="card-actions">
+          <a class="btn btn-primary" href="https://www.arbeitnow.fr/jobs/companies/instagrid/remote-customer-success-manager-bretagne-146851?utm_source=autopulse&amp;utm_medium=jobs-radar" target="_blank" rel="sponsored noopener noreferrer">Get Access →</a>
+          
+        </div>
+      </article>
+      </div>
+    </section>
+
+    
+    <section aria-label="Recommended Cloud and AI Stack">
+      <h2 style="margin:36px 0 8px;">⚡ Verified Automation & Creator Stack</h2>
+      <p style="color:var(--muted);margin:0 0 14px;">Tools used to build, host, and scale automated micro-sites and AI workflows.</p>
+      <div class="partner-grid">
+    <div class="partner-card">
+      <span class="badge">80% OFF + AI Builder</span>
+      <h3 style="margin:10px 0 6px;font-size:1rem;">Hostinger Cloud &amp; Web Hosting</h3>
+      <p style="font-size:0.86rem;color:var(--muted);margin:0 0 12px;">Launch fast automated niche sites &amp; AI web apps for pennies per month with free domain &amp; SSL.</p>
+      <a class="btn btn-secondary" style="width:100%;" href="https://www.hostinger.com/?REFERRALCODE=autopulse" target="_blank" rel="sponsored noopener noreferrer">Claim Hosting Deal →</a>
+    </div>
+
+    <div class="partner-card">
+      <span class="badge">High-Speed Privacy</span>
+      <h3 style="margin:10px 0 6px;font-size:1rem;">NordVPN Threat Protection Pro</h3>
+      <p style="font-size:0.86rem;color:var(--muted);margin:0 0 12px;">Encrypt remote work connections, bypass geo-pricing, and block trackers across 6+ devices.</p>
+      <a class="btn btn-secondary" style="width:100%;" href="https://nordvpn.com/?utm_source=autopulse&amp;utm_medium=affiliate" target="_blank" rel="sponsored noopener noreferrer">Get Protected Offer →</a>
+    </div>
+
+    <div class="partner-card">
+      <span class="badge">$200 Free Credit</span>
+      <h3 style="margin:10px 0 6px;font-size:1rem;">DigitalOcean Cloud Droplets</h3>
+      <p style="font-size:0.86rem;color:var(--muted);margin:0 0 12px;">Deploy scalable bots, APIs, and AI agents in 55 seconds with $200 starter credit for new builders.</p>
+      <a class="btn btn-secondary" style="width:100%;" href="https://www.digitalocean.com/?refcode=autopulse" target="_blank" rel="sponsored noopener noreferrer">Activate $200 Credit →</a>
+    </div>
+
+    <div class="partner-card">
+      <span class="badge">Creator Favorite</span>
+      <h3 style="margin:10px 0 6px;font-size:1rem;">ElevenLabs AI Voice Studio</h3>
+      <p style="font-size:0.86rem;color:var(--muted);margin:0 0 12px;">Generate ultra-realistic multilingual voiceovers for YouTube automation, reels, and digital courses.</p>
+      <a class="btn btn-secondary" style="width:100%;" href="https://elevenlabs.io/?from=autopulse" target="_blank" rel="sponsored noopener noreferrer">Try AI Voice Free →</a>
+    </div></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p><strong>Affiliate &amp; Automation Disclosure:</strong> Some outbound links on AutoPulse Radar — Daily AI Tools, Tech Deals &amp; Remote Jobs are affiliate or referral links. We may earn a commission at zero extra cost to you. Content is refreshed autonomously via GitHub Actions.</p>
+      <p>Sources Status — Deals: live | AI Tools: live | Remote Jobs: live • <a href="setup-guide.html">Owner Setup Guide</a></p>
+    </div>
+  </footer>
+
+  <script>
+    (function () {
+      var activeFilter = 'all';
+      var searchInput = document.getElementById('searchBox');
+      var cards = Array.from(document.querySelectorAll('.item-card'));
+      var tabs = Array.from(document.querySelectorAll('.tab-btn'));
+
+      function applyFilters() {
+        var q = (searchInput.value || '').trim().toLowerCase();
+        cards.forEach(function (card) {
+          var catMatch = activeFilter === 'all' || card.dataset.category === activeFilter;
+          var textMatch = !q || (card.dataset.search || '').includes(q);
+          card.classList.toggle('hidden', !(catMatch && textMatch));
+        });
+      }
+
+      tabs.forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          tabs.forEach(function (t) { t.classList.remove('active'); });
+          btn.classList.add('active');
+          activeFilter = btn.dataset.filter;
+          applyFilters();
+        });
+      });
+
+      searchInput.addEventListener('input', applyFilters);
+    })();
+  </script>
+</body>
+</html>

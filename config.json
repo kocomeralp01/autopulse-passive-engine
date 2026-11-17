@@ -1,0 +1,62 @@
+{
+  "siteName": "AutoPulse Radar — Daily AI Tools, Tech Deals & Remote Jobs",
+  "siteTagline": "Real-time curated AI releases, 70%+ flash software/game deals, and global remote opportunities — updated automatically every 6 hours.",
+  "siteUrl": "https://your-username.github.io/autopulse-passive-engine",
+  "language": "en",
+  "monetization": {
+    "gumroadProductUrl": "https://kocomeralp.gumroad.com/l/eywyaf",
+    "gumroadProductTitle": "2026 AI & Automation Mega Vault (50+ Copy-Paste Prompts & Workflows)",
+    "gumroadProductSubtitle": "Plug-and-play prompt frameworks, faceless content engines, SaaS validation scorecards & monetization playbooks.",
+    "gumroadProductPrice": "$19",
+    "amazonAssociateTag": "autopulse-20",
+    "instantGamingAffiliateId": "gamer-pulse",
+    "g2aAffiliateId": "autopulse",
+    "aAdsUnitId": "",
+    "featuredAffiliateBanners": [
+      {
+        "id": "hostinger",
+        "badge": "80% OFF + AI Builder",
+        "title": "Hostinger Cloud & Web Hosting",
+        "description": "Launch fast automated niche sites & AI web apps for pennies per month with free domain & SSL.",
+        "ctaText": "Claim Hosting Deal →",
+        "url": "https://www.hostinger.com/?REFERRALCODE=autopulse",
+        "commissionNote": "Top Global Hosting Partner"
+      },
+      {
+        "id": "nordvpn",
+        "badge": "High-Speed Privacy",
+        "title": "NordVPN Threat Protection Pro",
+        "description": "Encrypt remote work connections, bypass geo-pricing, and block trackers across 6+ devices.",
+        "ctaText": "Get Protected Offer →",
+        "url": "https://nordvpn.com/?utm_source=autopulse&utm_medium=affiliate",
+        "commissionNote": "Verified Security Partner"
+      },
+      {
+        "id": "digitalocean",
+        "badge": "$200 Free Credit",
+        "title": "DigitalOcean Cloud Droplets",
+        "description": "Deploy scalable bots, APIs, and AI agents in 55 seconds with $200 starter credit for new builders.",
+        "ctaText": "Activate $200 Credit →",
+        "url": "https://www.digitalocean.com/?refcode=autopulse",
+        "commissionNote": "Developer Cloud Partner"
+      },
+      {
+        "id": "elevenlabs",
+        "badge": "Creator Favorite",
+        "title": "ElevenLabs AI Voice Studio",
+        "description": "Generate ultra-realistic multilingual voiceovers for YouTube automation, reels, and digital courses.",
+        "ctaText": "Try AI Voice Free →",
+        "url": "https://elevenlabs.io/?from=autopulse",
+        "commissionNote": "AI Creator Partner"
+      }
+    ]
+  },
+  "sources": {
+    "cheapSharkMaxPrice": 40,
+    "cheapSharkLimit": 24,
+    "githubAiLimit": 15,
+    "devtoAiLimit": 12,
+    "remoteJobsLimit": 15,
+    "maxProgrammaticPages": 36
+  }
+}

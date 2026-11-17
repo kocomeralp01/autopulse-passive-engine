@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>10 Dakikada Kur ve Unut (Sıfır Bütçe Rehberi) — AutoPulse</title>
+  <meta name="robots" content="noindex, nofollow" />
+  
+  <style>
+    :root {
+      --bg: #070b14;
+      --surface: #0f172a;
+      --surface-2: #162033;
+      --border: #1e293b;
+      --text: #f8fafc;
+      --muted: #94a3b8;
+      --accent: #38bdf8;
+      --accent-2: #10b981;
+      --warn: #f59e0b;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: radial-gradient(circle at top right, #0f1f3a 0%, var(--bg) 45%);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .container { max-width: 1180px; margin: 0 auto; padding: 0 20px; }
+    header.topbar {
+      border-bottom: 1px solid var(--border);
+      background: rgba(7, 11, 20, 0.85);
+      backdrop-filter: blur(12px);
+      position: sticky; top: 0; z-index: 50;
+    }
+    .topbar-inner {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 14px 0; gap: 16px; flex-wrap: wrap;
+    }
+    .brand { font-weight: 800; font-size: 1.1rem; color: var(--text); display: flex; align-items: center; gap: 8px; }
+    .brand-dot { width: 10px; height: 10px; border-radius: 999px; background: var(--accent-2); box-shadow: 0 0 12px var(--accent-2); }
+    nav.nav-links { display: flex; gap: 18px; align-items: center; flex-wrap: wrap; font-size: 0.92rem; }
+    nav.nav-links a { color: var(--muted); font-weight: 500; }
+    nav.nav-links a:hover { color: var(--text); text-decoration: none; }
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+      padding: 10px 18px; border-radius: 10px; font-weight: 600; font-size: 0.92rem;
+      border: 1px solid transparent; cursor: pointer; transition: transform .15s ease, opacity .15s ease;
+    }
+    .btn:hover { transform: translateY(-1px); text-decoration: none; opacity: 0.95; }
+    .btn-primary { background: linear-gradient(135deg, #0ea5e9, #10b981); color: #041018; }
+    .btn-secondary { background: var(--surface-2); color: var(--text); border-color: var(--border); }
+    .hero { padding: 48px 0 32px; }
+    .pill {
+      display: inline-block; padding: 4px 12px; border-radius: 999px; font-size: 0.78rem;
+      font-weight: 700; letter-spacing: 0.03em; background: rgba(16, 185, 129, 0.14);
+      color: var(--accent-2); border: 1px solid rgba(16, 185, 129, 0.35);
+    }
+    h1 { font-size: clamp(1.8rem, 4vw, 2.9rem); line-height: 1.15; margin: 14px 0; letter-spacing: -0.02em; }
+    .lead { color: var(--muted); font-size: 1.05rem; max-width: 760px; }
+    .vault-banner {
+      margin: 28px 0; padding: 26px; border-radius: 16px;
+      background: linear-gradient(135deg, rgba(14, 165, 233, 0.16), rgba(16, 185, 129, 0.12));
+      border: 1px solid rgba(56, 189, 248, 0.35);
+      display: grid; grid-template-columns: 1fr auto; gap: 20px; align-items: center;
+    }
+    @media (max-width: 760px) { .vault-banner { grid-template-columns: 1fr; } }
+    .controls {
+      display: flex; gap: 12px; flex-wrap: wrap; align-items: center;
+      justify-content: space-between; margin: 28px 0 18px;
+    }
+    .tabs { display: flex; gap: 8px; flex-wrap: wrap; }
+    .tab-btn {
+      padding: 8px 14px; border-radius: 8px; border: 1px solid var(--border);
+      background: var(--surface); color: var(--muted); font-weight: 600; cursor: pointer;
+    }
+    .tab-btn.active { background: var(--accent); color: #041018; border-color: var(--accent); }
+    .search-input {
+      background: var(--surface); border: 1px solid var(--border); color: var(--text);
+      padding: 10px 14px; border-radius: 10px; min-width: 260px; font-size: 0.95rem;
+    }
+    .grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(310px, 1fr)); gap: 18px;
+    }
+    .card {
+      background: var(--surface); border: 1px solid var(--border); border-radius: 14px;
+      padding: 18px; display: flex; flex-direction: column; justify-content: space-between; gap: 12px;
+    }
+    .card:hover { border-color: #334155; }
+    .card-thumb { width: 100%; height: 145px; object-fit: cover; border-radius: 10px; background: #0b1220; }
+    .card-top { display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+    .badge {
+      font-size: 0.75rem; font-weight: 800; padding: 3px 9px; border-radius: 6px;
+      background: rgba(56, 189, 248, 0.16); color: var(--accent);
+    }
+    .badge-deal { background: rgba(16, 185, 129, 0.18); color: var(--accent-2); }
+    .badge-job { background: rgba(245, 158, 11, 0.18); color: var(--warn); }
+    .card h3 { margin: 0; font-size: 1.05rem; line-height: 1.35; }
+    .card p { margin: 0; color: var(--muted); font-size: 0.9rem; }
+    .card-actions { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 4px; }
+    .partner-grid {
+      display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 14px; margin: 34px 0;
+    }
+    .partner-card {
+      background: var(--surface-2); border: 1px solid var(--border); border-radius: 12px; padding: 16px;
+    }
+    table.compare {
+      width: 100%; border-collapse: collapse; margin: 18px 0; background: var(--surface);
+      border: 1px solid var(--border); border-radius: 10px; overflow: hidden;
+    }
+    table.compare th, table.compare td {
+      padding: 12px 14px; text-align: left; border-bottom: 1px solid var(--border); font-size: 0.92rem;
+    }
+    table.compare th { background: var(--surface-2); color: var(--accent); }
+    footer.site-footer {
+      border-top: 1px solid var(--border); margin-top: 56px; padding: 30px 0 48px;
+      color: var(--muted); font-size: 0.85rem;
+    }
+    .hidden { display: none !important; }
+  </style>
+  <style>
+    .step-card { background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 20px; margin-bottom: 16px; }
+    .form-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 14px; }
+    label { display: block; font-size: 0.85rem; color: var(--muted); margin-bottom: 6px; font-weight: 600; }
+    input[type="text"], input[type="url"] {
+      width: 100%; padding: 10px 12px; border-radius: 8px; border: 1px solid var(--border);
+      background: #060a12; color: var(--text); font-size: 0.92rem;
+    }
+    pre#jsonPreview {
+      background: #05080f; border: 1px solid var(--border); border-radius: 10px;
+      padding: 14px; overflow-x: auto; font-size: 0.82rem; color: #7dd3fc; max-height: 280px;
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="container topbar-inner">
+      <a class="brand" href="index.html"><span class="brand-dot"></span> AutoPulse Kurulum Merkezi</a>
+      <nav class="nav-links">
+        <a href="index.html">← Canlı Siteye Dön</a>
+        <a href="digital-product-vault.html">📦 Dijital Ürünü Aç (PDF/Gumroad)</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container" style="padding:36px 20px 60px;">
+    <span class="pill">0 TL BÜTÇE • KUR VE HİÇ DOKUNMA</span>
+    <h1>10 Dakikada Kur ve Unut (Sıfır Bütçe Rehberi)</h1>
+    <p class="lead">Bu sistem tamamen ücretsiz bulut servisleri (<strong>GitHub Actions + GitHub Pages + Gumroad</strong>) üzerinde çalışır. Bilgisayarın kapalıyken bile her 6 saatte bir otomatik güncellenir.</p>
+
+    <div class="step-card">
+      <h2>Adım 1: Hazır Dijital Ürününü Gumroad'a Ücretsiz Yükle ($19)</h2>
+      <p style="color:var(--muted);">Senin için 55+ kopyala-yapıştır AI prompt ve otomasyon sistemi içeren İngilizce dijital ürünü sıfırdan yazdık.</p>
+      <ol style="color:var(--muted);">
+        <li><a href="digital-product-vault.html" target="_blank">Buraya tıklayarak dijital ürün sayfasını aç</a> ve tarayıcıdan <strong>"PDF Olarak Kaydet / Yazdır"</strong> diyerek <code>2026-AI-Automation-Mega-Vault.pdf</code> dosyasını indir.</li>
+        <li><a href="https://gumroad.com" target="_blank" rel="noopener noreferrer">Gumroad.com</a> üzerinden ücretsiz hesap aç (kredi kartı gerekmez, komisyon sadece satış olunca kesilir).</li>
+        <li><strong>New Product → Digital Product</strong> seç, PDF'i yükle, fiyatı <strong>$19</strong> yap ve yayınla. Sana verilen ürün linkini aşağıya yapıştır.</li>
+      </ol>
+    </div>
+
+    <div class="step-card">
+      <h2>Adım 2: Kendi Gelir Linklerini Gir ve <code>config.json</code> İndir</h2>
+      <p style="color:var(--muted);">Aşağıdaki alanları kendi linklerinle doldur (boş bıraktıkların varsayılan kalır) ve hazır <code>config.json</code> dosyasını tek tıkla indir.</p>
+      <div class="form-grid" style="margin-top:14px;">
+        <div>
+          <label for="fSiteName">Site Başlığı</label>
+          <input id="fSiteName" type="text" value="AutoPulse Radar — Daily AI Tools, Tech Deals &amp; Remote Jobs" />
+        </div>
+        <div>
+          <label for="fSiteUrl">GitHub Pages Site Adresin</label>
+          <input id="fSiteUrl" type="url" value="https://your-username.github.io/autopulse-passive-engine" />
+        </div>
+        <div>
+          <label for="fGumroadUrl">Gumroad Ürün Linkin (En Önemli)</label>
+          <input id="fGumroadUrl" type="url" value="https://kocomeralp.gumroad.com/l/eywyaf" placeholder="https://kullanici.gumroad.com/l/ai-vault" />
+        </div>
+        <div>
+          <label for="fGumroadPrice">Ürün Fiyatı</label>
+          <input id="fGumroadPrice" type="text" value="$19" />
+        </div>
+        <div>
+          <label for="fAmazonTag">Amazon Associates Tag (Opsiyonel)</label>
+          <input id="fAmazonTag" type="text" value="autopulse-20" />
+        </div>
+        <div>
+          <label for="fInstantTag">Instant Gaming Affiliate ID (Opsiyonel)</label>
+          <input id="fInstantTag" type="text" value="gamer-pulse" />
+        </div>
+        <div>
+          <label for="fG2aTag">G2A Affiliate Ref (Opsiyonel)</label>
+          <input id="fG2aTag" type="text" value="autopulse" />
+        </div>
+        <div>
+          <label for="fAAdsId">A-Ads Reklam Birim ID (Onaysız Kripto/Display)</label>
+          <input id="fAAdsId" type="text" value="" placeholder="Örn: 2345678" />
+        </div>
+      </div>
+
+      <div style="display:flex;gap:10px;flex-wrap:wrap;margin:18px 0 12px;">
+        <button id="downloadConfigBtn" class="btn btn-primary" type="button">⬇️ config.json Dosyasını İndir</button>
+        <button id="copyConfigBtn" class="btn btn-secondary" type="button">📋 JSON Kopyala</button>
+      </div>
+      <pre id="jsonPreview"></pre>
+    </div>
+
+    <div class="step-card">
+      <h2>Adım 3: GitHub'a Yükle ve Sonsuza Kadar Açık Bırak (Ücretsiz Bulut)</h2>
+      <ol style="color:var(--muted);">
+        <li><a href="https://github.com" target="_blank" rel="noopener noreferrer">GitHub.com</a> üzerinde ücretsiz bir hesap aç ve <strong>autopulse-passive-engine</strong> adında yeni bir <em>Public</em> repository oluştur.</li>
+        <li>Bu proje klasöründeki tüm dosyaları (indirdiğin yeni <code>config.json</code> dahil) GitHub repona yükle / push et.</li>
+        <li>GitHub reponda <strong>Settings → Pages → Build and deployment → Source: GitHub Actions</strong> seç.</li>
+        <li><strong>Settings → Actions → General → Workflow permissions</strong> kısmından <strong>Read and write permissions</strong> seçeneğini işaretle ve kaydet.</li>
+        <li>Artık sistem her 6 saatte bir otomatik uyanıp fırsatları, AI araçlarını ve uzaktan iş ilanlarını çekecek, SEO sayfalarını oluşturup siteni güncelleyecek!</li>
+      </ol>
+    </div>
+  </main>
+
+  <script>
+    (function () {
+      var baseConfig = {"siteName":"AutoPulse Radar — Daily AI Tools, Tech Deals & Remote Jobs","siteTagline":"Real-time curated AI releases, 70%+ flash software/game deals, and global remote opportunities — updated automatically every 6 hours.","siteUrl":"https://your-username.github.io/autopulse-passive-engine","language":"en","monetization":{"gumroadProductUrl":"https://kocomeralp.gumroad.com/l/eywyaf","gumroadProductTitle":"2026 AI & Automation Mega Vault (50+ Copy-Paste Prompts & Workflows)","gumroadProductSubtitle":"Plug-and-play prompt frameworks, faceless content engines, SaaS validation scorecards & monetization playbooks.","gumroadProductPrice":"$19","amazonAssociateTag":"autopulse-20","instantGamingAffiliateId":"gamer-pulse","g2aAffiliateId":"autopulse","aAdsUnitId":"","featuredAffiliateBanners":[{"id":"hostinger","badge":"80% OFF + AI Builder","title":"Hostinger Cloud & Web Hosting","description":"Launch fast automated niche sites & AI web apps for pennies per month with free domain & SSL.","ctaText":"Claim Hosting Deal →","url":"https://www.hostinger.com/?REFERRALCODE=autopulse","commissionNote":"Top Global Hosting Partner"},{"id":"nordvpn","badge":"High-Speed Privacy","title":"NordVPN Threat Protection Pro","description":"Encrypt remote work connections, bypass geo-pricing, and block trackers across 6+ devices.","ctaText":"Get Protected Offer →","url":"https://nordvpn.com/?utm_source=autopulse&utm_medium=affiliate","commissionNote":"Verified Security Partner"},{"id":"digitalocean","badge":"$200 Free Credit","title":"DigitalOcean Cloud Droplets","description":"Deploy scalable bots, APIs, and AI agents in 55 seconds with $200 starter credit for new builders.","ctaText":"Activate $200 Credit →","url":"https://www.digitalocean.com/?refcode=autopulse","commissionNote":"Developer Cloud Partner"},{"id":"elevenlabs","badge":"Creator Favorite","title":"ElevenLabs AI Voice Studio","description":"Generate ultra-realistic multilingual voiceovers for YouTube automation, reels, and digital courses.","ctaText":"Try AI Voice Free →","url":"https://elevenlabs.io/?from=autopulse","commissionNote":"AI Creator Partner"}]},"sources":{"cheapSharkMaxPrice":40,"cheapSharkLimit":24,"githubAiLimit":15,"devtoAiLimit":12,"remoteJobsLimit":15,"maxProgrammaticPages":36}};
+      var inputs = ['fSiteName', 'fSiteUrl', 'fGumroadUrl', 'fGumroadPrice', 'fAmazonTag', 'fInstantTag', 'fG2aTag', 'fAAdsId'];
+      var preview = document.getElementById('jsonPreview');
+
+      function buildConfig() {
+        var next = JSON.parse(JSON.stringify(baseConfig));
+        next.siteName = document.getElementById('fSiteName').value.trim() || baseConfig.siteName;
+        next.siteUrl = document.getElementById('fSiteUrl').value.trim() || baseConfig.siteUrl;
+        next.monetization.gumroadProductUrl = document.getElementById('fGumroadUrl').value.trim() || '#vault-offer';
+        next.monetization.gumroadProductPrice = document.getElementById('fGumroadPrice').value.trim() || '$19';
+        next.monetization.amazonAssociateTag = document.getElementById('fAmazonTag').value.trim();
+        next.monetization.instantGamingAffiliateId = document.getElementById('fInstantTag').value.trim();
+        next.monetization.g2aAffiliateId = document.getElementById('fG2aTag').value.trim();
+        next.monetization.aAdsUnitId = document.getElementById('fAAdsId').value.trim();
+        return JSON.stringify(next, null, 2);
+      }
+
+      function refreshPreview() {
+        preview.textContent = buildConfig();
+      }
+
+      inputs.forEach(function (id) {
+        document.getElementById(id).addEventListener('input', refreshPreview);
+      });
+
+      document.getElementById('downloadConfigBtn').addEventListener('click', function () {
+        var blob = new Blob([buildConfig()], { type: 'application/json' });
+        var a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = 'config.json';
+        a.click();
+        URL.revokeObjectURL(a.href);
+      });
+
+      document.getElementById('copyConfigBtn').addEventListener('click', function () {
+        navigator.clipboard.writeText(buildConfig());
+        this.textContent = '✅ Kopyalandı!';
+        var btn = this;
+        setTimeout(function () { btn.textContent = '📋 JSON Kopyala'; }, 2000);
+      });
+
+      refreshPreview();
+    })();
+  </script>
+</body>
+</html>

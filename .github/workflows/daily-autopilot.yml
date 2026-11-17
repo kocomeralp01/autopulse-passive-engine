@@ -1,0 +1,63 @@
+name: AutoPulse 24/7 Cloud Autopilot
+
+on:
+  schedule:
+    # Runs automatically every 6 hours even when your computer is turned off
+    - cron: '0 */6 * * *'
+  push:
+    branches: [main, master]
+    paths:
+      - 'config.json'
+      - 'scripts/**'
+      - 'digital-product/**'
+      - '.github/workflows/daily-autopilot.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Run AutoPulse autonomous harvester & SEO builder
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node scripts/run-autopilot.mjs
+
+      - name: Commit refreshed static output if changed
+        run: |
+          git config user.name "AutoPulse Bot"
+          git config user.email "autopulse-bot@users.noreply.github.com"
+          git add public/
+          git diff --cached --quiet || (git commit -m "chore: autopilot refresh [skip ci]" && git push)
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload public directory to GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './public'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

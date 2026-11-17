@@ -1,0 +1,19 @@
+{
+  "name": "autopulse-passive-engine",
+  "version": "1.0.0",
+  "description": "Zero-cost, zero-dependency autonomous cloud Programmatic SEO, Affiliate & Digital Product monetization engine.",
+  "type": "module",
+  "scripts": {
+    "autopilot": "node scripts/run-autopilot.mjs",
+    "serve": "node scripts/local-server.mjs"
+  },
+  "keywords": [
+    "programmatic-seo",
+    "automation",
+    "affiliate",
+    "passive-income",
+    "github-actions",
+    "static-site-generator"
+  ],
+  "license": "MIT"
+}
