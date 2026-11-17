@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-17T21:12:39.702Z",
+  "generatedAt": "2026-11-17T21:20:44.131Z",
   "sourcesStatus": {
     "deals": "live",
     "ai": "live",
     "jobs": "live"
   },
   "counts": {
-    "total": 51,
+    "total": 66,
     "deals": 24,
-    "aiTools": 12,
+    "aiTools": 27,
     "jobs": 15,
     "programmaticPages": 36
   },
@@ -975,7 +975,412 @@
     },
     {
       "id": "ai-1",
-      "slug": "long-live-rails-ai1",
+      "slug": "heygen-com-hyperframes-ai1",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "heygen-com/hyperframes",
+      "subtitle": "GitHub AI • TypeScript • 85,921 signals",
+      "description": "Write HTML. Render video. Built for agents.",
+      "badge": "★ 85,921",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "85,921 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 85921,
+      "thumb": "",
+      "outboundUrl": "https://github.com/heygen-com/hyperframes?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (85,921 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-2",
+      "slug": "clickhouse-clickhouse-ai2",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "ClickHouse/ClickHouse",
+      "subtitle": "GitHub AI • C++ • 50,977 signals",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "badge": "★ 50,977",
+      "metricPrimary": "C++",
+      "metricSecondary": "50,977 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 50977,
+      "thumb": "",
+      "outboundUrl": "https://github.com/ClickHouse/ClickHouse?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (50,977 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-3",
+      "slug": "blakeblackshear-frigate-ai3",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "blakeblackshear/frigate",
+      "subtitle": "GitHub AI • Python • 37,542 signals",
+      "description": "NVR with realtime local object detection for IP cameras",
+      "badge": "★ 37,542",
+      "metricPrimary": "Python",
+      "metricSecondary": "37,542 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 37542,
+      "thumb": "",
+      "outboundUrl": "https://github.com/blakeblackshear/frigate?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (37,542 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-4",
+      "slug": "civitai-civitai-ai4",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "civitai/civitai",
+      "subtitle": "GitHub AI • TypeScript • 7,322 signals",
+      "description": "A repository of models, textual inversions, and more",
+      "badge": "★ 7,322",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "7,322 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 7322,
+      "thumb": "",
+      "outboundUrl": "https://github.com/civitai/civitai?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (7,322 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-5",
+      "slug": "langchain-ai-langchain-ai5",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "langchain-ai/langchain",
+      "subtitle": "GitHub AI • Python • 149,790 signals",
+      "description": "The agent engineering platform.",
+      "badge": "★ 149,790",
+      "metricPrimary": "Python",
+      "metricSecondary": "149,790 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 149790,
+      "thumb": "",
+      "outboundUrl": "https://github.com/langchain-ai/langchain?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (149,790 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-6",
+      "slug": "pingdotgg-t3code-ai6",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "pingdotgg/t3code",
+      "subtitle": "GitHub AI • TypeScript • 63,997 signals",
+      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+      "badge": "★ 63,997",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "63,997 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 63997,
+      "thumb": "",
+      "outboundUrl": "https://github.com/pingdotgg/t3code?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (63,997 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-7",
+      "slug": "comfy-org-comfyui-ai7",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "Comfy-Org/ComfyUI",
+      "subtitle": "GitHub AI • Python • 147,345 signals",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.",
+      "badge": "★ 147,345",
+      "metricPrimary": "Python",
+      "metricSecondary": "147,345 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 147345,
+      "thumb": "",
+      "outboundUrl": "https://github.com/Comfy-Org/ComfyUI?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (147,345 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-8",
+      "slug": "kilo-org-kilocode-ai8",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "Kilo-Org/kilocode",
+      "subtitle": "GitHub AI • TypeScript • 28,038 signals",
+      "description": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "badge": "★ 28,038",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "28,038 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 28038,
+      "thumb": "",
+      "outboundUrl": "https://github.com/Kilo-Org/kilocode?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (28,038 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-9",
+      "slug": "google-adk-js-ai9",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "google/adk-js",
+      "subtitle": "GitHub AI • TypeScript • 1,482 signals",
+      "description": "An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.",
+      "badge": "★ 1,482",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "1,482 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 1482,
+      "thumb": "",
+      "outboundUrl": "https://github.com/google/adk-js?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (1,482 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-10",
+      "slug": "thedotmack-claude-mem-ai10",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "thedotmack/claude-mem",
+      "subtitle": "GitHub AI • TypeScript • 117,970 signals",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "badge": "★ 117,970",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "117,970 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 117970,
+      "thumb": "",
+      "outboundUrl": "https://github.com/thedotmack/claude-mem?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (117,970 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-11",
+      "slug": "plastic-labs-honcho-ai11",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "plastic-labs/honcho",
+      "subtitle": "GitHub AI • Python • 8,167 signals",
+      "description": " Memory library for building stateful agents",
+      "badge": "★ 8,167",
+      "metricPrimary": "Python",
+      "metricSecondary": "8,167 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 8167,
+      "thumb": "",
+      "outboundUrl": "https://github.com/plastic-labs/honcho?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (8,167 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-12",
+      "slug": "langchain-ai-open-swe-ai12",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "langchain-ai/open-swe",
+      "subtitle": "GitHub AI • Python • 11,232 signals",
+      "description": "An Open-Source Asynchronous Coding Agent",
+      "badge": "★ 11,232",
+      "metricPrimary": "Python",
+      "metricSecondary": "11,232 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 11232,
+      "thumb": "",
+      "outboundUrl": "https://github.com/langchain-ai/open-swe?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (11,232 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-13",
+      "slug": "qwenlm-qwen-code-ai13",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "QwenLM/qwen-code",
+      "subtitle": "GitHub AI • TypeScript • 30,728 signals",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "badge": "★ 30,728",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "30,728 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 30728,
+      "thumb": "",
+      "outboundUrl": "https://github.com/QwenLM/qwen-code?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (30,728 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "ai-14",
+      "slug": "getstream-agents-ai14",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "GetStream/Agents",
+      "subtitle": "GitHub AI • Go • 8,215 signals",
+      "description": "Quickly build text, voice and video agents. Fast, Go based Agent backend with SDKs for every language. Sensible defaults for search, knowledge, skills, telephony, sandboxes, memory and persistence. Sovereign AI. Take control of your AI.",
+      "badge": "★ 8,215",
+      "metricPrimary": "Go",
+      "metricSecondary": "8,215 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 8215,
+      "thumb": "",
+      "outboundUrl": "https://github.com/GetStream/Agents?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (8,215 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "ai-15",
+      "slug": "strands-agents-harness-sdk-ai15",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "strands-agents/harness-sdk",
+      "subtitle": "GitHub AI • TypeScript • 9,236 signals",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "badge": "★ 9,236",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "9,236 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 9236,
+      "thumb": "",
+      "outboundUrl": "https://github.com/strands-agents/harness-sdk?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (9,236 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "ai-16",
+      "slug": "long-live-rails-ai16",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Long Live Rails",
@@ -998,11 +1403,11 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-2",
-      "slug": "mcp-is-dead-simple-and-that-s-exactly-the-problem-ai2",
+      "id": "ai-17",
+      "slug": "mcp-is-dead-simple-and-that-s-exactly-the-problem-ai17",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "MCP Is Dead Simple. And That's Exactly the Problem",
@@ -1025,11 +1430,11 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-3",
-      "slug": "congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-gh-ai3",
+      "id": "ai-18",
+      "slug": "congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-gh-ai18",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
@@ -1052,11 +1457,11 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-4",
-      "slug": "ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-ai4",
+      "id": "ai-19",
+      "slug": "ghost-rovers-i-called-12-machines-nasa-left-behind-one-picked-up-ai19",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Ghost Rovers: I Called 12 Machines NASA Left Behind. One Picked Up.",
@@ -1079,11 +1484,11 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-5",
-      "slug": "ai-is-getting-better-here-is-my-plan-to-stay-ahead-ai5",
+      "id": "ai-20",
+      "slug": "ai-is-getting-better-here-is-my-plan-to-stay-ahead-ai20",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "AI is getting better. Here is my plan to stay ahead.",
@@ -1106,11 +1511,11 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-6",
-      "slug": "we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-d-ai6",
+      "id": "ai-21",
+      "slug": "we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-d-ai21",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
@@ -1133,11 +1538,11 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-7",
-      "slug": "ask-more-of-your-ui-ai7",
+      "id": "ai-22",
+      "slug": "ask-more-of-your-ui-ai22",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Ask More of Your UI",
@@ -1160,11 +1565,11 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-8",
-      "slug": "ultimate-ai-roast-ai8",
+      "id": "ai-23",
+      "slug": "ultimate-ai-roast-ai23",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Ultimate AI Roast! 😂😹",
@@ -1187,11 +1592,11 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-9",
-      "slug": "ai-avatar-v28-security-support-voxel-avatar-ai9",
+      "id": "ai-24",
+      "slug": "ai-avatar-v28-security-support-voxel-avatar-ai24",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "AI Avatar v28 (Security Support, Voxel Avatar)🛡️",
@@ -1214,11 +1619,11 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-10",
-      "slug": "detecting-flaky-tests-and-finding-their-root-causes-with-strands-ai10",
+      "id": "ai-25",
+      "slug": "detecting-flaky-tests-and-finding-their-root-causes-with-strands-ai25",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Detecting Flaky Tests and Finding Their Root Causes with Strands Agents and Gemini",
@@ -1241,11 +1646,11 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-11",
-      "slug": "can-t-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-p-ai11",
+      "id": "ai-26",
+      "slug": "can-t-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-p-ai26",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Can't Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent",
@@ -1268,11 +1673,11 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-12",
-      "slug": "remove-bg-is-shutting-down-here-s-a-free-no-upload-alternative-ai12",
+      "id": "ai-27",
+      "slug": "remove-bg-is-shutting-down-here-s-a-free-no-upload-alternative-ai27",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "remove.bg Is Shutting Down — Here's a Free, No-Upload Alternative",
@@ -1295,7 +1700,7 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
       "id": "job-1",
