@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T06:58:15.941Z",
+  "generatedAt": "2026-11-20T19:57:05.252Z",
   "sourcesStatus": {
     "deals": "live",
     "ai": "live",
@@ -59,6 +59,46 @@
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Suicide Squad: Kill the Justice League",
+      "subtitle": "96% OFF — $3.08 (Reg. $69.99)",
+      "description": "Suicide Squad: Kill the Justice League is currently discounted by 96% down to $3.08 from $69.99. Rating: Mixed (62%).",
+      "badge": "-96%",
+      "metricPrimary": "$3.08",
+      "metricSecondary": "Was $69.99",
+      "ratingText": "Mixed",
+      "ratingScore": 62,
+      "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/315210/capsule_231x87.jpg?t=1777940046",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=nF9%252FdPXYPajMwowT9vhxtb%252BbzqK%252FsuFSBFt5snmLx24%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=Suicide%20Squad%3A%20Kill%20the%20Justice%20League&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=Suicide%20Squad%3A%20Kill%20the%20Justice%20League&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=Suicide%20Squad%3A%20Kill%20the%20Justice%20League&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 96% ($66.91) compared to retail price",
+        "Verified community score: 62% (Mixed)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "deal-3",
+      "slug": "suicide-squad-kill-the-justice-league-deal3",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "Suicide Squad: Kill the Justice League",
       "subtitle": "95% OFF — $3.43 (Reg. $69.99)",
       "description": "Suicide Squad: Kill the Justice League is currently discounted by 95% down to $3.43 from $69.99. Rating: Mixed (62%).",
       "badge": "-95%",
@@ -94,8 +134,48 @@
       "hasDetailPage": true
     },
     {
-      "id": "deal-3",
-      "slug": "suicide-squad-kill-the-justice-league-deal3",
+      "id": "deal-4",
+      "slug": "suicide-squad-kill-the-justice-league-deal4",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "Suicide Squad: Kill the Justice League",
+      "subtitle": "95% OFF — $3.50 (Reg. $69.99)",
+      "description": "Suicide Squad: Kill the Justice League is currently discounted by 95% down to $3.50 from $69.99. Rating: Mixed (62%).",
+      "badge": "-95%",
+      "metricPrimary": "$3.50",
+      "metricSecondary": "Was $69.99",
+      "ratingText": "Mixed",
+      "ratingScore": 62,
+      "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/315210/capsule_231x87.jpg?t=1777940046",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=ER%252FfOp0PmIbG%252BkoMMkNkd8JljZgzqnQqdZLU%252Bz1MekQ%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=Suicide%20Squad%3A%20Kill%20the%20Justice%20League&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=Suicide%20Squad%3A%20Kill%20the%20Justice%20League&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=Suicide%20Squad%3A%20Kill%20the%20Justice%20League&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 95% ($66.49) compared to retail price",
+        "Verified community score: 62% (Mixed)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "deal-5",
+      "slug": "suicide-squad-kill-the-justice-league-deal5",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Suicide Squad: Kill the Justice League",
@@ -134,8 +214,8 @@
       "hasDetailPage": true
     },
     {
-      "id": "deal-4",
-      "slug": "suicide-squad-kill-the-justice-league-deal4",
+      "id": "deal-6",
+      "slug": "suicide-squad-kill-the-justice-league-deal6",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Suicide Squad: Kill the Justice League",
@@ -174,8 +254,8 @@
       "hasDetailPage": true
     },
     {
-      "id": "deal-5",
-      "slug": "suicide-squad-kill-the-justice-league-deal5",
+      "id": "deal-7",
+      "slug": "suicide-squad-kill-the-justice-league-deal7",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Suicide Squad: Kill the Justice League",
@@ -214,8 +294,88 @@
       "hasDetailPage": true
     },
     {
-      "id": "deal-6",
-      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal6",
+      "id": "deal-8",
+      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal8",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
+      "subtitle": "96% OFF — $4.38 (Reg. $99.99)",
+      "description": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition is currently discounted by 96% down to $4.38 from $99.99. Rating: Verified (0%).",
+      "badge": "-96%",
+      "metricPrimary": "$4.38",
+      "metricSecondary": "Was $99.99",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://sttc.gamersgate.com/images/product/suicide-squad-kill-the-justice-league-digital-deluxe-edition/cover-180-c29cf2.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=U2ne5odE6WKyoSROQN8D2OX2aRN8CJrxoFxZ%252BktLaHg%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=Suicide%20Squad%3A%20Kill%20the%20Justice%20League%20-%20Digital%20Deluxe%20Edition&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=Suicide%20Squad%3A%20Kill%20the%20Justice%20League%20-%20Digital%20Deluxe%20Edition&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=Suicide%20Squad%3A%20Kill%20the%20Justice%20League%20-%20Digital%20Deluxe%20Edition&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 96% ($95.61) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "deal-9",
+      "slug": "rims-racing-ultimate-edition-deal9",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "Rims Racing : Ultimate Edition",
+      "subtitle": "95% OFF — $3.48 (Reg. $69.51)",
+      "description": "Rims Racing : Ultimate Edition is currently discounted by 95% down to $3.48 from $69.51. Rating: Verified (0%).",
+      "badge": "-95%",
+      "metricPrimary": "$3.48",
+      "metricSecondary": "Was $69.51",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://images.greenmangaming.com/e1cdac10807b4dd78337834ab4ca1837/a21ed18dfb334b8481276f4d5a4a538b.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=pL0ycMYPaE%252BwgqKKjSfUcEa3U1w8H9Zg6ao93asq7g0%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=Rims%20Racing%20%3A%20Ultimate%20Edition&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=Rims%20Racing%20%3A%20Ultimate%20Edition&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=Rims%20Racing%20%3A%20Ultimate%20Edition&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 95% ($66.03) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "deal-10",
+      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal10",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
@@ -254,8 +414,8 @@
       "hasDetailPage": true
     },
     {
-      "id": "deal-7",
-      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal7",
+      "id": "deal-11",
+      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal11",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
@@ -294,8 +454,48 @@
       "hasDetailPage": true
     },
     {
-      "id": "deal-8",
-      "slug": "suicide-squad-kill-the-justice-league-deluxe-edition-deal8",
+      "id": "deal-12",
+      "slug": "suicide-squad-kill-the-justice-league-deluxe-edition-deal12",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "Suicide Squad: Kill the Justice League - Deluxe Edition",
+      "subtitle": "95% OFF — $5.00 (Reg. $99.99)",
+      "description": "Suicide Squad: Kill the Justice League - Deluxe Edition is currently discounted by 95% down to $5.00 from $99.99. Rating: Verified (0%).",
+      "badge": "-95%",
+      "metricPrimary": "$5.00",
+      "metricSecondary": "Was $99.99",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://images.greenmangaming.com/98fb0e76d36341cea0f0ca36ce9c08c6/f08e60d2766549d6b1e89e25444a00e8.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=iirL%252BohewxhLZZSW7iig94q3r286K4MCAiVCYnSS%252FZg%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=Suicide%20Squad%3A%20Kill%20the%20Justice%20League%20-%20Deluxe%20Edition&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=Suicide%20Squad%3A%20Kill%20the%20Justice%20League%20-%20Deluxe%20Edition&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=Suicide%20Squad%3A%20Kill%20the%20Justice%20League%20-%20Deluxe%20Edition&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 95% ($94.99) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "deal-13",
+      "slug": "suicide-squad-kill-the-justice-league-deluxe-edition-deal13",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Suicide Squad: Kill the Justice League - Deluxe Edition",
@@ -331,11 +531,11 @@
         "Flash discount window can expire within hours",
         "Regional activation rules may vary by storefront"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "deal-9",
-      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal9",
+      "id": "deal-14",
+      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal14",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
@@ -371,18 +571,18 @@
         "Flash discount window can expire within hours",
         "Regional activation rules may vary by storefront"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "deal-10",
-      "slug": "the-incredible-adventures-of-van-helsing-anthology-deal10",
+      "id": "deal-15",
+      "slug": "the-incredible-adventures-of-van-helsing-anthology-deal15",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "The Incredible Adventures of Van Helsing Anthology",
-      "subtitle": "92% OFF — $6.10 (Reg. $74.99)",
-      "description": "The Incredible Adventures of Van Helsing Anthology is currently discounted by 92% down to $6.10 from $74.99. Rating: Mostly Positive (79%).",
-      "badge": "-92%",
-      "metricPrimary": "$6.10",
+      "subtitle": "93% OFF — $5.58 (Reg. $74.99)",
+      "description": "The Incredible Adventures of Van Helsing Anthology is currently discounted by 93% down to $5.58 from $74.99. Rating: Mostly Positive (79%).",
+      "badge": "-93%",
+      "metricPrimary": "$5.58",
       "metricSecondary": "Was $74.99",
       "ratingText": "Mostly Positive",
       "ratingScore": 79,
@@ -403,7 +603,7 @@
         }
       ],
       "pros": [
-        "Save 92% ($68.89) compared to retail price",
+        "Save 93% ($69.41) compared to retail price",
         "Verified community score: 79% (Mostly Positive)",
         "Instant digital delivery with global comparison options"
       ],
@@ -411,11 +611,11 @@
         "Flash discount window can expire within hours",
         "Regional activation rules may vary by storefront"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "deal-11",
-      "slug": "the-quarry-deluxe-edition-deal11",
+      "id": "deal-16",
+      "slug": "the-quarry-deluxe-edition-deal16",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "The Quarry Deluxe Edition",
@@ -451,11 +651,11 @@
         "Flash discount window can expire within hours",
         "Regional activation rules may vary by storefront"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "deal-12",
-      "slug": "the-incredible-adventures-of-van-helsing-anthology-deal12",
+      "id": "deal-17",
+      "slug": "the-incredible-adventures-of-van-helsing-anthology-deal17",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "The Incredible Adventures of Van Helsing Anthology",
@@ -491,11 +691,51 @@
         "Flash discount window can expire within hours",
         "Regional activation rules may vary by storefront"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "deal-13",
-      "slug": "need-for-speed-heat-deluxe-edition-deal13",
+      "id": "deal-18",
+      "slug": "hogwarts-legacy-deluxe-edition-deal18",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "Hogwarts Legacy: Deluxe Edition",
+      "subtitle": "91% OFF — $6.19 (Reg. $69.99)",
+      "description": "Hogwarts Legacy: Deluxe Edition is currently discounted by 91% down to $6.19 from $69.99. Rating: Verified (0%).",
+      "badge": "-91%",
+      "metricPrimary": "$6.19",
+      "metricSecondary": "Was $69.99",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://sttc.gamersgate.com/images/product/hogwarts-legacy-deluxe-edition/cover-180-5788a0.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=OdeM7qNg%252BMU8PRSFbbLMRYEP33iCTpZ%252BoG1PLLyuG%252Bw%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=Hogwarts%20Legacy%3A%20Deluxe%20Edition&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=Hogwarts%20Legacy%3A%20Deluxe%20Edition&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=Hogwarts%20Legacy%3A%20Deluxe%20Edition&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 91% ($63.80) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "deal-19",
+      "slug": "need-for-speed-heat-deluxe-edition-deal19",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Need for Speed Heat Deluxe Edition",
@@ -534,8 +774,8 @@
       "hasDetailPage": false
     },
     {
-      "id": "deal-14",
-      "slug": "battlefield-2042-elite-edition-deal14",
+      "id": "deal-20",
+      "slug": "battlefield-2042-elite-edition-deal20",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Battlefield 2042 Elite Edition",
@@ -574,8 +814,8 @@
       "hasDetailPage": false
     },
     {
-      "id": "deal-15",
-      "slug": "the-quarry-deluxe-edition-deal15",
+      "id": "deal-21",
+      "slug": "the-quarry-deluxe-edition-deal21",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "The Quarry Deluxe Edition",
@@ -614,8 +854,8 @@
       "hasDetailPage": false
     },
     {
-      "id": "deal-16",
-      "slug": "hogwarts-legacy-digital-deluxe-edition-deal16",
+      "id": "deal-22",
+      "slug": "hogwarts-legacy-digital-deluxe-edition-deal22",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Hogwarts Legacy: Digital Deluxe Edition",
@@ -654,8 +894,48 @@
       "hasDetailPage": false
     },
     {
-      "id": "deal-17",
-      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal17",
+      "id": "deal-23",
+      "slug": "back-4-blood-deluxe-deal23",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "Back 4 Blood Deluxe",
+      "subtitle": "91% OFF — $7.99 (Reg. $89.99)",
+      "description": "Back 4 Blood Deluxe is currently discounted by 91% down to $7.99 from $89.99. Rating: Verified (0%).",
+      "badge": "-91%",
+      "metricPrimary": "$7.99",
+      "metricSecondary": "Was $89.99",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://www.indiegalacdn.com/get_store_img?img=store-img_game/games/medium/924970_deluxe.jpg&s=medium",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=QP6em8WtgtgOaxwGaGnzPv%252BQbXmJ1dYi9B%252B6ORb%252BuVk%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=Back%204%20Blood%20Deluxe&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=Back%204%20Blood%20Deluxe&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=Back%204%20Blood%20Deluxe&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 91% ($82.00) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "deal-24",
+      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal24",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
@@ -694,303 +974,23 @@
       "hasDetailPage": false
     },
     {
-      "id": "deal-18",
-      "slug": "hogwarts-legacy-digital-deluxe-edition-deal18",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "Hogwarts Legacy: Digital Deluxe Edition",
-      "subtitle": "92% OFF — $5.91 (Reg. $69.99)",
-      "description": "Hogwarts Legacy: Digital Deluxe Edition is currently discounted by 92% down to $5.91 from $69.99. Rating: Verified (0%).",
-      "badge": "-92%",
-      "metricPrimary": "$5.91",
-      "metricSecondary": "Was $69.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://cdn.fanatical.com/production/product/400x225/84c9abcd-0085-40bf-bb00-c3ff9b423e4a.jpeg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=FSntRT8r4zzPEj51KfIIucloVbaMvIltw03ZFe79V2I%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=Hogwarts%20Legacy%3A%20Digital%20Deluxe%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=Hogwarts%20Legacy%3A%20Digital%20Deluxe%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=Hogwarts%20Legacy%3A%20Digital%20Deluxe%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 92% ($64.08) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-19",
-      "slug": "lego-star-wars-the-skywalker-saga-galactic-edition-deal19",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "LEGO Star Wars: The Skywalker Saga Galactic Edition",
-      "subtitle": "92% OFF — $5.91 (Reg. $69.99)",
-      "description": "LEGO Star Wars: The Skywalker Saga Galactic Edition is currently discounted by 92% down to $5.91 from $69.99. Rating: Very Positive (90%).",
-      "badge": "-92%",
-      "metricPrimary": "$5.91",
-      "metricSecondary": "Was $69.99",
-      "ratingText": "Very Positive",
-      "ratingScore": 90,
-      "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/785847/capsule_231x87.jpg?t=1698432746",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=o1xlhLpb3VyKF7qgLENW3eVPY0GWlZJTHsDUoEY%252FUvU%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=LEGO%20Star%20Wars%3A%20The%20Skywalker%20Saga%20Galactic%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=LEGO%20Star%20Wars%3A%20The%20Skywalker%20Saga%20Galactic%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=LEGO%20Star%20Wars%3A%20The%20Skywalker%20Saga%20Galactic%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 92% ($64.08) compared to retail price",
-        "Verified community score: 90% (Very Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-20",
-      "slug": "synduality-echo-of-ada-deluxe-edition-deal20",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "SYNDUALITY: Echo of Ada Deluxe Edition",
-      "subtitle": "92% OFF — $5.91 (Reg. $69.99)",
-      "description": "SYNDUALITY: Echo of Ada Deluxe Edition is currently discounted by 92% down to $5.91 from $69.99. Rating: Verified (0%).",
-      "badge": "-92%",
-      "metricPrimary": "$5.91",
-      "metricSecondary": "Was $69.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://sttc.gamersgate.com/images/product/synduality-echo-of-ada-deluxe-edition/cover-180-4acb62.jpg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=0NreKZ%252BRouiLaNqOq%252BZa77aAXnwBJIOCyQ1leWqzSUA%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=SYNDUALITY%3A%20Echo%20of%20Ada%20Deluxe%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=SYNDUALITY%3A%20Echo%20of%20Ada%20Deluxe%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=SYNDUALITY%3A%20Echo%20of%20Ada%20Deluxe%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 92% ($64.08) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-21",
-      "slug": "middle-earth-the-shadow-bundle-deal21",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "Middle-earth: The Shadow Bundle",
-      "subtitle": "92% OFF — $5.91 (Reg. $69.99)",
-      "description": "Middle-earth: The Shadow Bundle is currently discounted by 92% down to $5.91 from $69.99. Rating: Very Positive (90%).",
-      "badge": "-92%",
-      "metricPrimary": "$5.91",
-      "metricSecondary": "Was $69.99",
-      "ratingText": "Very Positive",
-      "ratingScore": 90,
-      "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/648168/capsule_231x87.jpg?t=1773778564",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=GbuwYYGcMsW8hFsmf9xqtSqxJDG2ePqShKtL%252B3hcgdM%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=Middle-earth%3A%20The%20Shadow%20Bundle&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=Middle-earth%3A%20The%20Shadow%20Bundle&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=Middle-earth%3A%20The%20Shadow%20Bundle&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 92% ($64.08) compared to retail price",
-        "Verified community score: 90% (Very Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-22",
-      "slug": "the-quarry-deluxe-edition-deal22",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "The Quarry Deluxe Edition",
-      "subtitle": "90% OFF — $7.00 (Reg. $69.99)",
-      "description": "The Quarry Deluxe Edition is currently discounted by 90% down to $7.00 from $69.99. Rating: Verified (0%).",
-      "badge": "-90%",
-      "metricPrimary": "$7.00",
-      "metricSecondary": "Was $69.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://sttc.gamersgate.com/images/product/the-quarry-deluxe-edition/cover-180-c14ad4.jpg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=9tPnec%252FwZuA%252FRJMCXuoMWg7u7G9Wryn%252BcuchsepznAQ%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=The%20Quarry%20Deluxe%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=The%20Quarry%20Deluxe%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=The%20Quarry%20Deluxe%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 90% ($62.99) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-23",
-      "slug": "hogwarts-legacy-deluxe-edition-deal23",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "Hogwarts Legacy: Deluxe Edition",
-      "subtitle": "90% OFF — $7.00 (Reg. $69.99)",
-      "description": "Hogwarts Legacy: Deluxe Edition is currently discounted by 90% down to $7.00 from $69.99. Rating: Verified (0%).",
-      "badge": "-90%",
-      "metricPrimary": "$7.00",
-      "metricSecondary": "Was $69.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://sttc.gamersgate.com/images/product/hogwarts-legacy-deluxe-edition/cover-180-5788a0.jpg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=%252FzdAUEWh%252BKzFBQIWs8DYBYK%252FolSDyg66qYo%252BJIQ3Pww%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=Hogwarts%20Legacy%3A%20Deluxe%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=Hogwarts%20Legacy%3A%20Deluxe%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=Hogwarts%20Legacy%3A%20Deluxe%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 90% ($62.99) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-24",
-      "slug": "code-vein-deluxe-edition-deal24",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "CODE VEIN Deluxe Edition",
-      "subtitle": "92% OFF — $6.76 (Reg. $79.99)",
-      "description": "CODE VEIN Deluxe Edition is currently discounted by 92% down to $6.76 from $79.99. Rating: Verified (0%).",
-      "badge": "-92%",
-      "metricPrimary": "$6.76",
-      "metricSecondary": "Was $79.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://sttc.gamersgate.com/images/product/code-vein-deluxe-edition/cover-180-26ad0a.jpg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=JW7kyRhzEdbZMsW%252Fu3uxrHWeFtLFbYEmO9mFGv46HEk%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=CODE%20VEIN%20Deluxe%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=CODE%20VEIN%20Deluxe%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=CODE%20VEIN%20Deluxe%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 92% ($73.23) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
       "id": "ai-1",
-      "slug": "heygen-com-hyperframes-ai1",
+      "slug": "unslothai-unsloth-ai1",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "heygen-com/hyperframes",
-      "subtitle": "GitHub AI • TypeScript • 87,151 signals",
-      "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
-      "badge": "★ 87,151",
-      "metricPrimary": "TypeScript",
-      "metricSecondary": "87,151 Stars/Reactions",
+      "title": "unslothai/unsloth",
+      "subtitle": "GitHub AI • Python • 79,837 signals",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+      "badge": "★ 79,837",
+      "metricPrimary": "Python",
+      "metricSecondary": "79,837 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 87151,
+      "ratingScore": 79837,
       "thumb": "",
-      "outboundUrl": "https://github.com/heygen-com/hyperframes?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/unslothai/unsloth?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (87,151 stars/reactions)",
+        "Active community traction (79,837 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1002,22 +1002,22 @@
     },
     {
       "id": "ai-2",
-      "slug": "omnigent-ai-omnigent-ai2",
+      "slug": "pingdotgg-t3code-ai2",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "omnigent-ai/omnigent",
-      "subtitle": "GitHub AI • Python • 11,450 signals",
-      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
-      "badge": "★ 11,450",
-      "metricPrimary": "Python",
-      "metricSecondary": "11,450 Stars/Reactions",
+      "title": "pingdotgg/t3code",
+      "subtitle": "GitHub AI • TypeScript • 67,623 signals",
+      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+      "badge": "★ 67,623",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "67,623 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 11450,
+      "ratingScore": 67623,
       "thumb": "",
-      "outboundUrl": "https://github.com/omnigent-ai/omnigent?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/pingdotgg/t3code?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (11,450 stars/reactions)",
+        "Active community traction (67,623 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1029,22 +1029,22 @@
     },
     {
       "id": "ai-3",
-      "slug": "golemcloud-golem-ai3",
+      "slug": "docmost-docmost-ai3",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "golemcloud/golem",
-      "subtitle": "GitHub AI • Rust • 1,506 signals",
-      "description": "Golem is a secure, reliable runtime for agents, tools, and artifacts, powered by lightweight durable WASM VMs, with permissions agents can't bypass.",
-      "badge": "★ 1,506",
-      "metricPrimary": "Rust",
-      "metricSecondary": "1,506 Stars/Reactions",
+      "title": "docmost/docmost",
+      "subtitle": "GitHub AI • TypeScript • 22,388 signals",
+      "description": "Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.",
+      "badge": "★ 22,388",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "22,388 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 1506,
+      "ratingScore": 22388,
       "thumb": "",
-      "outboundUrl": "https://github.com/golemcloud/golem?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/docmost/docmost?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (1,506 stars/reactions)",
+        "Active community traction (22,388 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1056,22 +1056,22 @@
     },
     {
       "id": "ai-4",
-      "slug": "ifixai-ai-ifixai-ai4",
+      "slug": "n8n-io-n8n-ai4",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "ifixai-ai/iFixAi",
-      "subtitle": "GitHub AI • Python • 46,192 signals",
-      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
-      "badge": "★ 46,192",
-      "metricPrimary": "Python",
-      "metricSecondary": "46,192 Stars/Reactions",
+      "title": "n8n-io/n8n",
+      "subtitle": "GitHub AI • TypeScript • 211,530 signals",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "badge": "★ 211,530",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "211,530 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 46192,
+      "ratingScore": 211530,
       "thumb": "",
-      "outboundUrl": "https://github.com/ifixai-ai/iFixAi?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/n8n-io/n8n?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (46,192 stars/reactions)",
+        "Active community traction (211,530 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1083,22 +1083,22 @@
     },
     {
       "id": "ai-5",
-      "slug": "tencent-weknora-ai5",
+      "slug": "pbakaus-impeccable-ai5",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "Tencent/WeKnora",
-      "subtitle": "GitHub AI • Go • 37,847 signals",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "badge": "★ 37,847",
-      "metricPrimary": "Go",
-      "metricSecondary": "37,847 Stars/Reactions",
+      "title": "pbakaus/impeccable",
+      "subtitle": "GitHub AI • Rust • 113,960 signals",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "badge": "★ 113,960",
+      "metricPrimary": "Rust",
+      "metricSecondary": "113,960 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 37847,
+      "ratingScore": 113960,
       "thumb": "",
-      "outboundUrl": "https://github.com/Tencent/WeKnora?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/pbakaus/impeccable?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (37,847 stars/reactions)",
+        "Active community traction (113,960 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1110,22 +1110,22 @@
     },
     {
       "id": "ai-6",
-      "slug": "rlaope-oh-my-hermes-ai6",
+      "slug": "morluto-rea-ai6",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "rlaope/oh-my-hermes",
-      "subtitle": "GitHub AI • Python • 5,800 signals",
-      "description": "⚚ The ultrawork agent with AI coworkers wired into you",
-      "badge": "★ 5,800",
-      "metricPrimary": "Python",
-      "metricSecondary": "5,800 Stars/Reactions",
+      "title": "morluto/rea",
+      "subtitle": "GitHub AI • TypeScript • 471,310 signals",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "badge": "★ 471,310",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "471,310 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 5800,
+      "ratingScore": 471310,
       "thumb": "",
-      "outboundUrl": "https://github.com/rlaope/oh-my-hermes?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/morluto/rea?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (5,800 stars/reactions)",
+        "Active community traction (471,310 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1137,22 +1137,22 @@
     },
     {
       "id": "ai-7",
-      "slug": "nexu-io-openmotion-ai7",
+      "slug": "heygen-com-hyperframes-ai7",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "nexu-io/openmotion",
-      "subtitle": "GitHub AI • TypeScript • 13,282 signals",
-      "description": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
-      "badge": "★ 13,282",
+      "title": "heygen-com/hyperframes",
+      "subtitle": "GitHub AI • TypeScript • 87,404 signals",
+      "description": "AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.",
+      "badge": "★ 87,404",
       "metricPrimary": "TypeScript",
-      "metricSecondary": "13,282 Stars/Reactions",
+      "metricSecondary": "87,404 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 13282,
+      "ratingScore": 87404,
       "thumb": "",
-      "outboundUrl": "https://github.com/nexu-io/openmotion?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/heygen-com/hyperframes?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (13,282 stars/reactions)",
+        "Active community traction (87,404 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1164,22 +1164,22 @@
     },
     {
       "id": "ai-8",
-      "slug": "supabase-supabase-ai8",
+      "slug": "firecrawl-firecrawl-ai8",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "supabase/supabase",
-      "subtitle": "GitHub AI • TypeScript • 115,188 signals",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "badge": "★ 115,188",
+      "title": "firecrawl/firecrawl",
+      "subtitle": "GitHub AI • TypeScript • 205,096 signals",
+      "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "badge": "★ 205,096",
       "metricPrimary": "TypeScript",
-      "metricSecondary": "115,188 Stars/Reactions",
+      "metricSecondary": "205,096 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 115188,
+      "ratingScore": 205096,
       "thumb": "",
-      "outboundUrl": "https://github.com/supabase/supabase?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/firecrawl/firecrawl?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (115,188 stars/reactions)",
+        "Active community traction (205,096 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1191,22 +1191,22 @@
     },
     {
       "id": "ai-9",
-      "slug": "qwenlm-qwen-code-ai9",
+      "slug": "openclaw-openclaw-ai9",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "QwenLM/qwen-code",
-      "subtitle": "GitHub AI • TypeScript • 30,798 signals",
-      "description": "An open-source AI coding agent that lives in your terminal.",
-      "badge": "★ 30,798",
+      "title": "openclaw/openclaw",
+      "subtitle": "GitHub AI • TypeScript • 394,920 signals",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "badge": "★ 394,920",
       "metricPrimary": "TypeScript",
-      "metricSecondary": "30,798 Stars/Reactions",
+      "metricSecondary": "394,920 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 30798,
+      "ratingScore": 394920,
       "thumb": "",
-      "outboundUrl": "https://github.com/QwenLM/qwen-code?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/openclaw/openclaw?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (30,798 stars/reactions)",
+        "Active community traction (394,920 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1218,22 +1218,22 @@
     },
     {
       "id": "ai-10",
-      "slug": "pingdotgg-t3code-ai10",
+      "slug": "mesh-llm-mesh-llm-ai10",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "pingdotgg/t3code",
-      "subtitle": "GitHub AI • TypeScript • 66,755 signals",
-      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-      "badge": "★ 66,755",
-      "metricPrimary": "TypeScript",
-      "metricSecondary": "66,755 Stars/Reactions",
+      "title": "Mesh-LLM/mesh-llm",
+      "subtitle": "GitHub AI • Rust • 4,181 signals",
+      "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+      "badge": "★ 4,181",
+      "metricPrimary": "Rust",
+      "metricSecondary": "4,181 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 66755,
+      "ratingScore": 4181,
       "thumb": "",
-      "outboundUrl": "https://github.com/pingdotgg/t3code?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/Mesh-LLM/mesh-llm?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (66,755 stars/reactions)",
+        "Active community traction (4,181 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1245,22 +1245,22 @@
     },
     {
       "id": "ai-11",
-      "slug": "unslothai-unsloth-ai11",
+      "slug": "baarai-artex-ai11",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "unslothai/unsloth",
-      "subtitle": "GitHub AI • Python • 79,813 signals",
-      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
-      "badge": "★ 79,813",
-      "metricPrimary": "Python",
-      "metricSecondary": "79,813 Stars/Reactions",
+      "title": "BaaRai/ARTEX",
+      "subtitle": "GitHub AI • Go • 13,461 signals",
+      "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "badge": "★ 13,461",
+      "metricPrimary": "Go",
+      "metricSecondary": "13,461 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 79813,
+      "ratingScore": 13461,
       "thumb": "",
-      "outboundUrl": "https://github.com/unslothai/unsloth?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/BaaRai/ARTEX?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (79,813 stars/reactions)",
+        "Active community traction (13,461 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1272,22 +1272,22 @@
     },
     {
       "id": "ai-12",
-      "slug": "infiniflow-ragflow-ai12",
+      "slug": "speedyapply-2027-ai-college-jobs-ai12",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "infiniflow/ragflow",
-      "subtitle": "GitHub AI • Go • 94,461 signals",
-      "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
-      "badge": "★ 94,461",
-      "metricPrimary": "Go",
-      "metricSecondary": "94,461 Stars/Reactions",
+      "title": "speedyapply/2027-AI-College-Jobs",
+      "subtitle": "GitHub AI • AI / Multi • 6,656 signals",
+      "description": "2027 AI/ML internship & new graduate job list updated daily",
+      "badge": "★ 6,656",
+      "metricPrimary": "AI / Multi",
+      "metricSecondary": "6,656 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 94461,
+      "ratingScore": 6656,
       "thumb": "",
-      "outboundUrl": "https://github.com/infiniflow/ragflow?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/speedyapply/2027-AI-College-Jobs?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (94,461 stars/reactions)",
+        "Active community traction (6,656 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1299,22 +1299,22 @@
     },
     {
       "id": "ai-13",
-      "slug": "openclaw-openclaw-ai13",
+      "slug": "simstudioai-sim-ai13",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "openclaw/openclaw",
-      "subtitle": "GitHub AI • TypeScript • 394,863 signals",
-      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "badge": "★ 394,863",
+      "title": "simstudioai/sim",
+      "subtitle": "GitHub AI • TypeScript • 30,168 signals",
+      "description": "Sim is the collaborative workspace to build, deploy, and monitor AI agents and workflows. Used by 100,000+ builders.",
+      "badge": "★ 30,168",
       "metricPrimary": "TypeScript",
-      "metricSecondary": "394,863 Stars/Reactions",
+      "metricSecondary": "30,168 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 394863,
+      "ratingScore": 30168,
       "thumb": "",
-      "outboundUrl": "https://github.com/openclaw/openclaw?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/simstudioai/sim?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (394,863 stars/reactions)",
+        "Active community traction (30,168 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1326,22 +1326,22 @@
     },
     {
       "id": "ai-14",
-      "slug": "mlflow-mlflow-ai14",
+      "slug": "qwenlm-qwen-code-ai14",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "mlflow/mlflow",
-      "subtitle": "GitHub AI • Python • 28,904 signals",
-      "description": "The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.",
-      "badge": "★ 28,904",
-      "metricPrimary": "Python",
-      "metricSecondary": "28,904 Stars/Reactions",
+      "title": "QwenLM/qwen-code",
+      "subtitle": "GitHub AI • TypeScript • 30,814 signals",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "badge": "★ 30,814",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "30,814 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 28904,
+      "ratingScore": 30814,
       "thumb": "",
-      "outboundUrl": "https://github.com/mlflow/mlflow?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/QwenLM/qwen-code?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (28,904 stars/reactions)",
+        "Active community traction (30,814 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1353,22 +1353,22 @@
     },
     {
       "id": "ai-15",
-      "slug": "logancyang-obsidian-copilot-ai15",
+      "slug": "fission-ai-openspec-ai15",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "logancyang/obsidian-copilot",
-      "subtitle": "GitHub AI • TypeScript • 8,023 signals",
-      "description": "Run agents in Obsidian - OpenCode, Codex, Claude Code etc.",
-      "badge": "★ 8,023",
+      "title": "Fission-AI/OpenSpec",
+      "subtitle": "GitHub AI • TypeScript • 75,341 signals",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "badge": "★ 75,341",
       "metricPrimary": "TypeScript",
-      "metricSecondary": "8,023 Stars/Reactions",
+      "metricSecondary": "75,341 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 8023,
+      "ratingScore": 75341,
       "thumb": "",
-      "outboundUrl": "https://github.com/logancyang/obsidian-copilot?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/Fission-AI/OpenSpec?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (8,023 stars/reactions)",
+        "Active community traction (75,341 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1384,18 +1384,18 @@
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Is Coding with AI Actually Faster and Cheaper?",
-      "subtitle": "Dev.to AI • ai, programming • 170 signals",
+      "subtitle": "Dev.to AI • ai, programming • 194 signals",
       "description": "How has AI actually changed the way we work? Are coding agents really making us remarkably faster?...",
-      "badge": "♥ 170",
+      "badge": "♥ 194",
       "metricPrimary": "ai, programming",
-      "metricSecondary": "170 Stars/Reactions",
+      "metricSecondary": "194 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 170,
+      "ratingScore": 194,
       "thumb": "",
       "outboundUrl": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (170 stars/reactions)",
+        "Active community traction (194 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1411,18 +1411,18 @@
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "The CodeNewbie Podcast is Back for Season 28!",
-      "subtitle": "Dev.to AI • codenewbie, ai • 71 signals",
+      "subtitle": "Dev.to AI • codenewbie, ai • 77 signals",
       "description": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting...",
-      "badge": "♥ 71",
+      "badge": "♥ 77",
       "metricPrimary": "codenewbie, ai",
-      "metricSecondary": "71 Stars/Reactions",
+      "metricSecondary": "77 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 71,
+      "ratingScore": 77,
       "thumb": "",
       "outboundUrl": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (71 stars/reactions)",
+        "Active community traction (77 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1434,22 +1434,22 @@
     },
     {
       "id": "ai-18",
-      "slug": "congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-gh-ai18",
+      "slug": "tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcas-ai18",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
-      "title": "Congrats to the Hacktoberfest Open-Source AI Challenge Week 4: Ghost in the Machine Winners!",
-      "subtitle": "Dev.to AI • devchallenge, hf26challenge • 117 signals",
-      "description": "The results are in for the final week of our Hacktoberfest DEV Challenges! For Ghost in the Machine,...",
-      "badge": "♥ 117",
-      "metricPrimary": "devchallenge, hf26challenge",
-      "metricSecondary": "117 Stars/Reactions",
+      "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
+      "subtitle": "Dev.to AI • codenewbie, ai • 26 signals",
+      "description": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
+      "badge": "♥ 26",
+      "metricPrimary": "codenewbie, ai",
+      "metricSecondary": "26 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 117,
+      "ratingScore": 26,
       "thumb": "",
-      "outboundUrl": "https://dev.to/devteam/congrats-to-the-hacktoberfest-open-source-ai-challenge-week-4-ghost-in-the-machine-winners-nok?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (117 stars/reactions)",
+        "Active community traction (26 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1492,18 +1492,18 @@
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "AI Avatar v28 (Security Support, Voxel Avatar)🛡️",
-      "subtitle": "Dev.to AI • ai, webdev • 76 signals",
+      "subtitle": "Dev.to AI • ai, webdev • 81 signals",
       "description": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
-      "badge": "♥ 76",
+      "badge": "♥ 81",
       "metricPrimary": "ai, webdev",
-      "metricSecondary": "76 Stars/Reactions",
+      "metricSecondary": "81 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 76,
+      "ratingScore": 81,
       "thumb": "",
       "outboundUrl": "https://dev.to/webdeveloperhyper/ai-avatar-v28-security-support-voxel-avatar-2i5i?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (76 stars/reactions)",
+        "Active community traction (81 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1515,22 +1515,22 @@
     },
     {
       "id": "ai-21",
-      "slug": "stratagems-36-they-finished-their-coffee-the-ai-still-has-no-ans-ai21",
+      "slug": "i-can-t-believe-the-podcast-i-learned-to-code-with-is-back-ai21",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
-      "title": "Stratagems #36: They Finished Their Coffee. The AI Still Has No Answer.",
-      "subtitle": "Dev.to AI • discuss, ai • 101 signals",
-      "description": "Know When to Walk Away  The Thirty-Six Stratagems, Stratagem 36               Open as Usual   When...",
-      "badge": "♥ 101",
-      "metricPrimary": "discuss, ai",
-      "metricSecondary": "101 Stars/Reactions",
+      "title": "I can't believe the podcast I learned to code with is back!",
+      "subtitle": "Dev.to AI • codenewbie, podcast • 26 signals",
+      "description": "Hi friends! 👋   Okay, storytime 🎬 Felt the urge to share this here too, since DEV is where it all...",
+      "badge": "♥ 26",
+      "metricPrimary": "codenewbie, podcast",
+      "metricSecondary": "26 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 101,
+      "ratingScore": 26,
       "thumb": "",
-      "outboundUrl": "https://dev.to/xulingfeng/stratagems-36-they-finished-their-coffee-the-ai-still-has-no-answer-4igh?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (101 stars/reactions)",
+        "Active community traction (26 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1546,18 +1546,18 @@
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.",
-      "subtitle": "Dev.to AI • ai, aws • 61 signals",
+      "subtitle": "Dev.to AI • ai, aws • 74 signals",
       "description": "AI agents now open pull requests on their own. I gave Amazon Nova Pro a real GitHub bug, then built a deterministic Python gate that rejects it when it cannot prove the fix. No model grades the model.",
-      "badge": "♥ 61",
+      "badge": "♥ 74",
       "metricPrimary": "ai, aws",
-      "metricSecondary": "61 Stars/Reactions",
+      "metricSecondary": "74 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 61,
+      "ratingScore": 74,
       "thumb": "",
       "outboundUrl": "https://dev.to/aws-builders/ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-that-rejects-the-ones-that-lie-46n7?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (61 stars/reactions)",
+        "Active community traction (74 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1569,22 +1569,22 @@
     },
     {
       "id": "ai-23",
-      "slug": "could-i-still-do-this-from-scratch-ai23",
+      "slug": "stratagems-36-they-finished-their-coffee-the-ai-still-has-no-ans-ai23",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
-      "title": "Could I Still Do This From Scratch?",
-      "subtitle": "Dev.to AI • ai, programming • 68 signals",
-      "description": "The thing that every dev I know is quietly worrying about is not AI taking their job. It's losing the...",
-      "badge": "♥ 68",
-      "metricPrimary": "ai, programming",
-      "metricSecondary": "68 Stars/Reactions",
+      "title": "Stratagems #36: They Finished Their Coffee. The AI Still Has No Answer.",
+      "subtitle": "Dev.to AI • discuss, ai • 103 signals",
+      "description": "Know When to Walk Away  The Thirty-Six Stratagems, Stratagem 36               Open as Usual   When...",
+      "badge": "♥ 103",
+      "metricPrimary": "discuss, ai",
+      "metricSecondary": "103 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 68,
+      "ratingScore": 103,
       "thumb": "",
-      "outboundUrl": "https://dev.to/dannwaneri/could-i-still-do-this-from-scratch-427h?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://dev.to/xulingfeng/stratagems-36-they-finished-their-coffee-the-ai-still-has-no-answer-4igh?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (68 stars/reactions)",
+        "Active community traction (103 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1596,22 +1596,22 @@
     },
     {
       "id": "ai-24",
-      "slug": "remove-bg-is-shutting-down-here-s-a-free-no-upload-alternative-ai24",
+      "slug": "could-i-still-do-this-from-scratch-ai24",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
-      "title": "remove.bg Is Shutting Down — Here's a Free, No-Upload Alternative",
-      "subtitle": "Dev.to AI • showdev, webdev • 106 signals",
-      "description": "On December 1, 2026 at 9:00 AM CET, remove.bg — the site that turned \"one-click background removal\"...",
-      "badge": "♥ 106",
-      "metricPrimary": "showdev, webdev",
-      "metricSecondary": "106 Stars/Reactions",
+      "title": "Could I Still Do This From Scratch?",
+      "subtitle": "Dev.to AI • ai, programming • 69 signals",
+      "description": "The thing that every dev I know is quietly worrying about is not AI taking their job. It's losing the...",
+      "badge": "♥ 69",
+      "metricPrimary": "ai, programming",
+      "metricSecondary": "69 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 106,
+      "ratingScore": 69,
       "thumb": "",
-      "outboundUrl": "https://dev.to/akhourianmolkumar/removebg-is-shutting-down-heres-a-free-no-upload-alternative-4ebo?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://dev.to/dannwaneri/could-i-still-do-this-from-scratch-427h?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (106 stars/reactions)",
+        "Active community traction (69 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1623,22 +1623,22 @@
     },
     {
       "id": "ai-25",
-      "slug": "can-t-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-p-ai25",
+      "slug": "what-team-wide-ai-adoption-actually-takes-ai25",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
-      "title": "Can't Beat Free: Gemma 4 31B on AMD Token Lab, with a Local Chat Page and an ADK Agent",
-      "subtitle": "Dev.to AI • gemma, amd • 42 signals",
-      "description": "AMD Token Lab is a free OpenAI-compatible API on AMD GPUs that comes with the AMD AI Developer Program. How to sign up, a local chat page that keeps the key off the browser, a terminal client, and a small ADK agent that calls Gemma 4 31B through it.",
-      "badge": "♥ 42",
-      "metricPrimary": "gemma, amd",
-      "metricSecondary": "42 Stars/Reactions",
+      "title": "What team-wide AI adoption actually takes",
+      "subtitle": "Dev.to AI • ai, productivity • 49 signals",
+      "description": "I've tried nearly every way to make AI practical at work: new models, routers, agent frameworks,...",
+      "badge": "♥ 49",
+      "metricPrimary": "ai, productivity",
+      "metricSecondary": "49 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 42,
+      "ratingScore": 49,
       "thumb": "",
-      "outboundUrl": "https://dev.to/gde/cant-beat-free-gemma-4-31b-on-amd-token-lab-with-a-local-chat-page-and-an-adk-agent-c5b?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://dev.to/peter/what-team-wide-ai-adoption-actually-takes-1gbh?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (42 stars/reactions)",
+        "Active community traction (49 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1650,22 +1650,22 @@
     },
     {
       "id": "ai-26",
-      "slug": "one-month-after-the-hackathon-why-my-4-service-app-stopped-worki-ai26",
+      "slug": "agentic-engineering-a-smart-home-energy-system-with-antigravity--ai26",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
-      "title": "One Month After the Hackathon: Why My 4-Service App Stopped Working (and What @mansio Caught in the Verifiers)",
-      "subtitle": "Dev.to AI • ai, javascript • 54 signals",
-      "description": "What breaks a month after a hackathon, and what a fellow DEV writer caught in the verifiers.   TL;DR:...",
-      "badge": "♥ 54",
-      "metricPrimary": "ai, javascript",
-      "metricSecondary": "54 Stars/Reactions",
+      "title": "Agentic engineering a smart home energy system with Antigravity and Gemini 4",
+      "subtitle": "Dev.to AI • ai, antigravity • 19 signals",
+      "description": "Running rooftop solar, a home battery, two electric vehicles (EVs), and dynamic hourly electricity...",
+      "badge": "♥ 19",
+      "metricPrimary": "ai, antigravity",
+      "metricSecondary": "19 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 54,
+      "ratingScore": 19,
       "thumb": "",
-      "outboundUrl": "https://dev.to/earlgreyhot1701d/one-month-after-the-hackathon-why-my-4-service-app-stopped-working-and-what-mansio-caught-in-the-3i8h?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://dev.to/googleai/agentic-engineering-a-smart-home-energy-system-with-antigravity-and-gemini-4-53md?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (54 stars/reactions)",
+        "Active community traction (19 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1677,22 +1677,22 @@
     },
     {
       "id": "ai-27",
-      "slug": "five-palaces-one-model-testing-google-s-gemini-4-hydrogen-in-ai--ai27",
+      "slug": "why-your-ai-agent-keeps-forgetting-and-getting-slower-4-memory-o-ai27",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
-      "title": "Five Palaces, One Model: Testing Google’s Gemini 4 Hydrogen in AI Studio",
-      "subtitle": "Dev.to AI • gemini, ai • 17 signals",
-      "description": "Last week Google shipped Gemini 4 Hydrogen, and within hours my X timeline was nothing but 3D scenes,...",
-      "badge": "♥ 17",
-      "metricPrimary": "gemini, ai",
-      "metricSecondary": "17 Stars/Reactions",
+      "title": "Why Your AI Agent Keeps Forgetting (and Getting Slower): 4 Memory Options and 3 Context Fixes",
+      "subtitle": "Dev.to AI • ai, agents • 19 signals",
+      "description": "Most AI agents have two memory problems. They forget what a user told them last week, and every turn...",
+      "badge": "♥ 19",
+      "metricPrimary": "ai, agents",
+      "metricSecondary": "19 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 17,
+      "ratingScore": 19,
       "thumb": "",
-      "outboundUrl": "https://dev.to/amananandrai/i-built-5-interactive-3d-palaces-with-googles-new-gemini-4-hydrogen-in-ai-studio-5g8h?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://dev.to/googleai/why-your-ai-agent-keeps-forgetting-and-getting-slower-4-memory-options-and-3-context-fixes-2e02?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (17 stars/reactions)",
+        "Active community traction (19 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1704,23 +1704,23 @@
     },
     {
       "id": "job-1",
-      "slug": "enterprise-account-executive-emea-abacum-job1",
+      "slug": "senior-network-engineer-all-genders-cisco-fortinet-teccle-group--job1",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Enterprise Account Executive - EMEA",
-      "subtitle": "Abacum • Remote (Remote)",
-      "description": "Hiring at Abacum (Remote (Remote)). Skills & tags: Sales.",
+      "title": "Senior Network Engineer (all genders) – Cisco & Fortinet",
+      "subtitle": "teccle group GmbH • Remote (Homeoffice)",
+      "description": "Hiring at teccle group GmbH (Remote (Homeoffice)). Skills & tags: System Engineer, Remote.",
       "badge": "REMOTE",
-      "metricPrimary": "Abacum",
-      "metricSecondary": "Remote (Remote)",
-      "ratingText": "Sales",
+      "metricPrimary": "teccle group GmbH",
+      "metricSecondary": "Remote (Homeoffice)",
+      "ratingText": "System Engineer • Remote",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/abacum/remote-enterprise-account-executive-emea-132408?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-network-engineer-all-genders-cisco-fortinet-st-ingbert-2612?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at Abacum",
-        "Tagged stack: Sales",
+        "Direct application listing at teccle group GmbH",
+        "Tagged stack: System Engineer, Remote",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -1731,23 +1731,23 @@
     },
     {
       "id": "job-2",
-      "slug": "implementation-manager-german-speaking-m-w-d-kraken-job2",
+      "slug": "it-security-engineer-all-genders-teccle-group-gmbh-job2",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Implementation Manager - German Speaking (m/w/d)",
-      "subtitle": "Kraken • Remote (Remote)",
-      "description": "Hiring at Kraken (Remote (Remote)). Skills & tags: Delivery Tech.",
+      "title": "IT Security Engineer (all genders)",
+      "subtitle": "teccle group GmbH • Remote (Homeoffice)",
+      "description": "Hiring at teccle group GmbH (Remote (Homeoffice)). Skills & tags: System Engineer, Remote.",
       "badge": "REMOTE",
-      "metricPrimary": "Kraken",
-      "metricSecondary": "Remote (Remote)",
-      "ratingText": "Delivery Tech",
+      "metricPrimary": "teccle group GmbH",
+      "metricSecondary": "Remote (Homeoffice)",
+      "ratingText": "System Engineer • Remote",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/kraken/remote-implementation-manager-german-speaking-102106?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-it-security-engineer-all-genders-st-ingbert-270949?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at Kraken",
-        "Tagged stack: Delivery Tech",
+        "Direct application listing at teccle group GmbH",
+        "Tagged stack: System Engineer, Remote",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -1758,23 +1758,23 @@
     },
     {
       "id": "job-3",
-      "slug": "client-delivery-lead-f-m-d-kraken-job3",
+      "slug": "ai-full-stack-developer-m-w-d-neon-software-solutions-job3",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Client Delivery Lead (f/m/d)",
-      "subtitle": "Kraken • Remote (Remote)",
-      "description": "Hiring at Kraken (Remote (Remote)). Skills & tags: Delivery Tech.",
+      "title": "AI Full-Stack Developer (m/w/d)",
+      "subtitle": "NEON Software Solutions • Remote (Berlin)",
+      "description": "Hiring at NEON Software Solutions (Remote (Berlin)). Skills & tags: Remote, Software Development.",
       "badge": "REMOTE",
-      "metricPrimary": "Kraken",
-      "metricSecondary": "Remote (Remote)",
-      "ratingText": "Delivery Tech",
+      "metricPrimary": "NEON Software Solutions",
+      "metricSecondary": "Remote (Berlin)",
+      "ratingText": "Remote • Software Development",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/kraken/remote-client-delivery-lead-330650?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/neon-software-solutions/ai-full-stack-developer-berlin-465878?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at Kraken",
-        "Tagged stack: Delivery Tech",
+        "Direct application listing at NEON Software Solutions",
+        "Tagged stack: Remote, Software Development",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -1785,23 +1785,23 @@
     },
     {
       "id": "job-4",
-      "slug": "global-talent-acquisition-partnert-all-genders-distribusion-tech-job4",
+      "slug": "developer-c-net-as-freelancer-all-genders-vexcash-ag-job4",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Global Talent Acquisition Partnert (all genders)",
-      "subtitle": "Distribusion Technologies • Remote (Remote job)",
-      "description": "Hiring at Distribusion Technologies (Remote (Remote job)). Skills & tags: People, Remote.",
+      "title": "Developer C# / .NET as Freelancer (all genders)",
+      "subtitle": "Vexcash AG • Remote (Berlin)",
+      "description": "Hiring at Vexcash AG (Remote (Berlin)). Skills & tags: Remote, Software Development.",
       "badge": "REMOTE",
-      "metricPrimary": "Distribusion Technologies",
-      "metricSecondary": "Remote (Remote job)",
-      "ratingText": "People • Remote",
+      "metricPrimary": "Vexcash AG",
+      "metricSecondary": "Remote (Berlin)",
+      "ratingText": "Remote • Software Development",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-global-talent-acquisition-partnert-all-genders-berlin-366286?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/developer-c-net-as-freelancer-all-genders-berlin-43395?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at Distribusion Technologies",
-        "Tagged stack: People, Remote",
+        "Direct application listing at Vexcash AG",
+        "Tagged stack: Remote, Software Development",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -1812,23 +1812,23 @@
     },
     {
       "id": "job-5",
-      "slug": "engineering-manager-m-f-x-makersite-gmbh-job5",
+      "slug": "product-manager-business-analyst-as-freelancer-all-genders-vexca-job5",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Engineering Manager (m/f/x)",
-      "subtitle": "Makersite GmbH • Remote (Remote job)",
-      "description": "Hiring at Makersite GmbH (Remote (Remote job)). Skills & tags: Technology, Remote.",
+      "title": "Product Manager/ Business Analyst As Freelancer (All Genders)",
+      "subtitle": "Vexcash AG • Remote (Berlin)",
+      "description": "Hiring at Vexcash AG (Remote (Berlin)). Skills & tags: Remote, Consulting, Engineering.",
       "badge": "REMOTE",
-      "metricPrimary": "Makersite GmbH",
-      "metricSecondary": "Remote (Remote job)",
-      "ratingText": "Technology • Remote",
+      "metricPrimary": "Vexcash AG",
+      "metricSecondary": "Remote (Berlin)",
+      "ratingText": "Remote • Consulting • Engineering",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-engineering-manager-berlin-423839?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/vexcash-ag/product-manager-business-analyst-as-freelancer-all-genders-berlin-283084?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at Makersite GmbH",
-        "Tagged stack: Technology, Remote",
+        "Direct application listing at Vexcash AG",
+        "Tagged stack: Remote, Consulting, Engineering",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -1839,23 +1839,23 @@
     },
     {
       "id": "job-6",
-      "slug": "senior-site-reliability-engineer-sre-m-f-x-makersite-gmbh-job6",
+      "slug": "marketing-allrounder-all-genders-100-homeoffice-fino-data-servic-job6",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Senior Site Reliability Engineer (SRE) m/f/x",
-      "subtitle": "Makersite GmbH • Remote (Remote job)",
-      "description": "Hiring at Makersite GmbH (Remote (Remote job)). Skills & tags: Technology, Remote.",
+      "title": "Marketing Allrounder (all genders) 100% Homeoffice",
+      "subtitle": "fino data services GmbH • Remote (Berlin)",
+      "description": "Hiring at fino data services GmbH (Remote (Berlin)). Skills & tags: Remote, Online Marketing.",
       "badge": "REMOTE",
-      "metricPrimary": "Makersite GmbH",
-      "metricSecondary": "Remote (Remote job)",
-      "ratingText": "Technology • Remote",
+      "metricPrimary": "fino data services GmbH",
+      "metricSecondary": "Remote (Berlin)",
+      "ratingText": "Remote • Online Marketing",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/makersite-gmbh/remote-senior-site-reliability-engineer-sre-berlin-317887?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/fino-data-services-gmbh/marketing-allrounder-all-genders-100-homeoffice-berlin-485463?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at Makersite GmbH",
-        "Tagged stack: Technology, Remote",
+        "Direct application listing at fino data services GmbH",
+        "Tagged stack: Remote, Online Marketing",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -1866,23 +1866,23 @@
     },
     {
       "id": "job-7",
-      "slug": "partner-manager-public-sector-partnerships-elevenlabs-job7",
+      "slug": "business-partner-dach-continuity-job7",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Partner Manager - Public Sector Partnerships",
-      "subtitle": "ElevenLabs • Remote (Remote)",
-      "description": "Hiring at ElevenLabs (Remote (Remote)). Skills & tags: Revenue.",
+      "title": "Business Partner - DACH",
+      "subtitle": "Continuity • Remote (Paris)",
+      "description": "Hiring at Continuity (Remote (Paris)). Skills & tags: Remote, Customer Service.",
       "badge": "REMOTE",
-      "metricPrimary": "ElevenLabs",
-      "metricSecondary": "Remote (Remote)",
-      "ratingText": "Revenue",
+      "metricPrimary": "Continuity",
+      "metricSecondary": "Remote (Paris)",
+      "ratingText": "Remote • Customer Service",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-partner-manager-public-sector-partnerships-252530?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.fr/jobs/companies/continuity/business-partner-dach-paris-15979?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at ElevenLabs",
-        "Tagged stack: Revenue",
+        "Direct application listing at Continuity",
+        "Tagged stack: Remote, Customer Service",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -1893,23 +1893,23 @@
     },
     {
       "id": "job-8",
-      "slug": "territory-account-executive-bw-hessen-purestorage-job8",
+      "slug": "seo-digital-marketing-specialist-pavago-job8",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Territory Account Executive - BW/Hessen",
-      "subtitle": "purestorage • Remote (Remote)",
-      "description": "Hiring at purestorage (Remote (Remote)). Skills & tags: Sales.",
+      "title": "SEO & Digital Marketing Specialist",
+      "subtitle": "Pavago • Remote (France)",
+      "description": "Hiring at Pavago (Remote (France)). Skills & tags: Staffing and Recruiting, Remote.",
       "badge": "REMOTE",
-      "metricPrimary": "purestorage",
-      "metricSecondary": "Remote (Remote)",
-      "ratingText": "Sales",
+      "metricPrimary": "Pavago",
+      "metricSecondary": "Remote (France)",
+      "ratingText": "Staffing and Recruiting • Remote",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/purestorage/remote-territory-account-executive-bw-hessen-396477?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.fr/jobs/companies/pavago/remote-seo-digital-marketing-specialist-france-51483?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at purestorage",
-        "Tagged stack: Sales",
+        "Direct application listing at Pavago",
+        "Tagged stack: Staffing and Recruiting, Remote",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -1920,23 +1920,23 @@
     },
     {
       "id": "job-9",
-      "slug": "director-of-platform-engineering-gn-data-intelligence-platform-a-job9",
+      "slug": "german-speaking-customer-service-representative-work-in-athens-g-job9",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Director of Platform Engineering [gn] – Data Intelligence Platform",
-      "subtitle": "Actian • Remote (Remote)",
-      "description": "Hiring at Actian (Remote (Remote)). Skills & tags: Engineering.",
+      "title": "German Speaking Customer Service Representative - Work In Athens, Greece",
+      "subtitle": "Patrique Mercier Recruitment Fr • Remote (Switzerland)",
+      "description": "Hiring at Patrique Mercier Recruitment Fr (Remote (Switzerland)). Skills & tags: Customer Service, Consumer Services, Greece, Remote.",
       "badge": "REMOTE",
-      "metricPrimary": "Actian",
-      "metricSecondary": "Remote (Remote)",
-      "ratingText": "Engineering",
+      "metricPrimary": "Patrique Mercier Recruitment Fr",
+      "metricSecondary": "Remote (Switzerland)",
+      "ratingText": "Customer Service • Consumer Services • Greece • Remote",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.fr/jobs/companies/actian/remote-director-of-platform-engineering-gn-data-intelligence-platform-171418?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.ch/jobs/companies/patrique-mercier-recruitment-fr/remote-german-speaking-customer-service-representative-work-in-athens-greece-switzerland-43451?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at Actian",
-        "Tagged stack: Engineering",
+        "Direct application listing at Patrique Mercier Recruitment Fr",
+        "Tagged stack: Customer Service, Consumer Services, Greece, Remote",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -1947,7 +1947,115 @@
     },
     {
       "id": "job-10",
-      "slug": "senior-account-manager-warehouse-automation-benelux-exotec-job10",
+      "slug": "senior-financial-risk-manager-coopers-group-ag-job10",
+      "category": "job",
+      "categoryLabel": "Remote Job",
+      "title": "Senior Financial Risk Manager",
+      "subtitle": "Coopers Group AG • Remote (Zürich)",
+      "description": "Hiring at Coopers Group AG (Remote (Zürich)). Skills & tags: Remote, Compliance, Security.",
+      "badge": "REMOTE",
+      "metricPrimary": "Coopers Group AG",
+      "metricSecondary": "Remote (Zürich)",
+      "ratingText": "Remote • Compliance • Security",
+      "ratingScore": 90,
+      "thumb": "",
+      "outboundUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-financial-risk-manager-zurich-194696?utm_source=autopulse&utm_medium=jobs-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Direct application listing at Coopers Group AG",
+        "Tagged stack: Remote, Compliance, Security",
+        "Updated automatically every 6 hours"
+      ],
+      "cons": [
+        "Competitive global applicant pool — tailor resume keywords",
+        "Check timezone overlap requirements before applying"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "job-11",
+      "slug": "solution-architect-customer-touchpoints-cloud-transformation-coo-job11",
+      "category": "job",
+      "categoryLabel": "Remote Job",
+      "title": "Solution Architect Customer Touchpoints & Cloud Transformation",
+      "subtitle": "Coopers Group AG • Remote (Zürich)",
+      "description": "Hiring at Coopers Group AG (Remote (Zürich)). Skills & tags: Remote, Software Development.",
+      "badge": "REMOTE",
+      "metricPrimary": "Coopers Group AG",
+      "metricSecondary": "Remote (Zürich)",
+      "ratingText": "Remote • Software Development",
+      "ratingScore": 90,
+      "thumb": "",
+      "outboundUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/solution-architect-customer-touchpoints-cloud-transformation-zurich-83687?utm_source=autopulse&utm_medium=jobs-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Direct application listing at Coopers Group AG",
+        "Tagged stack: Remote, Software Development",
+        "Updated automatically every 6 hours"
+      ],
+      "cons": [
+        "Competitive global applicant pool — tailor resume keywords",
+        "Check timezone overlap requirements before applying"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "job-12",
+      "slug": "sachbearbeiter-in-operations-backoffice-support-coopers-group-ag-job12",
+      "category": "job",
+      "categoryLabel": "Remote Job",
+      "title": "Sachbearbeiter:in Operations / Backoffice Support",
+      "subtitle": "Coopers Group AG • Remote (Basel)",
+      "description": "Hiring at Coopers Group AG (Remote (Basel)). Skills & tags: Remote, Finance.",
+      "badge": "REMOTE",
+      "metricPrimary": "Coopers Group AG",
+      "metricSecondary": "Remote (Basel)",
+      "ratingText": "Remote • Finance",
+      "ratingScore": 90,
+      "thumb": "",
+      "outboundUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/sachbearbeiterin-operations-backoffice-support-basel-314974?utm_source=autopulse&utm_medium=jobs-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Direct application listing at Coopers Group AG",
+        "Tagged stack: Remote, Finance",
+        "Updated automatically every 6 hours"
+      ],
+      "cons": [
+        "Competitive global applicant pool — tailor resume keywords",
+        "Check timezone overlap requirements before applying"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "job-13",
+      "slug": "senior-platform-engineer-treatwell-job13",
+      "category": "job",
+      "categoryLabel": "Remote Job",
+      "title": "Senior Platform Engineer",
+      "subtitle": "Treatwell • Remote (Amsterdam, Netherlands)",
+      "description": "Hiring at Treatwell (Remote (Amsterdam, Netherlands)). Skills & tags: Internet, Tech, Remote.",
+      "badge": "REMOTE",
+      "metricPrimary": "Treatwell",
+      "metricSecondary": "Remote (Amsterdam, Netherlands)",
+      "ratingText": "Internet • Tech • Remote",
+      "ratingScore": 90,
+      "thumb": "",
+      "outboundUrl": "https://www.arbeitnow.nl/jobs/companies/treatwell/remote-senior-platform-engineer-amsterdam-429264?utm_source=autopulse&utm_medium=jobs-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Direct application listing at Treatwell",
+        "Tagged stack: Internet, Tech, Remote",
+        "Updated automatically every 6 hours"
+      ],
+      "cons": [
+        "Competitive global applicant pool — tailor resume keywords",
+        "Check timezone overlap requirements before applying"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "job-14",
+      "slug": "senior-account-manager-warehouse-automation-benelux-exotec-job14",
       "category": "job",
       "categoryLabel": "Remote Job",
       "title": "Senior Account Manager - Warehouse Automation - BENELUX",
@@ -1970,11 +2078,11 @@
         "Competitive global applicant pool — tailor resume keywords",
         "Check timezone overlap requirements before applying"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "job-11",
-      "slug": "senior-account-manager-warehouse-automation-japanese-speaking-be-job11",
+      "id": "job-15",
+      "slug": "senior-account-manager-warehouse-automation-japanese-speaking-be-job15",
       "category": "job",
       "categoryLabel": "Remote Job",
       "title": "Senior Account Manager - Warehouse Automation (Japanese Speaking) - BENELUX",
@@ -1991,114 +2099,6 @@
       "pros": [
         "Direct application listing at Exotec",
         "Tagged stack: Engineering, Logistics and Supply Chain, Maintenance, Remote",
-        "Updated automatically every 6 hours"
-      ],
-      "cons": [
-        "Competitive global applicant pool — tailor resume keywords",
-        "Check timezone overlap requirements before applying"
-      ],
-      "hasDetailPage": true
-    },
-    {
-      "id": "job-12",
-      "slug": "new-business-account-executive-nordics-gitlab-job12",
-      "category": "job",
-      "categoryLabel": "Remote Job",
-      "title": "New Business Account Executive - Nordics",
-      "subtitle": "gitlab • Remote (Remote)",
-      "description": "Hiring at gitlab (Remote (Remote)). Skills & tags: New Business - EMEA.",
-      "badge": "REMOTE",
-      "metricPrimary": "gitlab",
-      "metricSecondary": "Remote (Remote)",
-      "ratingText": "New Business - EMEA",
-      "ratingScore": 90,
-      "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.nl/jobs/companies/gitlab/remote-new-business-account-executive-nordics-119212?utm_source=autopulse&utm_medium=jobs-radar",
-      "partnerLinks": [],
-      "pros": [
-        "Direct application listing at gitlab",
-        "Tagged stack: New Business - EMEA",
-        "Updated automatically every 6 hours"
-      ],
-      "cons": [
-        "Competitive global applicant pool — tailor resume keywords",
-        "Check timezone overlap requirements before applying"
-      ],
-      "hasDetailPage": true
-    },
-    {
-      "id": "job-13",
-      "slug": "mobile-developer-luscii-job13",
-      "category": "job",
-      "categoryLabel": "Remote Job",
-      "title": "Mobile Developer",
-      "subtitle": "Luscii • Remote (Remote job)",
-      "description": "Hiring at Luscii (Remote (Remote job)). Skills & tags: Software Development, Remote.",
-      "badge": "REMOTE",
-      "metricPrimary": "Luscii",
-      "metricSecondary": "Remote (Remote job)",
-      "ratingText": "Software Development • Remote",
-      "ratingScore": 90,
-      "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.nl/jobs/companies/luscii/remote-mobile-developer-utrecht-286555?utm_source=autopulse&utm_medium=jobs-radar",
-      "partnerLinks": [],
-      "pros": [
-        "Direct application listing at Luscii",
-        "Tagged stack: Software Development, Remote",
-        "Updated automatically every 6 hours"
-      ],
-      "cons": [
-        "Competitive global applicant pool — tailor resume keywords",
-        "Check timezone overlap requirements before applying"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "job-14",
-      "slug": "senior-engineering-manager-xometryeurope-job14",
-      "category": "job",
-      "categoryLabel": "Remote Job",
-      "title": "Senior Engineering Manager",
-      "subtitle": "Xometryeurope • Munich",
-      "description": "Hiring at Xometryeurope (Munich). Skills & tags: Technology, EU.",
-      "badge": "TECH",
-      "metricPrimary": "Xometryeurope",
-      "metricSecondary": "Munich",
-      "ratingText": "Technology • EU",
-      "ratingScore": 90,
-      "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/xometryeurope/senior-engineering-manager-munich-133190?utm_source=autopulse&utm_medium=jobs-radar",
-      "partnerLinks": [],
-      "pros": [
-        "Direct application listing at Xometryeurope",
-        "Tagged stack: Technology, EU",
-        "Updated automatically every 6 hours"
-      ],
-      "cons": [
-        "Competitive global applicant pool — tailor resume keywords",
-        "Check timezone overlap requirements before applying"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "job-15",
-      "slug": "founding-tech-lead-growthbricks-jetbrains-job15",
-      "category": "job",
-      "categoryLabel": "Remote Job",
-      "title": "Founding Tech Lead (GrowthBricks)",
-      "subtitle": "jetbrains • Berlin; Remote",
-      "description": "Hiring at jetbrains (Berlin; Remote). Skills & tags: GrowthBricks.",
-      "badge": "REMOTE",
-      "metricPrimary": "jetbrains",
-      "metricSecondary": "Berlin; Remote",
-      "ratingText": "GrowthBricks",
-      "ratingScore": 90,
-      "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-founding-tech-lead-growthbricks-155233?utm_source=autopulse&utm_medium=jobs-radar",
-      "partnerLinks": [],
-      "pros": [
-        "Direct application listing at jetbrains",
-        "Tagged stack: GrowthBricks",
         "Updated automatically every 6 hours"
       ],
       "cons": [
