@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-22T19:26:27.012Z",
+  "generatedAt": "2026-11-23T07:18:20.915Z",
   "sourcesStatus": {
     "deals": "live",
     "ai": "live",
     "jobs": "live"
   },
   "counts": {
-    "total": 51,
+    "total": 66,
     "deals": 24,
-    "aiTools": 12,
+    "aiTools": 27,
     "jobs": 15,
     "programmaticPages": 36
   },
@@ -975,22 +975,22 @@
     },
     {
       "id": "ai-1",
-      "slug": "is-coding-with-ai-actually-faster-and-cheaper-ai1",
+      "slug": "morluto-rea-ai1",
       "category": "ai",
-      "categoryLabel": "Dev.to AI",
-      "title": "Is Coding with AI Actually Faster and Cheaper?",
-      "subtitle": "Dev.to AI • ai, programming • 239 signals",
-      "description": "How has AI actually changed the way we work? Are coding agents really making us remarkably faster?...",
-      "badge": "♥ 239",
-      "metricPrimary": "ai, programming",
-      "metricSecondary": "239 Stars/Reactions",
-      "ratingText": "Dev.to AI",
-      "ratingScore": 239,
+      "categoryLabel": "GitHub AI",
+      "title": "morluto/rea",
+      "subtitle": "GitHub AI • TypeScript • 474,546 signals",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "badge": "★ 474,546",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "474,546 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 474546,
       "thumb": "",
-      "outboundUrl": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/morluto/rea?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (239 stars/reactions)",
+        "Active community traction (474,546 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1002,22 +1002,22 @@
     },
     {
       "id": "ai-2",
-      "slug": "the-codenewbie-podcast-is-back-for-season-28-ai2",
+      "slug": "openclaw-openclaw-ai2",
       "category": "ai",
-      "categoryLabel": "Dev.to AI",
-      "title": "The CodeNewbie Podcast is Back for Season 28!",
-      "subtitle": "Dev.to AI • codenewbie, ai • 88 signals",
-      "description": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting...",
-      "badge": "♥ 88",
-      "metricPrimary": "codenewbie, ai",
-      "metricSecondary": "88 Stars/Reactions",
-      "ratingText": "Dev.to AI",
-      "ratingScore": 88,
+      "categoryLabel": "GitHub AI",
+      "title": "openclaw/openclaw",
+      "subtitle": "GitHub AI • TypeScript • 395,070 signals",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "badge": "★ 395,070",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "395,070 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 395070,
       "thumb": "",
-      "outboundUrl": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/openclaw/openclaw?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (88 stars/reactions)",
+        "Active community traction (395,070 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1029,7 +1029,412 @@
     },
     {
       "id": "ai-3",
-      "slug": "tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcas-ai3",
+      "slug": "langgenius-dify-ai3",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "langgenius/dify",
+      "subtitle": "GitHub AI • Python • 161,714 signals",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "badge": "★ 161,714",
+      "metricPrimary": "Python",
+      "metricSecondary": "161,714 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 161714,
+      "thumb": "",
+      "outboundUrl": "https://github.com/langgenius/dify?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (161,714 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-4",
+      "slug": "nexu-io-openmotion-ai4",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "nexu-io/openmotion",
+      "subtitle": "GitHub AI • TypeScript • 15,494 signals",
+      "description": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
+      "badge": "★ 15,494",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "15,494 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 15494,
+      "thumb": "",
+      "outboundUrl": "https://github.com/nexu-io/openmotion?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (15,494 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-5",
+      "slug": "netdata-netdata-ai5",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "netdata/netdata",
+      "subtitle": "GitHub AI • Go • 81,602 signals",
+      "description": "Full-stack observability · Metrics · Logs · Traces · Flows · Topology · Infrastructure · APM · NPM · DBM · RUM · Synthetics · Cloud · AI SRE · OpenTelemetry · SNMP · NetFlow/IPFIX/sFlow · IPMI · Redfish · 2000+ integrations",
+      "badge": "★ 81,602",
+      "metricPrimary": "Go",
+      "metricSecondary": "81,602 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 81602,
+      "thumb": "",
+      "outboundUrl": "https://github.com/netdata/netdata?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (81,602 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-6",
+      "slug": "pingdotgg-t3code-ai6",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "pingdotgg/t3code",
+      "subtitle": "GitHub AI • TypeScript • 72,693 signals",
+      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+      "badge": "★ 72,693",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "72,693 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 72693,
+      "thumb": "",
+      "outboundUrl": "https://github.com/pingdotgg/t3code?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (72,693 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-7",
+      "slug": "heygen-com-hyperframes-ai7",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "heygen-com/hyperframes",
+      "subtitle": "GitHub AI • TypeScript • 88,471 signals",
+      "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
+      "badge": "★ 88,471",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "88,471 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 88471,
+      "thumb": "",
+      "outboundUrl": "https://github.com/heygen-com/hyperframes?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (88,471 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-8",
+      "slug": "0xshug0-audio-cpp-ai8",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "0xShug0/audio.cpp",
+      "subtitle": "GitHub AI • C++ • 4,413 signals",
+      "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
+      "badge": "★ 4,413",
+      "metricPrimary": "C++",
+      "metricSecondary": "4,413 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 4413,
+      "thumb": "",
+      "outboundUrl": "https://github.com/0xShug0/audio.cpp?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (4,413 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-9",
+      "slug": "openvinotoolkit-openvino-ai9",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "openvinotoolkit/openvino",
+      "subtitle": "GitHub AI • C++ • 12,152 signals",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "badge": "★ 12,152",
+      "metricPrimary": "C++",
+      "metricSecondary": "12,152 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 12152,
+      "thumb": "",
+      "outboundUrl": "https://github.com/openvinotoolkit/openvino?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (12,152 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-10",
+      "slug": "significant-gravitas-autogpt-ai10",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "Significant-Gravitas/AutoGPT",
+      "subtitle": "GitHub AI • Python • 188,146 signals",
+      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "badge": "★ 188,146",
+      "metricPrimary": "Python",
+      "metricSecondary": "188,146 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 188146,
+      "thumb": "",
+      "outboundUrl": "https://github.com/Significant-Gravitas/AutoGPT?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (188,146 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-11",
+      "slug": "apache-doris-ai11",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "apache/doris",
+      "subtitle": "GitHub AI • Java • 16,251 signals",
+      "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+      "badge": "★ 16,251",
+      "metricPrimary": "Java",
+      "metricSecondary": "16,251 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 16251,
+      "thumb": "",
+      "outboundUrl": "https://github.com/apache/doris?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (16,251 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-12",
+      "slug": "unslothai-unsloth-ai12",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "unslothai/unsloth",
+      "subtitle": "GitHub AI • Python • 80,014 signals",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+      "badge": "★ 80,014",
+      "metricPrimary": "Python",
+      "metricSecondary": "80,014 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 80014,
+      "thumb": "",
+      "outboundUrl": "https://github.com/unslothai/unsloth?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (80,014 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "ai-13",
+      "slug": "infiniflow-ragflow-ai13",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "infiniflow/ragflow",
+      "subtitle": "GitHub AI • Go • 94,571 signals",
+      "description": "RAGFlow is an agent-native database: a Retrieval-Augmented Generation (RAG) engine that grew into context infrastructure.",
+      "badge": "★ 94,571",
+      "metricPrimary": "Go",
+      "metricSecondary": "94,571 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 94571,
+      "thumb": "",
+      "outboundUrl": "https://github.com/infiniflow/ragflow?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (94,571 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "ai-14",
+      "slug": "openai-openai-agents-python-ai14",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "openai/openai-agents-python",
+      "subtitle": "GitHub AI • Python • 30,826 signals",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "badge": "★ 30,826",
+      "metricPrimary": "Python",
+      "metricSecondary": "30,826 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 30826,
+      "thumb": "",
+      "outboundUrl": "https://github.com/openai/openai-agents-python?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (30,826 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "ai-15",
+      "slug": "bytedance-deer-flow-ai15",
+      "category": "ai",
+      "categoryLabel": "GitHub AI",
+      "title": "bytedance/deer-flow",
+      "subtitle": "GitHub AI • Python • 85,637 signals",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "badge": "★ 85,637",
+      "metricPrimary": "Python",
+      "metricSecondary": "85,637 Stars/Reactions",
+      "ratingText": "GitHub AI",
+      "ratingScore": 85637,
+      "thumb": "",
+      "outboundUrl": "https://github.com/bytedance/deer-flow?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (85,637 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "ai-16",
+      "slug": "is-coding-with-ai-actually-faster-and-cheaper-ai16",
+      "category": "ai",
+      "categoryLabel": "Dev.to AI",
+      "title": "Is Coding with AI Actually Faster and Cheaper?",
+      "subtitle": "Dev.to AI • ai, programming • 246 signals",
+      "description": "How has AI actually changed the way we work? Are coding agents really making us remarkably faster?...",
+      "badge": "♥ 246",
+      "metricPrimary": "ai, programming",
+      "metricSecondary": "246 Stars/Reactions",
+      "ratingText": "Dev.to AI",
+      "ratingScore": 246,
+      "thumb": "",
+      "outboundUrl": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (246 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "ai-17",
+      "slug": "the-codenewbie-podcast-is-back-for-season-28-ai17",
+      "category": "ai",
+      "categoryLabel": "Dev.to AI",
+      "title": "The CodeNewbie Podcast is Back for Season 28!",
+      "subtitle": "Dev.to AI • codenewbie, ai • 90 signals",
+      "description": "Hi friends! 👋 The CodeNewbie Podcast is back for season 28, and I’m so excited to be the one hosting...",
+      "badge": "♥ 90",
+      "metricPrimary": "codenewbie, ai",
+      "metricSecondary": "90 Stars/Reactions",
+      "ratingText": "Dev.to AI",
+      "ratingScore": 90,
+      "thumb": "",
+      "outboundUrl": "https://dev.to/codenewbie/the-codenewbie-podcast-is-back-for-season-28-2484?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (90 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "ai-18",
+      "slug": "tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcas-ai18",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
@@ -1052,11 +1457,11 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-4",
-      "slug": "i-can-t-believe-the-podcast-i-learned-to-code-with-is-back-ai4",
+      "id": "ai-19",
+      "slug": "i-can-t-believe-the-podcast-i-learned-to-code-with-is-back-ai19",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "I can't believe the podcast I learned to code with is back!",
@@ -1079,38 +1484,11 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-5",
-      "slug": "ai-avatar-v28-security-support-voxel-avatar-ai5",
-      "category": "ai",
-      "categoryLabel": "Dev.to AI",
-      "title": "AI Avatar v28 (Security Support, Voxel Avatar)🛡️",
-      "subtitle": "Dev.to AI • ai, webdev • 84 signals",
-      "description": "Intro   AI Avatar is a free app where your VRoid (VRM) avatar cheers you with all its...",
-      "badge": "♥ 84",
-      "metricPrimary": "ai, webdev",
-      "metricSecondary": "84 Stars/Reactions",
-      "ratingText": "Dev.to AI",
-      "ratingScore": 84,
-      "thumb": "",
-      "outboundUrl": "https://dev.to/webdeveloperhyper/ai-avatar-v28-security-support-voxel-avatar-2i5i?utm_source=autopulse&utm_medium=ai-radar",
-      "partnerLinks": [],
-      "pros": [
-        "Active community traction (84 stars/reactions)",
-        "Zero upfront license cost to inspect and prototype",
-        "Easily pairable with cloud cron jobs and serverless automation"
-      ],
-      "cons": [
-        "Requires basic configuration or hosting environment",
-        "Open-source tools move fast — verify version compatibility"
-      ],
-      "hasDetailPage": true
-    },
-    {
-      "id": "ai-6",
-      "slug": "ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-t-ai6",
+      "id": "ai-20",
+      "slug": "ai-agents-open-17-million-pull-requests-a-month-i-built-a-gate-t-ai20",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "AI agents open 17 million pull requests a month. I built a gate that rejects the ones that lie.",
@@ -1133,26 +1511,26 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-7",
-      "slug": "stratagems-36-they-finished-their-coffee-the-ai-still-has-no-ans-ai7",
+      "id": "ai-21",
+      "slug": "stratagems-36-they-finished-their-coffee-the-ai-still-has-no-ans-ai21",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Stratagems #36: They Finished Their Coffee. The AI Still Has No Answer.",
-      "subtitle": "Dev.to AI • discuss, ai • 115 signals",
+      "subtitle": "Dev.to AI • discuss, ai • 116 signals",
       "description": "Know When to Walk Away  The Thirty-Six Stratagems, Stratagem 36               Open as Usual   When...",
-      "badge": "♥ 115",
+      "badge": "♥ 116",
       "metricPrimary": "discuss, ai",
-      "metricSecondary": "115 Stars/Reactions",
+      "metricSecondary": "116 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 115,
+      "ratingScore": 116,
       "thumb": "",
       "outboundUrl": "https://dev.to/xulingfeng/stratagems-36-they-finished-their-coffee-the-ai-still-has-no-answer-4igh?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (115 stars/reactions)",
+        "Active community traction (116 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1160,11 +1538,11 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-8",
-      "slug": "could-i-still-do-this-from-scratch-ai8",
+      "id": "ai-22",
+      "slug": "could-i-still-do-this-from-scratch-ai22",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Could I Still Do This From Scratch?",
@@ -1187,26 +1565,26 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-9",
-      "slug": "the-chairs-are-back-the-coffee-is-on-ai9",
+      "id": "ai-23",
+      "slug": "the-chairs-are-back-the-coffee-is-on-ai23",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "The Chairs Are Back. The Coffee Is On. ☕",
-      "subtitle": "Dev.to AI • community, discuss • 98 signals",
+      "subtitle": "Dev.to AI • community, discuss • 101 signals",
       "description": "Welcome to The Third Cup.           The Renovation Is Done. We're Open Again!   Finally, the...",
-      "badge": "♥ 98",
+      "badge": "♥ 101",
       "metricPrimary": "community, discuss",
-      "metricSecondary": "98 Stars/Reactions",
+      "metricSecondary": "101 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 98,
+      "ratingScore": 101,
       "thumb": "",
       "outboundUrl": "https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (98 stars/reactions)",
+        "Active community traction (101 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1214,11 +1592,11 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-10",
-      "slug": "what-team-wide-ai-adoption-actually-takes-ai10",
+      "id": "ai-24",
+      "slug": "what-team-wide-ai-adoption-actually-takes-ai24",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "What team-wide AI adoption actually takes",
@@ -1241,26 +1619,26 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-11",
-      "slug": "agentic-engineering-a-smart-home-energy-system-with-antigravity--ai11",
+      "id": "ai-25",
+      "slug": "agentic-engineering-a-smart-home-energy-system-with-antigravity--ai25",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Agentic engineering a smart home energy system with Antigravity and Gemini 4",
-      "subtitle": "Dev.to AI • ai, antigravity • 28 signals",
+      "subtitle": "Dev.to AI • ai, antigravity • 30 signals",
       "description": "Running rooftop solar, a home battery, two electric vehicles (EVs), and dynamic hourly electricity...",
-      "badge": "♥ 28",
+      "badge": "♥ 30",
       "metricPrimary": "ai, antigravity",
-      "metricSecondary": "28 Stars/Reactions",
+      "metricSecondary": "30 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 28,
+      "ratingScore": 30,
       "thumb": "",
       "outboundUrl": "https://dev.to/googleai/agentic-engineering-a-smart-home-energy-system-with-antigravity-and-gemini-4-53md?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (28 stars/reactions)",
+        "Active community traction (30 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1268,26 +1646,26 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "ai-12",
-      "slug": "dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lif-ai12",
+      "id": "ai-26",
+      "slug": "dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lif-ai26",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting.",
-      "subtitle": "Dev.to AI • ai, kiro • 32 signals",
+      "subtitle": "Dev.to AI • ai, kiro • 43 signals",
       "description": "The keys you miss become the lesson.   TL;DR: Dead Keys is my entry for the Kiroween 2026 hackathon,...",
-      "badge": "♥ 32",
+      "badge": "♥ 43",
       "metricPrimary": "ai, kiro",
-      "metricSecondary": "32 Stars/Reactions",
+      "metricSecondary": "43 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 32,
+      "ratingScore": 43,
       "thumb": "",
       "outboundUrl": "https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (32 stars/reactions)",
+        "Active community traction (43 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1295,27 +1673,54 @@
         "Requires basic configuration or hosting environment",
         "Open-source tools move fast — verify version compatibility"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
+    },
+    {
+      "id": "ai-27",
+      "slug": "why-your-ai-agent-keeps-forgetting-and-getting-slower-4-memory-o-ai27",
+      "category": "ai",
+      "categoryLabel": "Dev.to AI",
+      "title": "Why Your AI Agent Keeps Forgetting (and Getting Slower): 4 Memory Options and 3 Context Fixes",
+      "subtitle": "Dev.to AI • ai, agents • 20 signals",
+      "description": "Most AI agents have two memory problems. They forget what a user told them last week, and every turn...",
+      "badge": "♥ 20",
+      "metricPrimary": "ai, agents",
+      "metricSecondary": "20 Stars/Reactions",
+      "ratingText": "Dev.to AI",
+      "ratingScore": 20,
+      "thumb": "",
+      "outboundUrl": "https://dev.to/googleai/why-your-ai-agent-keeps-forgetting-and-getting-slower-4-memory-options-and-3-context-fixes-2e02?utm_source=autopulse&utm_medium=ai-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Active community traction (20 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": false
     },
     {
       "id": "job-1",
-      "slug": "no-code-developer-m-w-d-bubble-io-100-remote-alpha-software-gmbh-job1",
+      "slug": "hands-on-engineering-manager-c-vue-miaplaza-job1",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "No-Code Developer (m/w/d) | Bubble.io | 100 % Remote",
-      "subtitle": "ALPHA Software GmbH • Remote (Berlin)",
-      "description": "Hiring at ALPHA Software GmbH (Remote (Berlin)). Skills & tags: Remote, Software Development.",
+      "title": "Hands-on Engineering Manager (C#/Vue)",
+      "subtitle": "Miaplaza • Remote (Remote job)",
+      "description": "Hiring at Miaplaza (Remote (Remote job)). Skills & tags: Remote.",
       "badge": "REMOTE",
-      "metricPrimary": "ALPHA Software GmbH",
-      "metricSecondary": "Remote (Berlin)",
-      "ratingText": "Remote • Software Development",
+      "metricPrimary": "Miaplaza",
+      "metricSecondary": "Remote (Remote job)",
+      "ratingText": "Remote",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-bubbleio-100-remote-berlin-440890?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/miaplaza/remote-hands-on-engineering-manager-c-vue-6698?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at ALPHA Software GmbH",
-        "Tagged stack: Remote, Software Development",
+        "Direct application listing at Miaplaza",
+        "Tagged stack: Remote",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -1326,7 +1731,34 @@
     },
     {
       "id": "job-2",
-      "slug": "engineering-manager-eu-uk-m-f-x-makersite-gmbh-job2",
+      "slug": "java-entwickler-in-java-developer-backend-w-m-d-bbht-beratungsge-job2",
+      "category": "job",
+      "categoryLabel": "Remote Job",
+      "title": "Java Entwickler:in / Java Developer Backend (w/m/d)",
+      "subtitle": "BBHT Beratungsgesellschaft mbH & Co. KG • Remote (Homeoffice)",
+      "description": "Hiring at BBHT Beratungsgesellschaft mbH & Co. KG (Remote (Homeoffice)). Skills & tags: Remote.",
+      "badge": "REMOTE",
+      "metricPrimary": "BBHT Beratungsgesellschaft mbH & Co. KG",
+      "metricSecondary": "Remote (Homeoffice)",
+      "ratingText": "Remote",
+      "ratingScore": 90,
+      "thumb": "",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/bbht-beratungsgesellschaft-mbh-co-kg/remote-java-entwicklerin-java-developer-backend-munster-85293?utm_source=autopulse&utm_medium=jobs-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Direct application listing at BBHT Beratungsgesellschaft mbH & Co. KG",
+        "Tagged stack: Remote",
+        "Updated automatically every 6 hours"
+      ],
+      "cons": [
+        "Competitive global applicant pool — tailor resume keywords",
+        "Check timezone overlap requirements before applying"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "job-3",
+      "slug": "engineering-manager-eu-uk-m-f-x-makersite-gmbh-job3",
       "category": "job",
       "categoryLabel": "Remote Job",
       "title": "Engineering Manager EU/UK (m/f/x)",
@@ -1352,8 +1784,8 @@
       "hasDetailPage": true
     },
     {
-      "id": "job-3",
-      "slug": "senior-data-scientist-research-eu-uk-m-f-x-makersite-gmbh-job3",
+      "id": "job-4",
+      "slug": "senior-data-scientist-research-eu-uk-m-f-x-makersite-gmbh-job4",
       "category": "job",
       "categoryLabel": "Remote Job",
       "title": "Senior Data Scientist - Research EU/UK (m/f/x)",
@@ -1379,8 +1811,8 @@
       "hasDetailPage": true
     },
     {
-      "id": "job-4",
-      "slug": "kubernetes-administrator-private-cloud-engineer-m-w-d-virtual7-g-job4",
+      "id": "job-5",
+      "slug": "kubernetes-administrator-private-cloud-engineer-m-w-d-virtual7-g-job5",
       "category": "job",
       "categoryLabel": "Remote Job",
       "title": "Kubernetes Administrator/Private Cloud Engineer (m/w/d)",
@@ -1406,8 +1838,8 @@
       "hasDetailPage": true
     },
     {
-      "id": "job-5",
-      "slug": "senior-project-manager-m-w-d-epilot-gmbh-job5",
+      "id": "job-6",
+      "slug": "senior-project-manager-m-w-d-epilot-gmbh-job6",
       "category": "job",
       "categoryLabel": "Remote Job",
       "title": "Senior Project Manager (m/w/d)",
@@ -1433,8 +1865,8 @@
       "hasDetailPage": true
     },
     {
-      "id": "job-6",
-      "slug": "mitarbeiter-im-kundenservice-m-w-d-homeoffice-teilzeit-20std-woc-job6",
+      "id": "job-7",
+      "slug": "mitarbeiter-im-kundenservice-m-w-d-homeoffice-teilzeit-20std-woc-job7",
       "category": "job",
       "categoryLabel": "Remote Job",
       "title": "Mitarbeiter im Kundenservice m/w/d Homeoffice Teilzeit 20Std. / Woche",
@@ -1460,8 +1892,8 @@
       "hasDetailPage": true
     },
     {
-      "id": "job-7",
-      "slug": "technischer-mitarbeiter-after-sales-support-m-w-d-vollzeit-100-r-job7",
+      "id": "job-8",
+      "slug": "technischer-mitarbeiter-after-sales-support-m-w-d-vollzeit-100-r-job8",
       "category": "job",
       "categoryLabel": "Remote Job",
       "title": "Technischer Mitarbeiter After Sales Support (m/w/d) | Vollzeit | 100 % Remote möglich",
@@ -1487,8 +1919,8 @@
       "hasDetailPage": true
     },
     {
-      "id": "job-8",
-      "slug": "teilzeit-rezeptentwicklung-ern-hrungspl-ne-m-w-d-fr-hlingszwiebe-job8",
+      "id": "job-9",
+      "slug": "teilzeit-rezeptentwicklung-ern-hrungspl-ne-m-w-d-fr-hlingszwiebe-job9",
       "category": "job",
       "categoryLabel": "Remote Job",
       "title": "(Teilzeit) Rezeptentwicklung & Ernährungspläne (m/w/d)",
@@ -1514,8 +1946,8 @@
       "hasDetailPage": true
     },
     {
-      "id": "job-9",
-      "slug": "anwendungsspezialist-im-au-endienst-baden-w-rttemberg-m-w-d-buzi-job9",
+      "id": "job-10",
+      "slug": "anwendungsspezialist-im-au-endienst-baden-w-rttemberg-m-w-d-buzi-job10",
       "category": "job",
       "categoryLabel": "Remote Job",
       "title": "Anwendungsspezialist im Außendienst Baden-Württemberg (m/w/d)",
@@ -1541,8 +1973,8 @@
       "hasDetailPage": true
     },
     {
-      "id": "job-10",
-      "slug": "business-developer-sales-manager-robotics-m-w-d-tekpoint-gmbh-job10",
+      "id": "job-11",
+      "slug": "business-developer-sales-manager-robotics-m-w-d-tekpoint-gmbh-job11",
       "category": "job",
       "categoryLabel": "Remote Job",
       "title": "Business Developer / Sales Manager - Robotics (m/w/d)",
@@ -1568,116 +2000,8 @@
       "hasDetailPage": true
     },
     {
-      "id": "job-11",
-      "slug": "senior-full-stack-engineer-f-asp-net-core-reactjs-remote-europe--job11",
-      "category": "job",
-      "categoryLabel": "Remote Job",
-      "title": "Senior Full Stack Engineer (F# / ASP.NET Core / ReactJS) – Remote (Europe) (f/m/d)",
-      "subtitle": "Boardwise GmbH • Remote (Berlin)",
-      "description": "Hiring at Boardwise GmbH (Remote (Berlin)). Skills & tags: Remote, Software Development.",
-      "badge": "REMOTE",
-      "metricPrimary": "Boardwise GmbH",
-      "metricSecondary": "Remote (Berlin)",
-      "ratingText": "Remote • Software Development",
-      "ratingScore": 90,
-      "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-full-stack-engineer-f-aspnet-core-reactjs-remote-europe-berlin-73400?utm_source=autopulse&utm_medium=jobs-radar",
-      "partnerLinks": [],
-      "pros": [
-        "Direct application listing at Boardwise GmbH",
-        "Tagged stack: Remote, Software Development",
-        "Updated automatically every 6 hours"
-      ],
-      "cons": [
-        "Competitive global applicant pool — tailor resume keywords",
-        "Check timezone overlap requirements before applying"
-      ],
-      "hasDetailPage": true
-    },
-    {
       "id": "job-12",
-      "slug": "werkstudent-founders-associate-adwise-media-gmbh-job12",
-      "category": "job",
-      "categoryLabel": "Remote Job",
-      "title": "Werkstudent Founders Associate",
-      "subtitle": "Adwise Media GmbH • Remote (Bonn)",
-      "description": "Hiring at Adwise Media GmbH (Remote (Bonn)). Skills & tags: Remote, Business Operations.",
-      "badge": "REMOTE",
-      "metricPrimary": "Adwise Media GmbH",
-      "metricSecondary": "Remote (Bonn)",
-      "ratingText": "Remote • Business Operations",
-      "ratingScore": 90,
-      "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/adwise-media-gmbh/werkstudent-founders-associate-bonn-442650?utm_source=autopulse&utm_medium=jobs-radar",
-      "partnerLinks": [],
-      "pros": [
-        "Direct application listing at Adwise Media GmbH",
-        "Tagged stack: Remote, Business Operations",
-        "Updated automatically every 6 hours"
-      ],
-      "cons": [
-        "Competitive global applicant pool — tailor resume keywords",
-        "Check timezone overlap requirements before applying"
-      ],
-      "hasDetailPage": true
-    },
-    {
-      "id": "job-13",
-      "slug": "consultant-infrastructure-capital-projects-all-genders-accenture-job13",
-      "category": "job",
-      "categoryLabel": "Remote Job",
-      "title": "Consultant Infrastructure & Capital Projects (all genders)",
-      "subtitle": "Accenture • Remote (Frankfurt am Main)",
-      "description": "Hiring at Accenture (Remote (Frankfurt am Main)). Skills & tags: Remote, Project Management.",
-      "badge": "REMOTE",
-      "metricPrimary": "Accenture",
-      "metricSecondary": "Remote (Frankfurt am Main)",
-      "ratingText": "Remote • Project Management",
-      "ratingScore": 90,
-      "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/accenture/consultant-infrastructure-capital-projects-all-genders-frankfurt-am-main-381749?utm_source=autopulse&utm_medium=jobs-radar",
-      "partnerLinks": [],
-      "pros": [
-        "Direct application listing at Accenture",
-        "Tagged stack: Remote, Project Management",
-        "Updated automatically every 6 hours"
-      ],
-      "cons": [
-        "Competitive global applicant pool — tailor resume keywords",
-        "Check timezone overlap requirements before applying"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "job-14",
-      "slug": "area-sales-manager-gebietsverkaufsleiter-m-w-d-narr-isoliersyste-job14",
-      "category": "job",
-      "categoryLabel": "Remote Job",
-      "title": "Area Sales Manager / Gebietsverkaufsleiter (m/w/d)",
-      "subtitle": "NARR Isoliersysteme GmbH • Remote (Berlin)",
-      "description": "Hiring at NARR Isoliersysteme GmbH (Remote (Berlin)). Skills & tags: Remote, Sales Engineer.",
-      "badge": "REMOTE",
-      "metricPrimary": "NARR Isoliersysteme GmbH",
-      "metricSecondary": "Remote (Berlin)",
-      "ratingText": "Remote • Sales Engineer",
-      "ratingScore": 90,
-      "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/narr-isoliersysteme-gmbh/area-sales-manager-gebietsverkaufsleiter-berlin-383273?utm_source=autopulse&utm_medium=jobs-radar",
-      "partnerLinks": [],
-      "pros": [
-        "Direct application listing at NARR Isoliersysteme GmbH",
-        "Tagged stack: Remote, Sales Engineer",
-        "Updated automatically every 6 hours"
-      ],
-      "cons": [
-        "Competitive global applicant pool — tailor resume keywords",
-        "Check timezone overlap requirements before applying"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "job-15",
-      "slug": "client-director-mice-kuoni-tumlare-job15",
+      "slug": "client-director-mice-kuoni-tumlare-job12",
       "category": "job",
       "categoryLabel": "Remote Job",
       "title": "Client Director MICE",
@@ -1694,6 +2018,87 @@
       "pros": [
         "Direct application listing at Kuoni Tumlare",
         "Tagged stack: Meetings & Events, Remote",
+        "Updated automatically every 6 hours"
+      ],
+      "cons": [
+        "Competitive global applicant pool — tailor resume keywords",
+        "Check timezone overlap requirements before applying"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "job-13",
+      "slug": "senior-cloud-operations-engineer-all-genders-ch-bsi-software-job13",
+      "category": "job",
+      "categoryLabel": "Remote Job",
+      "title": "Senior Cloud Operations Engineer (all genders) CH",
+      "subtitle": "BSI Software • Remote (Homeoffice)",
+      "description": "Hiring at BSI Software (Remote (Homeoffice)). Skills & tags: Services, Remote.",
+      "badge": "REMOTE",
+      "metricPrimary": "BSI Software",
+      "metricSecondary": "Remote (Homeoffice)",
+      "ratingText": "Services • Remote",
+      "ratingScore": 90,
+      "thumb": "",
+      "outboundUrl": "https://www.arbeitnow.ch/jobs/companies/bsi-software/remote-senior-cloud-operations-engineer-all-genders-ch-baar-174018?utm_source=autopulse&utm_medium=jobs-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Direct application listing at BSI Software",
+        "Tagged stack: Services, Remote",
+        "Updated automatically every 6 hours"
+      ],
+      "cons": [
+        "Competitive global applicant pool — tailor resume keywords",
+        "Check timezone overlap requirements before applying"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "job-14",
+      "slug": "software-test-engineer-swisspeak-partners-gmbh-job14",
+      "category": "job",
+      "categoryLabel": "Remote Job",
+      "title": "Software Test Engineer",
+      "subtitle": "SwissPeak Partners GmbH • Remote (Remote job)",
+      "description": "Hiring at SwissPeak Partners GmbH (Remote (Remote job)). Skills & tags: Software Engineering, Remote.",
+      "badge": "REMOTE",
+      "metricPrimary": "SwissPeak Partners GmbH",
+      "metricSecondary": "Remote (Remote job)",
+      "ratingText": "Software Engineering • Remote",
+      "ratingScore": 90,
+      "thumb": "",
+      "outboundUrl": "https://www.arbeitnow.ch/jobs/companies/swisspeak-partners-gmbh/remote-software-test-engineer-bern-110215?utm_source=autopulse&utm_medium=jobs-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Direct application listing at SwissPeak Partners GmbH",
+        "Tagged stack: Software Engineering, Remote",
+        "Updated automatically every 6 hours"
+      ],
+      "cons": [
+        "Competitive global applicant pool — tailor resume keywords",
+        "Check timezone overlap requirements before applying"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "job-15",
+      "slug": "principal-enterprise-architect-ai-cloud-integrations-celonis-job15",
+      "category": "job",
+      "categoryLabel": "Remote Job",
+      "title": "Principal Enterprise Architect - AI & Cloud Integrations",
+      "subtitle": "celonis • Remote (Remote)",
+      "description": "Hiring at celonis (Remote (Remote)). Skills & tags: Value Engineering.",
+      "badge": "REMOTE",
+      "metricPrimary": "celonis",
+      "metricSecondary": "Remote (Remote)",
+      "ratingText": "Value Engineering",
+      "ratingScore": 90,
+      "thumb": "",
+      "outboundUrl": "https://www.arbeitnow.nl/jobs/companies/celonis/remote-principal-enterprise-architect-ai-cloud-integrations-162065?utm_source=autopulse&utm_medium=jobs-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Direct application listing at celonis",
+        "Tagged stack: Value Engineering",
         "Updated automatically every 6 hours"
       ],
       "cons": [
