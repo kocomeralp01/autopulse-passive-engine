@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:17:32.961Z",
+  "generatedAt": "2026-11-25T08:12:58.339Z",
   "sourcesStatus": {
     "deals": "live",
     "ai": "live",
@@ -295,7 +295,407 @@
     },
     {
       "id": "deal-8",
-      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal8",
+      "slug": "the-book-of-unwritten-tales-collection-deal8",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "The Book of Unwritten Tales Collection",
+      "subtitle": "94% OFF — $3.99 (Reg. $69.95)",
+      "description": "The Book of Unwritten Tales Collection is currently discounted by 94% down to $3.99 from $69.95. Rating: Verified (0%).",
+      "badge": "-94%",
+      "metricPrimary": "$3.99",
+      "metricSecondary": "Was $69.95",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://sttc.gamersgate.com/images/product/the-book-of-unwritten-tales-collection/cover-180-72dc4c.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=atVBzdCGbdc5VWjW6wtGCD%252Fa190qthDq45We4qtokmY%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=The%20Book%20of%20Unwritten%20Tales%20Collection&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=The%20Book%20of%20Unwritten%20Tales%20Collection&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=The%20Book%20of%20Unwritten%20Tales%20Collection&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 94% ($65.96) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "deal-9",
+      "slug": "one-punch-man-a-hero-nobody-knows-deluxe-edition-deal9",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "One Punch Man: A Hero Nobody Knows Deluxe Edition",
+      "subtitle": "92% OFF — $6.23 (Reg. $79.99)",
+      "description": "One Punch Man: A Hero Nobody Knows Deluxe Edition is currently discounted by 92% down to $6.23 from $79.99. Rating: Verified (0%).",
+      "badge": "-92%",
+      "metricPrimary": "$6.23",
+      "metricSecondary": "Was $79.99",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://sttc.gamersgate.com/images/product/one-punch-man-a-hero-nobody-knows-deluxe-edition/cover-180-0c33a4.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=Bq2LLzlAGJK5DYlt2NV7xu14hAR%252Fbw%252FkIiACu1nXROE%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=One%20Punch%20Man%3A%20A%20Hero%20Nobody%20Knows%20Deluxe%20Edition&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=One%20Punch%20Man%3A%20A%20Hero%20Nobody%20Knows%20Deluxe%20Edition&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=One%20Punch%20Man%3A%20A%20Hero%20Nobody%20Knows%20Deluxe%20Edition&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 92% ($73.76) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "deal-10",
+      "slug": "one-piece-world-seeker-deluxe-edition-deal10",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "ONE PIECE World Seeker Deluxe Edition",
+      "subtitle": "92% OFF — $7.16 (Reg. $89.99)",
+      "description": "ONE PIECE World Seeker Deluxe Edition is currently discounted by 92% down to $7.16 from $89.99. Rating: Verified (0%).",
+      "badge": "-92%",
+      "metricPrimary": "$7.16",
+      "metricSecondary": "Was $89.99",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://sttc.gamersgate.com/images/product/one-piece-world-seeker-deluxe-edition/cover-180-75a5b1.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=IlslsB6jzX5j8mU8JSHse3u1e2o7lT378z2aA9nryMg%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=ONE%20PIECE%20World%20Seeker%20Deluxe%20Edition&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=ONE%20PIECE%20World%20Seeker%20Deluxe%20Edition&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=ONE%20PIECE%20World%20Seeker%20Deluxe%20Edition&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 92% ($82.83) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "deal-11",
+      "slug": "code-vein-deluxe-edition-deal11",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "CODE VEIN Deluxe Edition",
+      "subtitle": "91% OFF — $6.99 (Reg. $79.99)",
+      "description": "CODE VEIN Deluxe Edition is currently discounted by 91% down to $6.99 from $79.99. Rating: Verified (0%).",
+      "badge": "-91%",
+      "metricPrimary": "$6.99",
+      "metricSecondary": "Was $79.99",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://sttc.gamersgate.com/images/product/code-vein-deluxe-edition/cover-180-26ad0a.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=TGM3P%252BJVNjWL9Uk3Ir11UutqCitIJxMa9X%252F2QSA827c%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=CODE%20VEIN%20Deluxe%20Edition&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=CODE%20VEIN%20Deluxe%20Edition&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=CODE%20VEIN%20Deluxe%20Edition&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 91% ($73.00) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "deal-12",
+      "slug": "one-punch-man-a-hero-nobody-knows-deluxe-edition-deal12",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "One Punch Man: A Hero Nobody Knows Deluxe Edition",
+      "subtitle": "91% OFF — $6.99 (Reg. $79.99)",
+      "description": "One Punch Man: A Hero Nobody Knows Deluxe Edition is currently discounted by 91% down to $6.99 from $79.99. Rating: Verified (0%).",
+      "badge": "-91%",
+      "metricPrimary": "$6.99",
+      "metricSecondary": "Was $79.99",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://sttc.gamersgate.com/images/product/one-punch-man-a-hero-nobody-knows-deluxe-edition/cover-180-0c33a4.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=FxJGIbeyeOrLnV9Y4R%252BZU4S2GRfQV8P2ZzUxekn7szM%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=One%20Punch%20Man%3A%20A%20Hero%20Nobody%20Knows%20Deluxe%20Edition&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=One%20Punch%20Man%3A%20A%20Hero%20Nobody%20Knows%20Deluxe%20Edition&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=One%20Punch%20Man%3A%20A%20Hero%20Nobody%20Knows%20Deluxe%20Edition&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 91% ($73.00) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "deal-13",
+      "slug": "one-piece-world-seeker-deluxe-edition-deal13",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "ONE PIECE World Seeker Deluxe Edition",
+      "subtitle": "91% OFF — $7.83 (Reg. $89.99)",
+      "description": "ONE PIECE World Seeker Deluxe Edition is currently discounted by 91% down to $7.83 from $89.99. Rating: Verified (0%).",
+      "badge": "-91%",
+      "metricPrimary": "$7.83",
+      "metricSecondary": "Was $89.99",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://sttc.gamersgate.com/images/product/one-piece-world-seeker-deluxe-edition/cover-180-75a5b1.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=GNSJ6dbZbywWmATCo05yDhp1blGAr8g0CUAKcYgWnGA%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=ONE%20PIECE%20World%20Seeker%20Deluxe%20Edition&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=ONE%20PIECE%20World%20Seeker%20Deluxe%20Edition&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=ONE%20PIECE%20World%20Seeker%20Deluxe%20Edition&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 91% ($82.16) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "deal-14",
+      "slug": "sid-meiers-civilization-vi-anthology-deal14",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "Sid Meiers Civilization VI Anthology",
+      "subtitle": "91% OFF — $8.89 (Reg. $99.99)",
+      "description": "Sid Meiers Civilization VI Anthology is currently discounted by 91% down to $8.89 from $99.99. Rating: Verified (0%).",
+      "badge": "-91%",
+      "metricPrimary": "$8.89",
+      "metricSecondary": "Was $99.99",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://sttc.gamersgate.com/images/product/sid-meiers-civilization-vi-anthology-steam/cover-180-ac032e.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=D%252Fvo4iP2dqX6%252Fm%252FuR7UIZEClDzwKKtL4d2%252FOekOD8rA%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=Sid%20Meiers%20Civilization%20VI%20Anthology&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=Sid%20Meiers%20Civilization%20VI%20Anthology&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=Sid%20Meiers%20Civilization%20VI%20Anthology&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 91% ($91.10) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "deal-15",
+      "slug": "synduality-echo-of-ada-deluxe-edition-deal15",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "SYNDUALITY: Echo of Ada Deluxe Edition",
+      "subtitle": "91% OFF — $6.14 (Reg. $69.99)",
+      "description": "SYNDUALITY: Echo of Ada Deluxe Edition is currently discounted by 91% down to $6.14 from $69.99. Rating: Verified (0%).",
+      "badge": "-91%",
+      "metricPrimary": "$6.14",
+      "metricSecondary": "Was $69.99",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://sttc.gamersgate.com/images/product/synduality-echo-of-ada-deluxe-edition/cover-180-4acb62.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=0u0rE1jh3xf1ZWqOiUtoEHK13TJDDUW%252BheQieqn%252F4Yk%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=SYNDUALITY%3A%20Echo%20of%20Ada%20Deluxe%20Edition&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=SYNDUALITY%3A%20Echo%20of%20Ada%20Deluxe%20Edition&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=SYNDUALITY%3A%20Echo%20of%20Ada%20Deluxe%20Edition&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 91% ($63.85) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "deal-16",
+      "slug": "one-piece-burning-blood-gold-edition-deal16",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "ONE PIECE BURNING BLOOD GOLD EDITION",
+      "subtitle": "90% OFF — $7.83 (Reg. $74.98)",
+      "description": "ONE PIECE BURNING BLOOD GOLD EDITION is currently discounted by 90% down to $7.83 from $74.98. Rating: Verified (0%).",
+      "badge": "-90%",
+      "metricPrimary": "$7.83",
+      "metricSecondary": "Was $74.98",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://sttc.gamersgate.com/images/product/one-piece-burning-blood-gold-edition/cover-180-1732a9.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=sO70XwHpkA1x9zU9DsM%252BZZK2y1FqAKKJjb%252FV4RZyHCQ%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=ONE%20PIECE%20BURNING%20BLOOD%20GOLD%20EDITION&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=ONE%20PIECE%20BURNING%20BLOOD%20GOLD%20EDITION&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=ONE%20PIECE%20BURNING%20BLOOD%20GOLD%20EDITION&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 90% ($67.15) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "deal-17",
+      "slug": "synduality-echo-of-ada-ultimate-edition-deal17",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "SYNDUALITY: Echo of Ada Ultimate Edition",
+      "subtitle": "91% OFF — $8.68 (Reg. $99.99)",
+      "description": "SYNDUALITY: Echo of Ada Ultimate Edition is currently discounted by 91% down to $8.68 from $99.99. Rating: Verified (0%).",
+      "badge": "-91%",
+      "metricPrimary": "$8.68",
+      "metricSecondary": "Was $99.99",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://sttc.gamersgate.com/images/product/synduality-echo-of-ada-ultimate-edition/cover-180-2a0e37.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=4bi0xPGsE3hMrUaOxuqk%252FWLEm2McwYYd%252B2l2Wz4FRlw%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=SYNDUALITY%3A%20Echo%20of%20Ada%20Ultimate%20Edition&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=SYNDUALITY%3A%20Echo%20of%20Ada%20Ultimate%20Edition&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=SYNDUALITY%3A%20Echo%20of%20Ada%20Ultimate%20Edition&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 91% ($91.31) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "deal-18",
+      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal18",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
@@ -331,11 +731,51 @@
         "Flash discount window can expire within hours",
         "Regional activation rules may vary by storefront"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "deal-9",
-      "slug": "rims-racing-ultimate-edition-deal9",
+      "id": "deal-19",
+      "slug": "darksiders-blades-and-whip-franchise-pack-deal19",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "Darksiders Blades and Whip Franchise Pack",
+      "subtitle": "90% OFF — $7.99 (Reg. $79.99)",
+      "description": "Darksiders Blades and Whip Franchise Pack is currently discounted by 90% down to $7.99 from $79.99. Rating: Verified (0%).",
+      "badge": "-90%",
+      "metricPrimary": "$7.99",
+      "metricSecondary": "Was $79.99",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://sttc.gamersgate.com/images/product/darksiders-blades-whip-franchise-pack/cover-180-1f9c00.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=jUIksCf7OKL1gDeMjhT%252Fx%252Bi7HWhFLcE2qWzPWrrvzmI%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=Darksiders%20Blades%20and%20Whip%20Franchise%20Pack&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=Darksiders%20Blades%20and%20Whip%20Franchise%20Pack&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=Darksiders%20Blades%20and%20Whip%20Franchise%20Pack&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 90% ($72.00) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "deal-20",
+      "slug": "rims-racing-ultimate-edition-deal20",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Rims Racing : Ultimate Edition",
@@ -371,11 +811,51 @@
         "Flash discount window can expire within hours",
         "Regional activation rules may vary by storefront"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "deal-10",
-      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal10",
+      "id": "deal-21",
+      "slug": "scarlet-nexus-deluxe-edition-deal21",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "SCARLET NEXUS Deluxe Edition",
+      "subtitle": "88% OFF — $9.25 (Reg. $79.99)",
+      "description": "SCARLET NEXUS Deluxe Edition is currently discounted by 88% down to $9.25 from $79.99. Rating: Verified (0%).",
+      "badge": "-88%",
+      "metricPrimary": "$9.25",
+      "metricSecondary": "Was $79.99",
+      "ratingText": "Positive",
+      "ratingScore": 0,
+      "thumb": "https://sttc.gamersgate.com/images/product/scarlet-nexus-deluxe/cover-180-b1cf17.jpg",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=1WFoPpAV%252FAXqp03JX66U23YPOpzStGk%252FEWSEk%252Frw%252FfY%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=SCARLET%20NEXUS%20Deluxe%20Edition&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=SCARLET%20NEXUS%20Deluxe%20Edition&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=SCARLET%20NEXUS%20Deluxe%20Edition&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 88% ($70.74) compared to retail price",
+        "Verified community score: 0% (Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "deal-22",
+      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal22",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
@@ -411,11 +891,51 @@
         "Flash discount window can expire within hours",
         "Regional activation rules may vary by storefront"
       ],
-      "hasDetailPage": true
+      "hasDetailPage": false
     },
     {
-      "id": "deal-11",
-      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal11",
+      "id": "deal-23",
+      "slug": "sid-meier-s-civilization-iv-deal23",
+      "category": "deal",
+      "categoryLabel": "Flash Deal",
+      "title": "Sid Meier's Civilization IV",
+      "subtitle": "93% OFF — $1.39 (Reg. $19.99)",
+      "description": "Sid Meier's Civilization IV is currently discounted by 93% down to $1.39 from $19.99. Rating: Very Positive (92%).",
+      "badge": "-93%",
+      "metricPrimary": "$1.39",
+      "metricSecondary": "Was $19.99",
+      "ratingText": "Very Positive",
+      "ratingScore": 92,
+      "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3900/capsule_231x87.jpg?t=1724341287",
+      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=722MMT3nb71TKpZB4FJNgn4SRd6XWhEVmPvrM6H%252F5hU%253D&utm_source=autopulse&utm_medium=radar",
+      "partnerLinks": [
+        {
+          "label": "Instant Gaming Price Check",
+          "url": "https://www.instant-gaming.com/en/search/?q=Sid%20Meier's%20Civilization%20IV&igr=gamer-pulse"
+        },
+        {
+          "label": "G2A Global Key Check",
+          "url": "https://www.g2a.com/search?query=Sid%20Meier's%20Civilization%20IV&ref=autopulse"
+        },
+        {
+          "label": "Amazon Digital / Gear",
+          "url": "https://www.amazon.com/s?k=Sid%20Meier's%20Civilization%20IV&tag=autopulse-20"
+        }
+      ],
+      "pros": [
+        "Save 93% ($18.60) compared to retail price",
+        "Verified community score: 92% (Very Positive)",
+        "Instant digital delivery with global comparison options"
+      ],
+      "cons": [
+        "Flash discount window can expire within hours",
+        "Regional activation rules may vary by storefront"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "deal-24",
+      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal24",
       "category": "deal",
       "categoryLabel": "Flash Deal",
       "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
@@ -451,546 +971,26 @@
         "Flash discount window can expire within hours",
         "Regional activation rules may vary by storefront"
       ],
-      "hasDetailPage": true
-    },
-    {
-      "id": "deal-12",
-      "slug": "suicide-squad-kill-the-justice-league-deluxe-edition-deal12",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "Suicide Squad: Kill the Justice League - Deluxe Edition",
-      "subtitle": "95% OFF — $5.00 (Reg. $99.99)",
-      "description": "Suicide Squad: Kill the Justice League - Deluxe Edition is currently discounted by 95% down to $5.00 from $99.99. Rating: Verified (0%).",
-      "badge": "-95%",
-      "metricPrimary": "$5.00",
-      "metricSecondary": "Was $99.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://images.greenmangaming.com/98fb0e76d36341cea0f0ca36ce9c08c6/f08e60d2766549d6b1e89e25444a00e8.jpg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=iirL%252BohewxhLZZSW7iig94q3r286K4MCAiVCYnSS%252FZg%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=Suicide%20Squad%3A%20Kill%20the%20Justice%20League%20-%20Deluxe%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=Suicide%20Squad%3A%20Kill%20the%20Justice%20League%20-%20Deluxe%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=Suicide%20Squad%3A%20Kill%20the%20Justice%20League%20-%20Deluxe%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 95% ($94.99) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": true
-    },
-    {
-      "id": "deal-13",
-      "slug": "the-quarry-deluxe-edition-deal13",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "The Quarry Deluxe Edition",
-      "subtitle": "90% OFF — $6.99 (Reg. $69.99)",
-      "description": "The Quarry Deluxe Edition is currently discounted by 90% down to $6.99 from $69.99. Rating: Verified (0%).",
-      "badge": "-90%",
-      "metricPrimary": "$6.99",
-      "metricSecondary": "Was $69.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://sttc.gamersgate.com/images/product/the-quarry-deluxe-edition/cover-180-c14ad4.jpg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=MLrlqP3OBVN2G%252B%252BuhlDAcwkf8%252FlSghW%252F%252BG7D2he6lWM%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=The%20Quarry%20Deluxe%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=The%20Quarry%20Deluxe%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=The%20Quarry%20Deluxe%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 90% ($63.00) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-14",
-      "slug": "fairy-fencer-f-refrain-chord-deluxe-edition-deal14",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "Fairy Fencer F: Refrain Chord - Deluxe Edition",
-      "subtitle": "90% OFF — $6.99 (Reg. $69.99)",
-      "description": "Fairy Fencer F: Refrain Chord - Deluxe Edition is currently discounted by 90% down to $6.99 from $69.99. Rating: Verified (0%).",
-      "badge": "-90%",
-      "metricPrimary": "$6.99",
-      "metricSecondary": "Was $69.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://images.greenmangaming.com/8178012beda34591830be2d4bc1268d2/57f195d5acb8494e8c28b3f273903cf3.jpg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=Vxh3CX2udAzzCzvvEBrax6dN93%252F45uwRSje4RbNhiKs%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=Fairy%20Fencer%20F%3A%20Refrain%20Chord%20-%20Deluxe%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=Fairy%20Fencer%20F%3A%20Refrain%20Chord%20-%20Deluxe%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=Fairy%20Fencer%20F%3A%20Refrain%20Chord%20-%20Deluxe%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 90% ($63.00) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-15",
-      "slug": "touhou-spell-carnival-deluxe-edition-deal15",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "Touhou Spell Carnival Deluxe Edition",
-      "subtitle": "90% OFF — $6.99 (Reg. $69.99)",
-      "description": "Touhou Spell Carnival Deluxe Edition is currently discounted by 90% down to $6.99 from $69.99. Rating: Verified (0%).",
-      "badge": "-90%",
-      "metricPrimary": "$6.99",
-      "metricSecondary": "Was $69.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://images.greenmangaming.com/1837294240fc448e8afa6ec2c11cd29e/8090bc416fe74039a2c1cd3d0807eeff.jpg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=H%252FPwo1uwJLViFenAyTCaQROFtbvdShesBLajq01BrGk%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=Touhou%20Spell%20Carnival%20Deluxe%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=Touhou%20Spell%20Carnival%20Deluxe%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=Touhou%20Spell%20Carnival%20Deluxe%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 90% ($63.00) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-16",
-      "slug": "the-quarry-deluxe-edition-deal16",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "The Quarry Deluxe Edition",
-      "subtitle": "90% OFF — $6.99 (Reg. $69.99)",
-      "description": "The Quarry Deluxe Edition is currently discounted by 90% down to $6.99 from $69.99. Rating: Verified (0%).",
-      "badge": "-90%",
-      "metricPrimary": "$6.99",
-      "metricSecondary": "Was $69.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://sttc.gamersgate.com/images/product/the-quarry-deluxe-edition/cover-180-c14ad4.jpg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=RZhlFCQLVKUks%252FykjcAefNLIHFmeeMbJ7wdFOkkusvE%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=The%20Quarry%20Deluxe%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=The%20Quarry%20Deluxe%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=The%20Quarry%20Deluxe%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 90% ($63.00) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-17",
-      "slug": "suicide-squad-kill-the-justice-league-deluxe-edition-deal17",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "Suicide Squad: Kill the Justice League - Deluxe Edition",
-      "subtitle": "96% OFF — $4.21 (Reg. $99.99)",
-      "description": "Suicide Squad: Kill the Justice League - Deluxe Edition is currently discounted by 96% down to $4.21 from $99.99. Rating: Verified (0%).",
-      "badge": "-96%",
-      "metricPrimary": "$4.21",
-      "metricSecondary": "Was $99.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://images.greenmangaming.com/98fb0e76d36341cea0f0ca36ce9c08c6/f08e60d2766549d6b1e89e25444a00e8.jpg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=7WwX02D7gjHZXVEQR%252BugfXXSpa%252BkIt17dNTq0RrSx%252BE%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=Suicide%20Squad%3A%20Kill%20the%20Justice%20League%20-%20Deluxe%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=Suicide%20Squad%3A%20Kill%20the%20Justice%20League%20-%20Deluxe%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=Suicide%20Squad%3A%20Kill%20the%20Justice%20League%20-%20Deluxe%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 96% ($95.78) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-18",
-      "slug": "suicide-squad-kill-the-justice-league-digital-deluxe-edition-deal18",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition",
-      "subtitle": "95% OFF — $4.99 (Reg. $99.99)",
-      "description": "Suicide Squad: Kill the Justice League - Digital Deluxe Edition is currently discounted by 95% down to $4.99 from $99.99. Rating: Verified (0%).",
-      "badge": "-95%",
-      "metricPrimary": "$4.99",
-      "metricSecondary": "Was $99.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://sttc.gamersgate.com/images/product/suicide-squad-kill-the-justice-league-digital-deluxe-edition/cover-180-c29cf2.jpg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=Sq38R25AnlmmDRXdmA%252BFMmLJ4crjxNxmlVFh5xXBMpE%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=Suicide%20Squad%3A%20Kill%20the%20Justice%20League%20-%20Digital%20Deluxe%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=Suicide%20Squad%3A%20Kill%20the%20Justice%20League%20-%20Digital%20Deluxe%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=Suicide%20Squad%3A%20Kill%20the%20Justice%20League%20-%20Digital%20Deluxe%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 95% ($95.00) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-19",
-      "slug": "the-incredible-adventures-of-van-helsing-anthology-deal19",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "The Incredible Adventures of Van Helsing Anthology",
-      "subtitle": "93% OFF — $5.58 (Reg. $74.99)",
-      "description": "The Incredible Adventures of Van Helsing Anthology is currently discounted by 93% down to $5.58 from $74.99. Rating: Mostly Positive (79%).",
-      "badge": "-93%",
-      "metricPrimary": "$5.58",
-      "metricSecondary": "Was $74.99",
-      "ratingText": "Mostly Positive",
-      "ratingScore": 79,
-      "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/75825/capsule_231x87.jpg?t=1705948029",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=tbfhAnpKWgIw3AyPA%252BDmIaYpwSY8JzEReS2X69F3zo4%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=The%20Incredible%20Adventures%20of%20Van%20Helsing%20Anthology&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=The%20Incredible%20Adventures%20of%20Van%20Helsing%20Anthology&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=The%20Incredible%20Adventures%20of%20Van%20Helsing%20Anthology&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 93% ($69.41) compared to retail price",
-        "Verified community score: 79% (Mostly Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-20",
-      "slug": "the-quarry-deluxe-edition-deal20",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "The Quarry Deluxe Edition",
-      "subtitle": "92% OFF — $5.90 (Reg. $69.99)",
-      "description": "The Quarry Deluxe Edition is currently discounted by 92% down to $5.90 from $69.99. Rating: Verified (0%).",
-      "badge": "-92%",
-      "metricPrimary": "$5.90",
-      "metricSecondary": "Was $69.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://sttc.gamersgate.com/images/product/the-quarry-deluxe-edition/cover-180-c14ad4.jpg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=OdCKe107lqKxgMVPq1CjObTbgF0lF3ewrwLsKibrAS8%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=The%20Quarry%20Deluxe%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=The%20Quarry%20Deluxe%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=The%20Quarry%20Deluxe%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 92% ($64.09) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-21",
-      "slug": "the-incredible-adventures-of-van-helsing-anthology-deal21",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "The Incredible Adventures of Van Helsing Anthology",
-      "subtitle": "91% OFF — $6.40 (Reg. $74.99)",
-      "description": "The Incredible Adventures of Van Helsing Anthology is currently discounted by 91% down to $6.40 from $74.99. Rating: Mostly Positive (79%).",
-      "badge": "-91%",
-      "metricPrimary": "$6.40",
-      "metricSecondary": "Was $74.99",
-      "ratingText": "Mostly Positive",
-      "ratingScore": 79,
-      "thumb": "https://shared.fastly.steamstatic.com/store_item_assets/steam/subs/75825/capsule_231x87.jpg?t=1705948029",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=TuRQ6HOlQe%252FygkRY5JFvdCjk8RHc8Ey1S%252BhLLaylDQw%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=The%20Incredible%20Adventures%20of%20Van%20Helsing%20Anthology&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=The%20Incredible%20Adventures%20of%20Van%20Helsing%20Anthology&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=The%20Incredible%20Adventures%20of%20Van%20Helsing%20Anthology&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 91% ($68.59) compared to retail price",
-        "Verified community score: 79% (Mostly Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-22",
-      "slug": "hogwarts-legacy-deluxe-edition-deal22",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "Hogwarts Legacy: Deluxe Edition",
-      "subtitle": "91% OFF — $6.19 (Reg. $69.99)",
-      "description": "Hogwarts Legacy: Deluxe Edition is currently discounted by 91% down to $6.19 from $69.99. Rating: Verified (0%).",
-      "badge": "-91%",
-      "metricPrimary": "$6.19",
-      "metricSecondary": "Was $69.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://sttc.gamersgate.com/images/product/hogwarts-legacy-deluxe-edition/cover-180-5788a0.jpg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=OdeM7qNg%252BMU8PRSFbbLMRYEP33iCTpZ%252BoG1PLLyuG%252Bw%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=Hogwarts%20Legacy%3A%20Deluxe%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=Hogwarts%20Legacy%3A%20Deluxe%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=Hogwarts%20Legacy%3A%20Deluxe%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 91% ($63.80) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-23",
-      "slug": "need-for-speed-heat-deluxe-edition-deal23",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "Need for Speed Heat Deluxe Edition",
-      "subtitle": "95% OFF — $3.49 (Reg. $69.99)",
-      "description": "Need for Speed Heat Deluxe Edition is currently discounted by 95% down to $3.49 from $69.99. Rating: Verified (0%).",
-      "badge": "-95%",
-      "metricPrimary": "$3.49",
-      "metricSecondary": "Was $69.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://cdn1.epicgames.com/spt-assets/f4241a8649244c5693450ebda42f935b/need-for-speed-heat-1lhdh.jpg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=GQYhHzOtQcCuICwD5sXBHG91ZHdsyxYRQbVgR%252Bs4Kbc%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=Need%20for%20Speed%20Heat%20Deluxe%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=Need%20for%20Speed%20Heat%20Deluxe%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=Need%20for%20Speed%20Heat%20Deluxe%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 95% ($66.50) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "deal-24",
-      "slug": "battlefield-2042-elite-edition-deal24",
-      "category": "deal",
-      "categoryLabel": "Flash Deal",
-      "title": "Battlefield 2042 Elite Edition",
-      "subtitle": "95% OFF — $4.49 (Reg. $89.99)",
-      "description": "Battlefield 2042 Elite Edition is currently discounted by 95% down to $4.49 from $89.99. Rating: Verified (0%).",
-      "badge": "-95%",
-      "metricPrimary": "$4.49",
-      "metricSecondary": "Was $89.99",
-      "ratingText": "Positive",
-      "ratingScore": 0,
-      "thumb": "https://cdn2.unrealengine.com/egs-battlefield2042eliteedition-dice-editions-s2-1200x1600-ba446511ada9.jpg",
-      "outboundUrl": "https://www.cheapshark.com/redirect?dealID=R5%252BjR4JAIKfsladpdimmTohNsOEZvvqE%252Fd1PVTV6eUQ%253D&utm_source=autopulse&utm_medium=radar",
-      "partnerLinks": [
-        {
-          "label": "Instant Gaming Price Check",
-          "url": "https://www.instant-gaming.com/en/search/?q=Battlefield%202042%20Elite%20Edition&igr=gamer-pulse"
-        },
-        {
-          "label": "G2A Global Key Check",
-          "url": "https://www.g2a.com/search?query=Battlefield%202042%20Elite%20Edition&ref=autopulse"
-        },
-        {
-          "label": "Amazon Digital / Gear",
-          "url": "https://www.amazon.com/s?k=Battlefield%202042%20Elite%20Edition&tag=autopulse-20"
-        }
-      ],
-      "pros": [
-        "Save 95% ($85.50) compared to retail price",
-        "Verified community score: 0% (Positive)",
-        "Instant digital delivery with global comparison options"
-      ],
-      "cons": [
-        "Flash discount window can expire within hours",
-        "Regional activation rules may vary by storefront"
-      ],
       "hasDetailPage": false
     },
     {
       "id": "ai-1",
-      "slug": "pingdotgg-t3code-ai1",
+      "slug": "heygen-com-hyperframes-ai1",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "pingdotgg/t3code",
-      "subtitle": "GitHub AI • TypeScript • 77,299 signals",
-      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
-      "badge": "★ 77,299",
+      "title": "heygen-com/hyperframes",
+      "subtitle": "GitHub AI • TypeScript • 89,764 signals",
+      "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
+      "badge": "★ 89,764",
       "metricPrimary": "TypeScript",
-      "metricSecondary": "77,299 Stars/Reactions",
+      "metricSecondary": "89,764 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 77299,
+      "ratingScore": 89764,
       "thumb": "",
-      "outboundUrl": "https://github.com/pingdotgg/t3code?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/heygen-com/hyperframes?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (77,299 stars/reactions)",
+        "Active community traction (89,764 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1002,22 +1002,22 @@
     },
     {
       "id": "ai-2",
-      "slug": "heygen-com-hyperframes-ai2",
+      "slug": "morluto-rea-ai2",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "heygen-com/hyperframes",
-      "subtitle": "GitHub AI • TypeScript • 89,529 signals",
-      "description": "Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.",
-      "badge": "★ 89,529",
+      "title": "morluto/rea",
+      "subtitle": "GitHub AI • TypeScript • 477,597 signals",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "badge": "★ 477,597",
       "metricPrimary": "TypeScript",
-      "metricSecondary": "89,529 Stars/Reactions",
+      "metricSecondary": "477,597 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 89529,
+      "ratingScore": 477597,
       "thumb": "",
-      "outboundUrl": "https://github.com/heygen-com/hyperframes?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/morluto/rea?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (89,529 stars/reactions)",
+        "Active community traction (477,597 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1029,22 +1029,22 @@
     },
     {
       "id": "ai-3",
-      "slug": "openvinotoolkit-openvino-ai3",
+      "slug": "langchain-ai-langchain-ai3",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "openvinotoolkit/openvino",
-      "subtitle": "GitHub AI • C++ • 12,439 signals",
-      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
-      "badge": "★ 12,439",
-      "metricPrimary": "C++",
-      "metricSecondary": "12,439 Stars/Reactions",
+      "title": "langchain-ai/langchain",
+      "subtitle": "GitHub AI • Python • 149,963 signals",
+      "description": "The agent engineering platform.",
+      "badge": "★ 149,963",
+      "metricPrimary": "Python",
+      "metricSecondary": "149,963 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 12439,
+      "ratingScore": 149963,
       "thumb": "",
-      "outboundUrl": "https://github.com/openvinotoolkit/openvino?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/langchain-ai/langchain?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (12,439 stars/reactions)",
+        "Active community traction (149,963 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1056,22 +1056,22 @@
     },
     {
       "id": "ai-4",
-      "slug": "clickhouse-clickhouse-ai4",
+      "slug": "electerm-electerm-ai4",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "ClickHouse/ClickHouse",
-      "subtitle": "GitHub AI • C++ • 51,108 signals",
-      "description": "ClickHouse® is a real-time analytics database management system",
-      "badge": "★ 51,108",
-      "metricPrimary": "C++",
-      "metricSecondary": "51,108 Stars/Reactions",
+      "title": "electerm/electerm",
+      "subtitle": "GitHub AI • JavaScript • 15,707 signals",
+      "description": "Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)",
+      "badge": "★ 15,707",
+      "metricPrimary": "JavaScript",
+      "metricSecondary": "15,707 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 51108,
+      "ratingScore": 15707,
       "thumb": "",
-      "outboundUrl": "https://github.com/ClickHouse/ClickHouse?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/electerm/electerm?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (51,108 stars/reactions)",
+        "Active community traction (15,707 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1083,22 +1083,22 @@
     },
     {
       "id": "ai-5",
-      "slug": "speedyapply-2027-ai-college-jobs-ai5",
+      "slug": "nexu-io-openmotion-ai5",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "speedyapply/2027-AI-College-Jobs",
-      "subtitle": "GitHub AI • AI / Multi • 6,668 signals",
-      "description": "2027 AI/ML internship & new graduate job list updated daily",
-      "badge": "★ 6,668",
-      "metricPrimary": "AI / Multi",
-      "metricSecondary": "6,668 Stars/Reactions",
+      "title": "nexu-io/openmotion",
+      "subtitle": "GitHub AI • TypeScript • 16,129 signals",
+      "description": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
+      "badge": "★ 16,129",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "16,129 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 6668,
+      "ratingScore": 16129,
       "thumb": "",
-      "outboundUrl": "https://github.com/speedyapply/2027-AI-College-Jobs?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/nexu-io/openmotion?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (6,668 stars/reactions)",
+        "Active community traction (16,129 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1110,22 +1110,22 @@
     },
     {
       "id": "ai-6",
-      "slug": "unslothai-unsloth-ai6",
+      "slug": "rlaope-oh-my-hermes-ai6",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "unslothai/unsloth",
-      "subtitle": "GitHub AI • Python • 80,179 signals",
-      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
-      "badge": "★ 80,179",
+      "title": "rlaope/oh-my-hermes",
+      "subtitle": "GitHub AI • Python • 6,031 signals",
+      "description": "⚚ The ultrawork agent with AI coworkers wired into you",
+      "badge": "★ 6,031",
       "metricPrimary": "Python",
-      "metricSecondary": "80,179 Stars/Reactions",
+      "metricSecondary": "6,031 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 80179,
+      "ratingScore": 6031,
       "thumb": "",
-      "outboundUrl": "https://github.com/unslothai/unsloth?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/rlaope/oh-my-hermes?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (80,179 stars/reactions)",
+        "Active community traction (6,031 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1137,22 +1137,22 @@
     },
     {
       "id": "ai-7",
-      "slug": "nousresearch-hermes-agent-ai7",
+      "slug": "pingdotgg-t3code-ai7",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "NousResearch/hermes-agent",
-      "subtitle": "GitHub AI • Python • 265,882 signals",
-      "description": "The agent that grows with you",
-      "badge": "★ 265,882",
-      "metricPrimary": "Python",
-      "metricSecondary": "265,882 Stars/Reactions",
+      "title": "pingdotgg/t3code",
+      "subtitle": "GitHub AI • TypeScript • 78,321 signals",
+      "description": "The best way to control Claude Code, Codex and more from any computer or phone",
+      "badge": "★ 78,321",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "78,321 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 265882,
+      "ratingScore": 78321,
       "thumb": "",
-      "outboundUrl": "https://github.com/NousResearch/hermes-agent?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/pingdotgg/t3code?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (265,882 stars/reactions)",
+        "Active community traction (78,321 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1164,22 +1164,22 @@
     },
     {
       "id": "ai-8",
-      "slug": "librechat-ai-librechat-ai8",
+      "slug": "kkkkhazix-aihot-ai8",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "LibreChat-AI/LibreChat",
-      "subtitle": "GitHub AI • TypeScript • 47,496 signals",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "badge": "★ 47,496",
+      "title": "KKKKhazix/AIHOT",
+      "subtitle": "GitHub AI • TypeScript • 11,388 signals",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "badge": "★ 11,388",
       "metricPrimary": "TypeScript",
-      "metricSecondary": "47,496 Stars/Reactions",
+      "metricSecondary": "11,388 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 47496,
+      "ratingScore": 11388,
       "thumb": "",
-      "outboundUrl": "https://github.com/LibreChat-AI/LibreChat?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/KKKKhazix/AIHOT?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (47,496 stars/reactions)",
+        "Active community traction (11,388 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1191,22 +1191,22 @@
     },
     {
       "id": "ai-9",
-      "slug": "prism-shadow-penguin-harness-ai9",
+      "slug": "n8n-io-n8n-ai9",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "Prism-Shadow/penguin-harness",
-      "subtitle": "GitHub AI • TypeScript • 3,318 signals",
-      "description": "🐧 Unified and Stable RSI Platform",
-      "badge": "★ 3,318",
+      "title": "n8n-io/n8n",
+      "subtitle": "GitHub AI • TypeScript • 212,070 signals",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "badge": "★ 212,070",
       "metricPrimary": "TypeScript",
-      "metricSecondary": "3,318 Stars/Reactions",
+      "metricSecondary": "212,070 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 3318,
+      "ratingScore": 212070,
       "thumb": "",
-      "outboundUrl": "https://github.com/Prism-Shadow/penguin-harness?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/n8n-io/n8n?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (3,318 stars/reactions)",
+        "Active community traction (212,070 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1218,22 +1218,22 @@
     },
     {
       "id": "ai-10",
-      "slug": "zeroclaw-labs-zeroclaw-ai10",
+      "slug": "openclaw-openclaw-ai10",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "zeroclaw-labs/zeroclaw",
-      "subtitle": "GitHub AI • Rust • 33,607 signals",
-      "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
-      "badge": "★ 33,607",
-      "metricPrimary": "Rust",
-      "metricSecondary": "33,607 Stars/Reactions",
+      "title": "openclaw/openclaw",
+      "subtitle": "GitHub AI • TypeScript • 395,171 signals",
+      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
+      "badge": "★ 395,171",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "395,171 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 33607,
+      "ratingScore": 395171,
       "thumb": "",
-      "outboundUrl": "https://github.com/zeroclaw-labs/zeroclaw?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/openclaw/openclaw?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (33,607 stars/reactions)",
+        "Active community traction (395,171 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1245,22 +1245,22 @@
     },
     {
       "id": "ai-11",
-      "slug": "macro-inc-macro-ai11",
+      "slug": "dimthink-priceai-ai11",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "macro-inc/macro",
-      "subtitle": "GitHub AI • Rust • 6,468 signals",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "badge": "★ 6,468",
-      "metricPrimary": "Rust",
-      "metricSecondary": "6,468 Stars/Reactions",
+      "title": "dimthink/PriceAI",
+      "subtitle": "GitHub AI • TypeScript • 6,046 signals",
+      "description": "AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。",
+      "badge": "★ 6,046",
+      "metricPrimary": "TypeScript",
+      "metricSecondary": "6,046 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 6468,
+      "ratingScore": 6046,
       "thumb": "",
-      "outboundUrl": "https://github.com/macro-inc/macro?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/dimthink/PriceAI?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (6,468 stars/reactions)",
+        "Active community traction (6,046 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1272,22 +1272,22 @@
     },
     {
       "id": "ai-12",
-      "slug": "kortix-ai-companyos-ai12",
+      "slug": "debpalash-voicestudio-ai12",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "kortix-ai/CompanyOS",
-      "subtitle": "GitHub AI • TypeScript • 20,793 signals",
-      "description": "Kortix CompanyOS – the open-source operating system for the AI-native company. Connect every data source, orchestrate agents, and keep their skills, memory and connectors in one git repo you own. Any model, in our cloud or yours.",
-      "badge": "★ 20,793",
-      "metricPrimary": "TypeScript",
-      "metricSecondary": "20,793 Stars/Reactions",
+      "title": "debpalash/VoiceStudio",
+      "subtitle": "GitHub AI • Python • 117,978 signals",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "badge": "★ 117,978",
+      "metricPrimary": "Python",
+      "metricSecondary": "117,978 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 20793,
+      "ratingScore": 117978,
       "thumb": "",
-      "outboundUrl": "https://github.com/kortix-ai/CompanyOS?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/debpalash/VoiceStudio?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (20,793 stars/reactions)",
+        "Active community traction (117,978 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1299,22 +1299,22 @@
     },
     {
       "id": "ai-13",
-      "slug": "openclaw-openclaw-ai13",
+      "slug": "openvinotoolkit-openvino-ai13",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "openclaw/openclaw",
-      "subtitle": "GitHub AI • TypeScript • 395,160 signals",
-      "description": "The AI that really does things. Any OS. Any Platform. The lobster way. 🦞 ",
-      "badge": "★ 395,160",
-      "metricPrimary": "TypeScript",
-      "metricSecondary": "395,160 Stars/Reactions",
+      "title": "openvinotoolkit/openvino",
+      "subtitle": "GitHub AI • C++ • 12,534 signals",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
+      "badge": "★ 12,534",
+      "metricPrimary": "C++",
+      "metricSecondary": "12,534 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 395160,
+      "ratingScore": 12534,
       "thumb": "",
-      "outboundUrl": "https://github.com/openclaw/openclaw?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/openvinotoolkit/openvino?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (395,160 stars/reactions)",
+        "Active community traction (12,534 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1326,22 +1326,22 @@
     },
     {
       "id": "ai-14",
-      "slug": "open-webui-open-webui-ai14",
+      "slug": "docling-project-docling-ai14",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "open-webui/open-webui",
-      "subtitle": "GitHub AI • Svelte • 159,442 signals",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "badge": "★ 159,442",
-      "metricPrimary": "Svelte",
-      "metricSecondary": "159,442 Stars/Reactions",
+      "title": "docling-project/docling",
+      "subtitle": "GitHub AI • Python • 71,005 signals",
+      "description": "Get your documents ready for gen AI",
+      "badge": "★ 71,005",
+      "metricPrimary": "Python",
+      "metricSecondary": "71,005 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 159442,
+      "ratingScore": 71005,
       "thumb": "",
-      "outboundUrl": "https://github.com/open-webui/open-webui?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/docling-project/docling?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (159,442 stars/reactions)",
+        "Active community traction (71,005 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1353,22 +1353,22 @@
     },
     {
       "id": "ai-15",
-      "slug": "supabase-supabase-ai15",
+      "slug": "mastra-ai-mastra-ai15",
       "category": "ai",
       "categoryLabel": "GitHub AI",
-      "title": "supabase/supabase",
-      "subtitle": "GitHub AI • TypeScript • 115,390 signals",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "badge": "★ 115,390",
+      "title": "mastra-ai/mastra",
+      "subtitle": "GitHub AI • TypeScript • 29,809 signals",
+      "description": "Mastra is the modern TypeScript framework for AI-powered applications and agents.",
+      "badge": "★ 29,809",
       "metricPrimary": "TypeScript",
-      "metricSecondary": "115,390 Stars/Reactions",
+      "metricSecondary": "29,809 Stars/Reactions",
       "ratingText": "GitHub AI",
-      "ratingScore": 115390,
+      "ratingScore": 29809,
       "thumb": "",
-      "outboundUrl": "https://github.com/supabase/supabase?utm_source=autopulse&utm_medium=ai-radar",
+      "outboundUrl": "https://github.com/mastra-ai/mastra?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (115,390 stars/reactions)",
+        "Active community traction (29,809 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1438,18 +1438,18 @@
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Tell us your story, and we might read it on the CodeNewbie Podcast 🎙️",
-      "subtitle": "Dev.to AI • codenewbie, ai • 52 signals",
+      "subtitle": "Dev.to AI • codenewbie, ai • 54 signals",
       "description": "Hi! I’m Lauren 👩🏼‍💻, the new host of the CodeNewbie Podcast, and I’d love to hear your...",
-      "badge": "♥ 52",
+      "badge": "♥ 54",
       "metricPrimary": "codenewbie, ai",
-      "metricSecondary": "52 Stars/Reactions",
+      "metricSecondary": "54 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 52,
+      "ratingScore": 54,
       "thumb": "",
       "outboundUrl": "https://dev.to/codenewbie/tell-us-your-story-and-we-might-read-it-on-the-codenewbie-podcast-2840?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (52 stars/reactions)",
+        "Active community traction (54 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1465,18 +1465,18 @@
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "I can't believe the podcast I learned to code with is back!",
-      "subtitle": "Dev.to AI • codenewbie, podcast • 41 signals",
+      "subtitle": "Dev.to AI • codenewbie, podcast • 42 signals",
       "description": "Hi friends! 👋   Okay, storytime 🎬 Felt the urge to share this here too, since DEV is where it all...",
-      "badge": "♥ 41",
+      "badge": "♥ 42",
       "metricPrimary": "codenewbie, podcast",
-      "metricSecondary": "41 Stars/Reactions",
+      "metricSecondary": "42 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 41,
+      "ratingScore": 42,
       "thumb": "",
       "outboundUrl": "https://dev.to/codenewbie/i-cant-believe-the-podcast-i-learned-to-code-with-is-back-2gi5?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (41 stars/reactions)",
+        "Active community traction (42 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1573,18 +1573,18 @@
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Dead Keys: I Brought Back the Typing Games. Kiro Did the Heavy Lifting.",
-      "subtitle": "Dev.to AI • ai, kiro • 74 signals",
+      "subtitle": "Dev.to AI • ai, kiro • 77 signals",
       "description": "The keys you miss become the lesson.   TL;DR: Dead Keys is my entry for the Kiroween 2026 hackathon,...",
-      "badge": "♥ 74",
+      "badge": "♥ 77",
       "metricPrimary": "ai, kiro",
-      "metricSecondary": "74 Stars/Reactions",
+      "metricSecondary": "77 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 74,
+      "ratingScore": 77,
       "thumb": "",
       "outboundUrl": "https://dev.to/earlgreyhot1701d/dead-keys-i-brought-back-the-typing-games-kiro-did-the-heavy-lifting-5gc2?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (74 stars/reactions)",
+        "Active community traction (77 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1627,18 +1627,18 @@
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Proofreader vs. Rewriter vs. Prompt API: Test the Task, Not the Demo",
-      "subtitle": "Dev.to AI • webdev, ai • 37 signals",
+      "subtitle": "Dev.to AI • webdev, ai • 40 signals",
       "description": "“Make this message better” is not one task. It can mean correcting a spelling mistake, changing the...",
-      "badge": "♥ 37",
+      "badge": "♥ 40",
       "metricPrimary": "webdev, ai",
-      "metricSecondary": "37 Stars/Reactions",
+      "metricSecondary": "40 Stars/Reactions",
       "ratingText": "Dev.to AI",
-      "ratingScore": 37,
+      "ratingScore": 40,
       "thumb": "",
       "outboundUrl": "https://dev.to/gde/proofreader-vs-rewriter-vs-prompt-api-test-the-task-not-the-demo-pi9?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Active community traction (37 stars/reactions)",
+        "Active community traction (40 stars/reactions)",
         "Zero upfront license cost to inspect and prototype",
         "Easily pairable with cloud cron jobs and serverless automation"
       ],
@@ -1650,34 +1650,7 @@
     },
     {
       "id": "ai-26",
-      "slug": "i-made-my-rag-safer-it-got-worse-under-load-ai26",
-      "category": "ai",
-      "categoryLabel": "Dev.to AI",
-      "title": "I Made My RAG Safer. It Got Worse Under Load",
-      "subtitle": "Dev.to AI • ai, rag • 61 signals",
-      "description": "RAG isn't dead, but unverified RAG should be. Here's what checking every sentence actually cost me on...",
-      "badge": "♥ 61",
-      "metricPrimary": "ai, rag",
-      "metricSecondary": "61 Stars/Reactions",
-      "ratingText": "Dev.to AI",
-      "ratingScore": 61,
-      "thumb": "",
-      "outboundUrl": "https://dev.to/ayush_singh_9b0d83152be5b/i-made-my-rag-safer-it-got-worse-under-load-3olm?utm_source=autopulse&utm_medium=ai-radar",
-      "partnerLinks": [],
-      "pros": [
-        "Active community traction (61 stars/reactions)",
-        "Zero upfront license cost to inspect and prototype",
-        "Easily pairable with cloud cron jobs and serverless automation"
-      ],
-      "cons": [
-        "Requires basic configuration or hosting environment",
-        "Open-source tools move fast — verify version compatibility"
-      ],
-      "hasDetailPage": false
-    },
-    {
-      "id": "ai-27",
-      "slug": "can-a-plain-table-hijack-an-ai-agent-ai27",
+      "slug": "can-a-plain-table-hijack-an-ai-agent-ai26",
       "category": "ai",
       "categoryLabel": "Dev.to AI",
       "title": "Can a plain table hijack an AI agent?",
@@ -1703,24 +1676,51 @@
       "hasDetailPage": false
     },
     {
-      "id": "job-1",
-      "slug": "account-executive-product-sales-specialist-identity-germany-rubr-job1",
-      "category": "job",
-      "categoryLabel": "Remote Job",
-      "title": "Account Executive, Product Sales Specialist (Identity) - Germany",
-      "subtitle": "Rubrik • Remote (Remote)",
-      "description": "Hiring at Rubrik (Remote (Remote)). Skills & tags: Sales.",
-      "badge": "REMOTE",
-      "metricPrimary": "Rubrik",
-      "metricSecondary": "Remote (Remote)",
-      "ratingText": "Sales",
-      "ratingScore": 90,
+      "id": "ai-27",
+      "slug": "i-made-my-rag-safer-it-got-worse-under-load-ai27",
+      "category": "ai",
+      "categoryLabel": "Dev.to AI",
+      "title": "I Made My RAG Safer. It Got Worse Under Load",
+      "subtitle": "Dev.to AI • ai, rag • 62 signals",
+      "description": "RAG isn't dead, but unverified RAG should be. Here's what checking every sentence actually cost me on...",
+      "badge": "♥ 62",
+      "metricPrimary": "ai, rag",
+      "metricSecondary": "62 Stars/Reactions",
+      "ratingText": "Dev.to AI",
+      "ratingScore": 62,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/rubrik/remote-account-executive-product-sales-specialist-identity-germany-160654?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://dev.to/ayush_singh_9b0d83152be5b/i-made-my-rag-safer-it-got-worse-under-load-3olm?utm_source=autopulse&utm_medium=ai-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at Rubrik",
-        "Tagged stack: Sales",
+        "Active community traction (62 stars/reactions)",
+        "Zero upfront license cost to inspect and prototype",
+        "Easily pairable with cloud cron jobs and serverless automation"
+      ],
+      "cons": [
+        "Requires basic configuration or hosting environment",
+        "Open-source tools move fast — verify version compatibility"
+      ],
+      "hasDetailPage": false
+    },
+    {
+      "id": "job-1",
+      "slug": "senior-social-media-manager-in-gn-intermate-media-gmbh-job1",
+      "category": "job",
+      "categoryLabel": "Remote Job",
+      "title": "(Senior) Social Media Manager:in (gn)",
+      "subtitle": "Intermate Media GmbH • Remote (Berlin)",
+      "description": "Hiring at Intermate Media GmbH (Remote (Berlin)). Skills & tags: Remote, Marketing and Communication.",
+      "badge": "REMOTE",
+      "metricPrimary": "Intermate Media GmbH",
+      "metricSecondary": "Remote (Berlin)",
+      "ratingText": "Remote • Marketing and Communication",
+      "ratingScore": 90,
+      "thumb": "",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/intermate-media-gmbh/senior-social-media-managerin-gn-berlin-310778?utm_source=autopulse&utm_medium=jobs-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Direct application listing at Intermate Media GmbH",
+        "Tagged stack: Remote, Marketing and Communication",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -1731,23 +1731,23 @@
     },
     {
       "id": "job-2",
-      "slug": "no-code-developer-m-w-d-bubble-io-100-remote-alpha-software-gmbh-job2",
+      "slug": "founders-associate-pflichtpraktikum-all-genders-code-gaia-job2",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "No-Code Developer (m/w/d) | Bubble.io | 100 % Remote",
-      "subtitle": "ALPHA Software GmbH • Remote (Berlin)",
-      "description": "Hiring at ALPHA Software GmbH (Remote (Berlin)). Skills & tags: Remote, Software Development.",
+      "title": "Founders Associate Pflichtpraktikum (all genders)",
+      "subtitle": "Code Gaia • Remote (Berlin)",
+      "description": "Hiring at Code Gaia (Remote (Berlin)). Skills & tags: Remote, Business Development.",
       "badge": "REMOTE",
-      "metricPrimary": "ALPHA Software GmbH",
+      "metricPrimary": "Code Gaia",
       "metricSecondary": "Remote (Berlin)",
-      "ratingText": "Remote • Software Development",
+      "ratingText": "Remote • Business Development",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/alpha-software-gmbh/no-code-developer-bubbleio-100-remote-berlin-260267?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/code-gaia/founders-associate-pflichtpraktikum-all-genders-berlin-448134?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at ALPHA Software GmbH",
-        "Tagged stack: Remote, Software Development",
+        "Direct application listing at Code Gaia",
+        "Tagged stack: Remote, Business Development",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -1758,23 +1758,23 @@
     },
     {
       "id": "job-3",
-      "slug": "delivery-lead-ki-programme-m-w-d-neurawork-gmbh-co-kg-job3",
+      "slug": "accountant-all-genders-code-gaia-job3",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Delivery Lead KI-Programme (m/w/d)",
-      "subtitle": "Neurawork GmbH & Co. KG • Remote (Berlin)",
-      "description": "Hiring at Neurawork GmbH & Co. KG (Remote (Berlin)). Skills & tags: Remote, Project Management.",
+      "title": "Accountant (all genders)",
+      "subtitle": "Code Gaia • Remote (Berlin)",
+      "description": "Hiring at Code Gaia (Remote (Berlin)). Skills & tags: Remote, Finance.",
       "badge": "REMOTE",
-      "metricPrimary": "Neurawork GmbH & Co. KG",
+      "metricPrimary": "Code Gaia",
       "metricSecondary": "Remote (Berlin)",
-      "ratingText": "Remote • Project Management",
+      "ratingText": "Remote • Finance",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/neurawork-gmbh-co-kg/delivery-lead-ki-programme-berlin-383850?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/code-gaia/accountant-all-genders-berlin-53663?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at Neurawork GmbH & Co. KG",
-        "Tagged stack: Remote, Project Management",
+        "Direct application listing at Code Gaia",
+        "Tagged stack: Remote, Finance",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -1785,23 +1785,23 @@
     },
     {
       "id": "job-4",
-      "slug": "partner-m-w-d-f-r-interim-manager-und-berater-mandate-im-retaine-job4",
+      "slug": "senior-gtm-engineer-m-w-d-boardwise-gmbh-job4",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Partner(m/w/d): Für Interim Manager und Berater: Mandate im Retainer statt Projekte im Tagessatz",
-      "subtitle": "VOVOI GmbH • Remote (Berlin)",
-      "description": "Hiring at VOVOI GmbH (Remote (Berlin)). Skills & tags: Remote, Business Consulting.",
+      "title": "(Senior) GTM-Engineer (m/w/d)",
+      "subtitle": "Boardwise GmbH • Remote (Berlin)",
+      "description": "Hiring at Boardwise GmbH (Remote (Berlin)). Skills & tags: Remote, Marketing and Communication.",
       "badge": "REMOTE",
-      "metricPrimary": "VOVOI GmbH",
+      "metricPrimary": "Boardwise GmbH",
       "metricSecondary": "Remote (Berlin)",
-      "ratingText": "Remote • Business Consulting",
+      "ratingText": "Remote • Marketing and Communication",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/vovoi-gmbh/partner-fur-interim-manager-und-berater-mandate-im-retainer-statt-projekte-im-tagessatz-berlin-420246?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-gtm-engineer-berlin-164519?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at VOVOI GmbH",
-        "Tagged stack: Remote, Business Consulting",
+        "Direct application listing at Boardwise GmbH",
+        "Tagged stack: Remote, Marketing and Communication",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -1812,130 +1812,22 @@
     },
     {
       "id": "job-5",
-      "slug": "software-engineer-core-constructor-job5",
+      "slug": "l1-reports-engineer-m-w-d-boardwise-gmbh-job5",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Software Engineer: Core",
-      "subtitle": "Constructor • Remote (Remote)",
-      "description": "Hiring at Constructor (Remote (Remote)). Skills & tags: Engineering.",
+      "title": "L1- Reports Engineer (m/w/d)",
+      "subtitle": "Boardwise GmbH • Remote (Berlin)",
+      "description": "Hiring at Boardwise GmbH (Remote (Berlin)). Skills & tags: Remote, Customer Service.",
       "badge": "REMOTE",
-      "metricPrimary": "Constructor",
-      "metricSecondary": "Remote (Remote)",
-      "ratingText": "Engineering",
-      "ratingScore": 90,
-      "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-software-engineer-core-180673?utm_source=autopulse&utm_medium=jobs-radar",
-      "partnerLinks": [],
-      "pros": [
-        "Direct application listing at Constructor",
-        "Tagged stack: Engineering",
-        "Updated automatically every 6 hours"
-      ],
-      "cons": [
-        "Competitive global applicant pool — tailor resume keywords",
-        "Check timezone overlap requirements before applying"
-      ],
-      "hasDetailPage": true
-    },
-    {
-      "id": "job-6",
-      "slug": "senior-business-analyst-data-process-transformation-coopers-grou-job6",
-      "category": "job",
-      "categoryLabel": "Remote Job",
-      "title": "Senior Business Analyst (Data & Process Transformation)",
-      "subtitle": "Coopers Group AG • Remote (Bern)",
-      "description": "Hiring at Coopers Group AG (Remote (Bern)). Skills & tags: Remote, Consulting, Engineering.",
-      "badge": "REMOTE",
-      "metricPrimary": "Coopers Group AG",
-      "metricSecondary": "Remote (Bern)",
-      "ratingText": "Remote • Consulting • Engineering",
-      "ratingScore": 90,
-      "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/senior-business-analyst-data-process-transformation-bern-221671?utm_source=autopulse&utm_medium=jobs-radar",
-      "partnerLinks": [],
-      "pros": [
-        "Direct application listing at Coopers Group AG",
-        "Tagged stack: Remote, Consulting, Engineering",
-        "Updated automatically every 6 hours"
-      ],
-      "cons": [
-        "Competitive global applicant pool — tailor resume keywords",
-        "Check timezone overlap requirements before applying"
-      ],
-      "hasDetailPage": true
-    },
-    {
-      "id": "job-7",
-      "slug": "freelancer-group-fitness-instructor-m-w-d-puregym-ag-job7",
-      "category": "job",
-      "categoryLabel": "Remote Job",
-      "title": "Freelancer - Group Fitness Instructor (m/w/d)",
-      "subtitle": "PureGym AG • Remote (Homeoffice)",
-      "description": "Hiring at PureGym AG (Remote (Homeoffice)). Skills & tags: Live Group Fitness, Remote.",
-      "badge": "REMOTE",
-      "metricPrimary": "PureGym AG",
-      "metricSecondary": "Remote (Homeoffice)",
-      "ratingText": "Live Group Fitness • Remote",
-      "ratingScore": 90,
-      "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.ch/jobs/companies/puregym-ag/remote-freelancer-group-fitness-instructor-cornavin-462282?utm_source=autopulse&utm_medium=jobs-radar",
-      "partnerLinks": [],
-      "pros": [
-        "Direct application listing at PureGym AG",
-        "Tagged stack: Live Group Fitness, Remote",
-        "Updated automatically every 6 hours"
-      ],
-      "cons": [
-        "Competitive global applicant pool — tailor resume keywords",
-        "Check timezone overlap requirements before applying"
-      ],
-      "hasDetailPage": true
-    },
-    {
-      "id": "job-8",
-      "slug": "pki-iam-engineer-coopers-group-ag-job8",
-      "category": "job",
-      "categoryLabel": "Remote Job",
-      "title": "PKI & IAM Engineer",
-      "subtitle": "Coopers Group AG • Remote (Zürich)",
-      "description": "Hiring at Coopers Group AG (Remote (Zürich)). Skills & tags: Remote, IT Security.",
-      "badge": "REMOTE",
-      "metricPrimary": "Coopers Group AG",
-      "metricSecondary": "Remote (Zürich)",
-      "ratingText": "Remote • IT Security",
-      "ratingScore": 90,
-      "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/pki-iam-engineer-zurich-300405?utm_source=autopulse&utm_medium=jobs-radar",
-      "partnerLinks": [],
-      "pros": [
-        "Direct application listing at Coopers Group AG",
-        "Tagged stack: Remote, IT Security",
-        "Updated automatically every 6 hours"
-      ],
-      "cons": [
-        "Competitive global applicant pool — tailor resume keywords",
-        "Check timezone overlap requirements before applying"
-      ],
-      "hasDetailPage": true
-    },
-    {
-      "id": "job-9",
-      "slug": "customer-operations-specialist-coopers-group-ag-job9",
-      "category": "job",
-      "categoryLabel": "Remote Job",
-      "title": "Customer Operations Specialist",
-      "subtitle": "Coopers Group AG • Remote (Zürich)",
-      "description": "Hiring at Coopers Group AG (Remote (Zürich)). Skills & tags: Remote, Customer Service.",
-      "badge": "REMOTE",
-      "metricPrimary": "Coopers Group AG",
-      "metricSecondary": "Remote (Zürich)",
+      "metricPrimary": "Boardwise GmbH",
+      "metricSecondary": "Remote (Berlin)",
       "ratingText": "Remote • Customer Service",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/customer-operations-specialist-zurich-373145?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/l1-reports-engineer-berlin-411198?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at Coopers Group AG",
+        "Direct application listing at Boardwise GmbH",
         "Tagged stack: Remote, Customer Service",
         "Updated automatically every 6 hours"
       ],
@@ -1946,23 +1838,131 @@
       "hasDetailPage": true
     },
     {
-      "id": "job-10",
-      "slug": "solution-architect-customer-touchpoints-cloud-transformation-coo-job10",
+      "id": "job-6",
+      "slug": "seo-manager-m-f-d-we-love-x-gmbh-job6",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Solution Architect Customer Touchpoints & Cloud Transformation",
-      "subtitle": "Coopers Group AG • Remote (Zürich)",
-      "description": "Hiring at Coopers Group AG (Remote (Zürich)). Skills & tags: Remote, Software Development.",
+      "title": "SEO Manager (m/f/d)",
+      "subtitle": "We Love X GmbH • Remote (Berlin)",
+      "description": "Hiring at We Love X GmbH (Remote (Berlin)). Skills & tags: Remote, Online Marketing.",
       "badge": "REMOTE",
-      "metricPrimary": "Coopers Group AG",
-      "metricSecondary": "Remote (Zürich)",
+      "metricPrimary": "We Love X GmbH",
+      "metricSecondary": "Remote (Berlin)",
+      "ratingText": "Remote • Online Marketing",
+      "ratingScore": 90,
+      "thumb": "",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/we-love-x-gmbh/seo-manager-berlin-139019?utm_source=autopulse&utm_medium=jobs-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Direct application listing at We Love X GmbH",
+        "Tagged stack: Remote, Online Marketing",
+        "Updated automatically every 6 hours"
+      ],
+      "cons": [
+        "Competitive global applicant pool — tailor resume keywords",
+        "Check timezone overlap requirements before applying"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "job-7",
+      "slug": "senior-customer-success-manager-m-f-d-boardwise-gmbh-job7",
+      "category": "job",
+      "categoryLabel": "Remote Job",
+      "title": "Senior Customer Success Manager (m/f/d)",
+      "subtitle": "Boardwise GmbH • Remote (Berlin)",
+      "description": "Hiring at Boardwise GmbH (Remote (Berlin)). Skills & tags: Remote, Customer Service.",
+      "badge": "REMOTE",
+      "metricPrimary": "Boardwise GmbH",
+      "metricSecondary": "Remote (Berlin)",
+      "ratingText": "Remote • Customer Service",
+      "ratingScore": 90,
+      "thumb": "",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/boardwise-gmbh/senior-customer-success-manager-berlin-90901?utm_source=autopulse&utm_medium=jobs-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Direct application listing at Boardwise GmbH",
+        "Tagged stack: Remote, Customer Service",
+        "Updated automatically every 6 hours"
+      ],
+      "cons": [
+        "Competitive global applicant pool — tailor resume keywords",
+        "Check timezone overlap requirements before applying"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "job-8",
+      "slug": "didn-t-find-a-suitable-position-show-us-what-you-ve-got-with-an--job8",
+      "category": "job",
+      "categoryLabel": "Remote Job",
+      "title": "Didn't find a suitable position? – Show Us What You’ve Got with an Unsolicited Application!",
+      "subtitle": "Amperecloud GmbH • Remote (Berlin)",
+      "description": "Hiring at Amperecloud GmbH (Remote (Berlin)). Skills & tags: Remote, IT.",
+      "badge": "REMOTE",
+      "metricPrimary": "Amperecloud GmbH",
+      "metricSecondary": "Remote (Berlin)",
+      "ratingText": "Remote • IT",
+      "ratingScore": 90,
+      "thumb": "",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/didnt-find-a-suitable-position-show-us-what-youve-got-with-an-unsolicited-application-berlin-371019?utm_source=autopulse&utm_medium=jobs-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Direct application listing at Amperecloud GmbH",
+        "Tagged stack: Remote, IT",
+        "Updated automatically every 6 hours"
+      ],
+      "cons": [
+        "Competitive global applicant pool — tailor resume keywords",
+        "Check timezone overlap requirements before applying"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "job-9",
+      "slug": "vertriebsmitarbeiter-kreditvermittlung-im-homeoffice-w-m-d-ffg-f-job9",
+      "category": "job",
+      "categoryLabel": "Remote Job",
+      "title": "Vertriebsmitarbeiter Kreditvermittlung im Homeoffice (w/m/d)",
+      "subtitle": "FFG FINANZCHECK Finanzportale GmbH • Remote (Berlin)",
+      "description": "Hiring at FFG FINANZCHECK Finanzportale GmbH (Remote (Berlin)). Skills & tags: Remote, Private Banking.",
+      "badge": "REMOTE",
+      "metricPrimary": "FFG FINANZCHECK Finanzportale GmbH",
+      "metricSecondary": "Remote (Berlin)",
+      "ratingText": "Remote • Private Banking",
+      "ratingScore": 90,
+      "thumb": "",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/ffg-finanzcheck-finanzportale-gmbh/vertriebsmitarbeiter-kreditvermittlung-im-homeoffice-berlin-238492?utm_source=autopulse&utm_medium=jobs-radar",
+      "partnerLinks": [],
+      "pros": [
+        "Direct application listing at FFG FINANZCHECK Finanzportale GmbH",
+        "Tagged stack: Remote, Private Banking",
+        "Updated automatically every 6 hours"
+      ],
+      "cons": [
+        "Competitive global applicant pool — tailor resume keywords",
+        "Check timezone overlap requirements before applying"
+      ],
+      "hasDetailPage": true
+    },
+    {
+      "id": "job-10",
+      "slug": "initiativbewerbung-m-w-d-nitrado-marbis-gmbh-job10",
+      "category": "job",
+      "categoryLabel": "Remote Job",
+      "title": "Initiativbewerbung (m/w/d)",
+      "subtitle": "Nitrado (marbis GmbH) • Remote (Berlin)",
+      "description": "Hiring at Nitrado (marbis GmbH) (Remote (Berlin)). Skills & tags: Remote, Software Development.",
+      "badge": "REMOTE",
+      "metricPrimary": "Nitrado (marbis GmbH)",
+      "metricSecondary": "Remote (Berlin)",
       "ratingText": "Remote • Software Development",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/solution-architect-customer-touchpoints-cloud-transformation-zurich-258035?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/nitrado-marbis-gmbh/initiativbewerbung-berlin-422658?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at Coopers Group AG",
+        "Direct application listing at Nitrado (marbis GmbH)",
         "Tagged stack: Remote, Software Development",
         "Updated automatically every 6 hours"
       ],
@@ -1974,23 +1974,23 @@
     },
     {
       "id": "job-11",
-      "slug": "founding-account-executive-benelux-advertising-brands-agencies-p-job11",
+      "slug": "initiativbewerbung-leafworks-gmbh-job11",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Founding Account Executive, Benelux — Advertising (Brands, Agencies, Platforms)",
-      "subtitle": "Higgsfield • Remote (Remote)",
-      "description": "Hiring at Higgsfield (Remote (Remote)). Skills & tags: Marketing & Sales.",
+      "title": "Initiativbewerbung",
+      "subtitle": "Leafworks GmbH • Remote (Berlin)",
+      "description": "Hiring at Leafworks GmbH (Remote (Berlin)). Skills & tags: Remote, Software Development.",
       "badge": "REMOTE",
-      "metricPrimary": "Higgsfield",
-      "metricSecondary": "Remote (Remote)",
-      "ratingText": "Marketing & Sales",
+      "metricPrimary": "Leafworks GmbH",
+      "metricSecondary": "Remote (Berlin)",
+      "ratingText": "Remote • Software Development",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.nl/jobs/companies/higgsfield/founding-account-executive-benelux-advertising-brands-agencies-platforms-amsterdam-143578?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/leafworks-gmbh/initiativbewerbung-berlin-334608?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at Higgsfield",
-        "Tagged stack: Marketing & Sales",
+        "Direct application listing at Leafworks GmbH",
+        "Tagged stack: Remote, Software Development",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -2001,23 +2001,23 @@
     },
     {
       "id": "job-12",
-      "slug": "staff-product-engineer-saas-remote-publitas-com-b-v-job12",
+      "slug": "it-consultant-m-w-d-leafworks-gmbh-job12",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Staff Product Engineer ( SaaS / Remote )",
-      "subtitle": "Publitas.com B.V. • Remote (Remote job)",
-      "description": "Hiring at Publitas.com B.V. (Remote (Remote job)). Skills & tags: Product, Remote.",
+      "title": "IT-Consultant (m/w/d)",
+      "subtitle": "Leafworks GmbH • Remote (Berlin)",
+      "description": "Hiring at Leafworks GmbH (Remote (Berlin)). Skills & tags: Remote, Consulting, Engineering.",
       "badge": "REMOTE",
-      "metricPrimary": "Publitas.com B.V.",
-      "metricSecondary": "Remote (Remote job)",
-      "ratingText": "Product • Remote",
+      "metricPrimary": "Leafworks GmbH",
+      "metricSecondary": "Remote (Berlin)",
+      "ratingText": "Remote • Consulting • Engineering",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.nl/jobs/companies/publitascom-bv/staff-product-engineer-saas-remote-amsterdam-176256?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/leafworks-gmbh/it-consultant-berlin-321822?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at Publitas.com B.V.",
-        "Tagged stack: Product, Remote",
+        "Direct application listing at Leafworks GmbH",
+        "Tagged stack: Remote, Consulting, Engineering",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -2028,23 +2028,23 @@
     },
     {
       "id": "job-13",
-      "slug": "app-testers-wanted-in-the-netherlands-tester-work-job13",
+      "slug": "regulatory-manager-senior-regulatory-manager-precisionmedicinegr-job13",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "App Testers wanted in the Netherlands!",
-      "subtitle": "Tester Work • Remote (Remote job)",
-      "description": "Hiring at Tester Work (Remote (Remote job)). Skills & tags: QA Testing, Remote.",
+      "title": "Regulatory Manager / Senior Regulatory Manager",
+      "subtitle": "Precisionmedicinegroup • Remote (Remote)",
+      "description": "Hiring at Precisionmedicinegroup (Remote (Remote)). Skills & tags: Clinical Solutions.",
       "badge": "REMOTE",
-      "metricPrimary": "Tester Work",
-      "metricSecondary": "Remote (Remote job)",
-      "ratingText": "QA Testing • Remote",
+      "metricPrimary": "Precisionmedicinegroup",
+      "metricSecondary": "Remote (Remote)",
+      "ratingText": "Clinical Solutions",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.nl/jobs/companies/tester-work/remote-app-testers-wanted-in-the-netherlands-valletta-152087?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-regulatory-manager-senior-regulatory-manager-444277?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at Tester Work",
-        "Tagged stack: QA Testing, Remote",
+        "Direct application listing at Precisionmedicinegroup",
+        "Tagged stack: Clinical Solutions",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -2055,23 +2055,23 @@
     },
     {
       "id": "job-14",
-      "slug": "erp-key-user-microtech-b-ro-teamlead-operations-auftragsabwicklu-job14",
+      "slug": "clinical-project-manager-senior-clinical-project-manager-precisi-job14",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "ERP Key User (microtech büro+) / Teamlead Operations – Auftragsabwicklung & Einkauf (m/w/x)",
-      "subtitle": "Epotronic GmbH • Düsseldorf",
-      "description": "Hiring at Epotronic GmbH (Düsseldorf). Skills & tags: SAP/ERP Consulting, Development.",
-      "badge": "TECH",
-      "metricPrimary": "Epotronic GmbH",
-      "metricSecondary": "Düsseldorf",
-      "ratingText": "SAP/ERP Consulting • Development",
+      "title": "Clinical Project Manager / Senior Clinical Project Manager",
+      "subtitle": "Precisionmedicinegroup • Remote (Remote)",
+      "description": "Hiring at Precisionmedicinegroup (Remote (Remote)). Skills & tags: Clinical Solutions.",
+      "badge": "REMOTE",
+      "metricPrimary": "Precisionmedicinegroup",
+      "metricSecondary": "Remote (Remote)",
+      "ratingText": "Clinical Solutions",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/epotronic-gmbh/erp-key-user-microtech-buro-teamlead-operations-auftragsabwicklung-einkauf-dusseldorf-425869?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-clinical-project-manager-senior-clinical-project-manager-136716?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at Epotronic GmbH",
-        "Tagged stack: SAP/ERP Consulting, Development",
+        "Direct application listing at Precisionmedicinegroup",
+        "Tagged stack: Clinical Solutions",
         "Updated automatically every 6 hours"
       ],
       "cons": [
@@ -2082,23 +2082,23 @@
     },
     {
       "id": "job-15",
-      "slug": "site-reliability-engineer-ai-assisted-platform-opcp-m-f-d-gridsc-job15",
+      "slug": "senior-marketer-ai-expert-remote-emea-weekday-1-job15",
       "category": "job",
       "categoryLabel": "Remote Job",
-      "title": "Site Reliability Engineer  - AI Assisted Platform (OPCP) (m/f/d)",
-      "subtitle": "gridscale GmbH • Köln",
-      "description": "Hiring at gridscale GmbH (Köln). Skills & tags: Engineering, bachelor's degree.",
-      "badge": "TECH",
-      "metricPrimary": "gridscale GmbH",
-      "metricSecondary": "Köln",
-      "ratingText": "Engineering • bachelor's degree",
+      "title": "Senior Marketer, AI Expert (Remote, EMEA)",
+      "subtitle": "Weekday 1 • Remote (Switzerland)",
+      "description": "Hiring at Weekday 1 (Remote (Switzerland)). Skills & tags: AI Training, Remote.",
+      "badge": "REMOTE",
+      "metricPrimary": "Weekday 1",
+      "metricSecondary": "Remote (Switzerland)",
+      "ratingText": "AI Training • Remote",
       "ratingScore": 90,
       "thumb": "",
-      "outboundUrl": "https://www.arbeitnow.com/jobs/companies/gridscale-gmbh/site-reliability-engineer-ai-assisted-platform-opcp-koln-182318?utm_source=autopulse&utm_medium=jobs-radar",
+      "outboundUrl": "https://www.arbeitnow.ch/jobs/companies/weekday-1/senior-marketer-ai-expert-remote-emea-switzerland-436216?utm_source=autopulse&utm_medium=jobs-radar",
       "partnerLinks": [],
       "pros": [
-        "Direct application listing at gridscale GmbH",
-        "Tagged stack: Engineering, bachelor's degree",
+        "Direct application listing at Weekday 1",
+        "Tagged stack: AI Training, Remote",
         "Updated automatically every 6 hours"
       ],
       "cons": [
